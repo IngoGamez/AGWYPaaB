@@ -1,0 +1,1 @@
+audio_play_sound(menu_seioup, 1000, true)

@@ -1,20 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_options",
-  "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "%Name":"obj_prologue",
+  "eventList":[],
   "managed":true,
-  "name":"obj_options",
+  "name":"obj_prologue",
   "overriddenProperties":[],
   "parent":{
     "name":"MainMenu",
     "path":"folders/Objects/Menus/MainMenu.yy",
   },
-  "parentObjectId":{
-    "name":"obj_button_parent",
-    "path":"objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"options",
-    "path":"sprites/options/options.yy",
+    "name":"prologue",
+    "path":"sprites/prologue/prologue.yy",
   },
   "spriteMaskId":null,
   "visible":true,

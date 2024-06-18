@@ -1,7 +1,9 @@
 {
   "$GMObject":"",
   "%Name":"obj_extras",
-  "eventList":[],
+  "eventList":[
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
   "name":"obj_extras",
   "overriddenProperties":[],
@@ -9,7 +11,10 @@
     "name":"MainMenu",
     "path":"folders/Objects/Menus/MainMenu.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_button_parent",
+    "path":"objects/obj_button_parent/obj_button_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,

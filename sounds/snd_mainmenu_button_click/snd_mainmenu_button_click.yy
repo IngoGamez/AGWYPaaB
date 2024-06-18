@@ -1,6 +1,6 @@
 {
   "$GMSound":"",
-  "%Name":"menu_seioup",
+  "%Name":"snd_mainmenu_button_click",
   "audioGroupId":{
     "name":"audiogroup_default",
     "path":"audiogroups/audiogroup_default",
@@ -9,17 +9,17 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":54.704693,
-  "name":"menu_seioup",
+  "duration":0.15619,
+  "name":"snd_mainmenu_button_click",
   "parent":{
     "name":"mainmenu",
-    "path":"folders/Sounds/music/menus/mainmenu.yy",
+    "path":"folders/Sounds/sfx/menus/mainmenu.yy",
   },
   "preload":false,
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"menu_seioup.wav",
+  "soundFile":"snd_mainmenu_button_click.ogg",
   "type":0,
-  "volume":0.3,
+  "volume":1.0,
 }

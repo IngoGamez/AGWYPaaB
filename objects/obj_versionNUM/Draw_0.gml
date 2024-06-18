@@ -1,1 +1,1 @@
-draw_text(x, y, "The Menu Update - 0.0.1")
+draw_text(x, y, "Video Playback and RPC Update - 0.02")

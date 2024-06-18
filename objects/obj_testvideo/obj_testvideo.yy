@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_prologue",
+  "%Name":"obj_testvideo",
   "eventList":[
-    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_prologue",
+  "name":"obj_testvideo",
   "overriddenProperties":[],
   "parent":{
-    "name":"MainMenu",
-    "path":"folders/Objects/Menus/MainMenu.yy",
+    "name":"cutscenes",
+    "path":"folders/Objects/Prologue/cutscenes.yy",
   },
-  "parentObjectId":{
-    "name":"obj_button_parent",
-    "path":"objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -32,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"prologue",
-    "path":"sprites/prologue/prologue.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

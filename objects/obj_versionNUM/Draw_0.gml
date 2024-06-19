@@ -1,1 +1,1 @@
-draw_text(x, y, "Video Playback and RPC Update - 0.02")
+draw_text(x, y, "The Player Update - 0.03");

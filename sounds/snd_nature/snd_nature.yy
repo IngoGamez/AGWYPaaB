@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_nature",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":82.598145,
+  "name":"snd_nature",
+  "parent":{
+    "name":"prologue",
+    "path":"folders/Sounds/sfx/prologue.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_nature.wav",
+  "type":0,
+  "volume":1.0,
+}

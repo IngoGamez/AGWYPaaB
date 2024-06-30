@@ -1,1 +1,1 @@
-draw_text(x, y, "The Random Bullshit Update! - 0.04");
+draw_text(x, y, "The Bunch of Cool Shit Update - 0.05");

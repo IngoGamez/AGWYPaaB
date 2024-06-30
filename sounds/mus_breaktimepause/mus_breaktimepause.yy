@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_breaktimepause",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":72.17125,
+  "name":"mus_breaktimepause",
+  "parent":{
+    "name":"prologue",
+    "path":"folders/Sounds/sfx/prologue.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_breaktimepause.wav",
+  "type":0,
+  "volume":1.0,
+}

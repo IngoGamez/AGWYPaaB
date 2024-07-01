@@ -1,1 +1,1 @@
-draw_text(x, y, "The Insanity Update - 0.06");
+draw_text(x, y, "The No Longer Insane Update - 0.065");

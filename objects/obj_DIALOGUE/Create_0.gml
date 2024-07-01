@@ -1,8 +1,5 @@
 event_inherited();
 
-//this isn't some dumb meme, I literally can't get bucket to not move during dialogue
-global.eCounter = 0
-
 if (global.curDialogue == 0){
 	dialog.add(bucketIcon, "Test Dialogue");
 	dialog.add(bucketIcon, "This is a moment of all time");

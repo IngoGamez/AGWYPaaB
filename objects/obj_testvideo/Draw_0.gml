@@ -8,6 +8,7 @@ if (_videoStatus == 0)
 if (video_get_status() == video_status_closed)
 {
 	global.curRoom = 1;
+	global.curDialogue = 1;
 	room_goto(rm_room1);
 }
 //it works yay!!!

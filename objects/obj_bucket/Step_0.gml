@@ -1,5 +1,3 @@
-//character pausing and stuff
-
 //movements and animations
 if (global.inDialogue = false){
 	var _right = keyboard_check(ord("D")) or keyboard_check(vk_right);
@@ -41,4 +39,11 @@ if (y > 950){
 	global.curRoom -= 1;
 	y = 20;
 }
-
+if (x < 10){
+	global.curRoom -= 1;
+	x = 1700;
+}
+if (x > 1860){
+	global.curRoom += 1;
+	x = 30;
+}

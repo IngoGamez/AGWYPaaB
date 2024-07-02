@@ -46,14 +46,14 @@ windowPrev	= true;
 
 b		= 1; //selected
 bc		= 0;
-bgap	= 40; //vertical spacing between buttons
+bgap	= 150; //vertical spacing between buttons
 
 
 var	n = 0;
-bstring[ n ]	= " RESUME "; n++;
-//bstring[ n ]	= " RESTART "; n++;
-bstring[ n ]	= " MAINMENU "; n++;
-bstring[ n ]	= " QUIT "; n++;
+bstring[ n ]	= " RESUME GAME "; n++;
+//bstring[ n ]	= " RESTART FROM LAST CHECKPOINT"; n++;
+bstring[ n ]	= " BACK TO MAIN MENU "; n++;
+bstring[ n ]	= " QUIT GAME "; n++;
 bc		= n; //total button count;
 
 

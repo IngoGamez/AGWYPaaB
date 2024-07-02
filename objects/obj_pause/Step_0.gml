@@ -114,6 +114,7 @@ if ( pause ){
 			break;
 			//case 1: // Restart
 				//room_restart();
+				//audio_stop_sound(mus_breaktimepause);
 
 			break;
 			case 1: // MainMenus

@@ -21,4 +21,4 @@ Literally what the title says!
 
 ## Other Stuff
 - [dogdillon - Creator of D-Money](https://twitter.com/dogdillonYT)
-- [whoeverhitme - Voice Acting](https://www.youtube.com/@Whoeverhitme)
+- [whoeverhitme](https://www.youtube.com/@Whoeverhitme)

@@ -19,14 +19,14 @@
   "height":2500,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"fad0df41-087f-4fea-adee-9de46892fb99","blendMode":0,"displayName":"default","isLocked":false,"name":"fad0df41-087f-4fea-adee-9de46892fb99","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"1c38808e-be58-4856-8321-a194c134bc77","blendMode":0,"displayName":"default","isLocked":false,"name":"1c38808e-be58-4856-8321-a194c134bc77","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"bg",
   "nineSlice":null,
-  "origin":4,
+  "origin":9,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/Sprites.yy",
+    "name":"MainMenu",
+    "path":"folders/Sprites/Menus/MainMenu.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

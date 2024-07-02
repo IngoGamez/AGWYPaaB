@@ -18,3 +18,6 @@ if (keyboard_check_pressed(vk_space))
         video_resume();
     }
 } 
+if (global.cutsceneEnable = false){
+	video_close();
+}

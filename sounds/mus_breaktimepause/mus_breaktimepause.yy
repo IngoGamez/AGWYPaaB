@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":72.17125,
+  "duration":100.00608,
   "name":"mus_breaktimepause",
   "parent":{
     "name":"prologue",

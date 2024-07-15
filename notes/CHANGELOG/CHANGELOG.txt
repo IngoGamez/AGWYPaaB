@@ -1,0 +1,96 @@
+lil changelog for those who are curious about the order I added stuff lol
+
+The Gettin' There Update - 0.09
+Added:
+- This changelog!
+- New Bucket Sprite in Level Select Screen
+- New Dialogue System Mock Up
+- New Click Sounds for Options Menu Checkbox
+- New Debug Hub (Accessible by pressing 7 on the main menu!)
+
+Removed:
+- Old Dialogue System
+- Cutscene Toggle
+
+The New Menu Update - 0.08
+
+Added:
+- Fullscreen Toggle
+- Cutscene Toggle
+- Credits Button
+- Source Code Button
+- Website Button
+
+Removed:
+- Menu Music Handler (Caused Bugs)
+
+The Various Things Update - 0.07
+
+Added:
+- New Rooms
+- Volume Controls
+- Data Saves
+- Video Pausing
+- Credits
+- Menu Music Handler
+- 3 New Tracks by KAD
+
+Fixed:
+- Pause Menu Button Names, Spacing, and Offsets
+
+
+The No Longer Insane Update - 0.065
+
+Added:
+- New Pause Menu (Shoutout jasontomlee)
+- Game Restart Hotkey
+
+Fixed:
+- Prototype Dialogue System Bugs
+
+The Insanity Update - 0.06
+
+Added:
+- Prototype Dialogue System
+- Cool New Icons
+
+The Bunch of Cool Shit Update - 0.05
+
+Added:
+- Room Switching
+- Fully Functional Pause Screen
+
+Fixed:
+- Bucket Sprite Images
+- Bucket Walking Sprites
+
+The Random Bullshit Update - 0.04
+
+Added:
+- Level Preview Screen
+- Bucket's Walk Cycles
+- Bucket's Unused Idle Animation
+- Room Art
+
+Fixed:
+- Game Resolution
+- Video Playback Resolution
+
+The Player Update - 0.03
+
+Added:
+- Video Skips
+- The player
+- Prototype Screenshot feature
+
+The Video Playback and RPC Update - 0.02
+
+Added:
+- Video playback for cutscenes
+- Discord RPC
+
+The Menu Update - 0.01
+
+Added:
+- Buttons
+- Cool Sounds

@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_checkbox_release",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":0.840522,
+  "name":"snd_checkbox_release",
+  "parent":{
+    "name":"options",
+    "path":"folders/Sounds/sfx/menus/options.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_checkbox_release.wav",
+  "type":0,
+  "volume":1.0,
+}

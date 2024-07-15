@@ -1,20 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_cutsceneToggle",
+  "%Name":"obj_dialoguePRO",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_cutsceneToggle",
+  "name":"obj_dialoguePRO",
   "overriddenProperties":[],
   "parent":{
-    "name":"Options",
-    "path":"folders/Objects/Menus/Options.yy",
+    "name":"dialogue",
+    "path":"folders/Objects/Prologue/dialogue.yy",
   },
-  "parentObjectId":{
-    "name":"obj_button_parent",
-    "path":"objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -33,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"cutscenesToggle",
-    "path":"sprites/cutscenesToggle/cutscenesToggle.yy",
+    "name":"DIALOGUEBOX",
+    "path":"sprites/DIALOGUEBOX/DIALOGUEBOX.yy",
   },
   "spriteMaskId":null,
   "visible":true,

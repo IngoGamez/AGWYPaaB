@@ -18,8 +18,6 @@ Literally what the title says!
 ## Music
 - [E-Dubz](https://www.youtube.com/@EDubzNG)
 - [KAD](https://killerbunnie93.newgrounds.com/)
-- [DB](https://www.youtube.com/@DBGaming2013)
 
 ## Other Stuff
 - [dogdillon - Creator of D-Money](https://twitter.com/dogdillonYT)
-- [whoeverhitme](https://www.youtube.com/@Whoeverhitme)

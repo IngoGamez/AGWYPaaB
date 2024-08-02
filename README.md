@@ -9,6 +9,7 @@ Literally what the title says!
 
 ## Programming
 - [E-Dubz](https://twitter.com/edubzng)
+- [KAD](https://twitter.com/KBunnie93)
 
 ## Art / Animation
 - [E-Dubz](https://e-dubz.newgrounds.com)

@@ -5,8 +5,3 @@
     - Mod loader
     - Mod menu
     - Various script editing features
-
-2. Add on to combat system
-    - Add parrying
-
-3. Add debug features

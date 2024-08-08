@@ -5,6 +5,10 @@ Literally what the title says!
 - [Play the game on Newgrounds!](https://www.newgrounds.com/portal/view/930725)
 - [Download for desktop!](https://ingogamez.itch.io/agwypaab)
 
+# BEFORE YOU COMPILE
+
+Please Read This Doc For Compiling The Game ---> [Compiling Guide](/docs/COMPILING.md)
+
 # CREDITS
 
 ## Programming
@@ -20,4 +24,5 @@ Literally what the title says!
 - [KAD](https://killerbunnie93.newgrounds.com/)
 
 ## Other Stuff
-- [dogdillon - Creator of D-Money](https://twitter.com/dogdillonYT)
+- [dogdillon - Creator of D-Money and VA for Tutorial Dummy](https://twitter.com/dogdillonYT)
+- [whoeverhitme - VA for Pyro](https://youtube.com/@whoeverhitme)

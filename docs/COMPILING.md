@@ -1,6 +1,6 @@
 # COMPILING THE GAME
 
-# What you need
+# What you need:
 
 # Included Files
 You are going to need a few things before compiling our game. First, you will need to install the datafiles needed. These files can be found here ---> [Google Drive] *add links before launch lol*

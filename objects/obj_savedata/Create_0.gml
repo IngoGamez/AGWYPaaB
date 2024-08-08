@@ -1,3 +1,3 @@
-load_vol();
-load_fullscreen();
-load_cutscene();
+ini_open("data/settings.ini");
+global.fullscreen = ini_read_real("settings", "fullscreen", 0);
+ini_close();

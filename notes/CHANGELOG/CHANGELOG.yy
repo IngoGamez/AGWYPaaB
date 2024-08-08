@@ -4,7 +4,7 @@
   "name":"CHANGELOG",
   "parent":{
     "name":"Notes",
-    "path":"folders/Notes.yy",
+    "path":"folders/Shared/Notes.yy",
   },
   "resourceType":"GMNotes",
   "resourceVersion":"2.0",

@@ -12,8 +12,8 @@
   "duration":120.37325,
   "name":"mus_downfall",
   "parent":{
-    "name":"mainmenu",
-    "path":"folders/Sounds/music/menus/mainmenu.yy",
+    "name":"Music",
+    "path":"folders/Menus/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

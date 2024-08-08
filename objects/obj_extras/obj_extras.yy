@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"MainMenu",
-    "path":"folders/Objects/Menus/MainMenu.yy",
+    "path":"folders/Menus/Objects/MainMenu.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

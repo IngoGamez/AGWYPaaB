@@ -1,6 +1,3 @@
-//obj by jasontomlee
-//modified by E-Dubz
-
 // Easing functions source: http://sol.gfxile.net/interpolation/
 // If you liked this asset, please give it a rating. Thank you! 
 
@@ -19,7 +16,7 @@ gpu_set_tex_filter( false );
 #region  General	
 /////////////////////////////////////////////////////////////////
 
-font	= font_add_sprite( lol, ord(" "), 1, 1);
+font	= font_add_sprite( sfont_jasontomlee, ord(" "), 1, 1);
 draw_set_font( font );
 
 pause		= false;
@@ -32,7 +29,7 @@ screen_alpha_set	= 0;
 
 // Insert your sounds here
 //sound[0] = //Scroll through buttons
-sound[1] = snd_mainmenu_button_click;
+//sound[1] = //Confirm 
 
 // Check if your Window is open/closed
 window		= true;
@@ -46,14 +43,16 @@ windowPrev	= true;
 
 b		= 1; //selected
 bc		= 0;
-bgap	= 150; //vertical spacing between buttons
+bgap	= 40; //vertical spacing between buttons
 
 
 var	n = 0;
 bstring[ n ]	= " RESUME GAME "; n++;
-//bstring[ n ]	= " RESTART FROM LAST CHECKPOINT"; n++;
-bstring[ n ]	= " BACK TO MAIN MENU "; n++;
-bstring[ n ]	= " QUIT GAME "; n++;
+//bstring[ n ]	= " RESTART "; n++;
+bstring[ n ]	= " RETURN TO MAIN MENU "; n++;
+if (os_browser == browser_not_a_browser){
+	bstring[ n ]	= " CLOSE GAME"; n++;
+}
 bc		= n; //total button count;
 
 

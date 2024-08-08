@@ -1,0 +1,1 @@
+audio_play_sound(snd_checkbox_release, 1, false);

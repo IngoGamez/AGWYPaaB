@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"prologue",
-    "path":"folders/Objects/Menus/prologue.yy",
+    "path":"folders/Menus/Objects/prologue.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

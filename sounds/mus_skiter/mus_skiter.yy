@@ -12,8 +12,8 @@
   "duration":118.66571,
   "name":"mus_skiter",
   "parent":{
-    "name":"mainmenu",
-    "path":"folders/Sounds/music/menus/mainmenu.yy",
+    "name":"Music",
+    "path":"folders/Menus/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

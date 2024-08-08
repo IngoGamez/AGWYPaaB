@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Extras",
-    "path":"folders/Objects/Menus/Extras.yy",
+    "path":"folders/Menus/Objects/Extras.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

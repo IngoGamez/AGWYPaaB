@@ -13,7 +13,7 @@
   "name":"snd_checkbox_release",
   "parent":{
     "name":"options",
-    "path":"folders/Sounds/sfx/menus/options.yy",
+    "path":"folders/Menus/SFX/options.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

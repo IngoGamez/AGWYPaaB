@@ -120,7 +120,7 @@
   "name":"lol",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Fonts.yy",
+    "path":"folders/Shared/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

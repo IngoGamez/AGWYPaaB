@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"shared",
-    "path":"folders/Objects/Menus/shared.yy",
+    "path":"folders/Menus/Objects/shared.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

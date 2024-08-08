@@ -1,0 +1,1 @@
+global.timer = global.timer + 1/60;

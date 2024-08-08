@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"levelSelect",
-    "path":"folders/Sprites/Menus/levelSelect.yy",
+    "path":"folders/Menus/Sprites/levelSelect.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

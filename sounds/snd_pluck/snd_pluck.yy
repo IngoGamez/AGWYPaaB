@@ -12,8 +12,8 @@
   "duration":0.296463,
   "name":"snd_pluck",
   "parent":{
-    "name":"sfx",
-    "path":"folders/Sounds/sfx.yy",
+    "name":"SFX",
+    "path":"folders/Shared/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -3,13 +3,14 @@
   "%Name":"obj_versionNUM",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_versionNUM",
   "overriddenProperties":[],
   "parent":{
     "name":"MainMenu",
-    "path":"folders/Objects/Menus/MainMenu.yy",
+    "path":"folders/Menus/Objects/MainMenu.yy",
   },
   "parentObjectId":null,
   "persistent":false,

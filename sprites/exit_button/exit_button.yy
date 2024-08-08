@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"shared",
-    "path":"folders/Sprites/Menus/shared.yy",
+    "path":"folders/Menus/Sprites/shared.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

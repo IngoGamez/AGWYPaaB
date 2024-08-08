@@ -12,8 +12,8 @@
   "duration":54.704693,
   "name":"menu_seioup",
   "parent":{
-    "name":"mainmenu",
-    "path":"folders/Sounds/music/menus/mainmenu.yy",
+    "name":"Music",
+    "path":"folders/Menus/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

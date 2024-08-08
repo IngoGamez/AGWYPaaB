@@ -4,7 +4,7 @@ audio_pause_all();
 audio_play_sound(mus_breaktimepause, 1, true);
 //instance_activate_object( ... ); //Activate persistant objects like Cameras & Controllers!
 
-screen_alpha_set	= 0.8;
+screen_alpha_set	= 1;
 
 
 //Reset Button Values * Put this here to reset the button positions so that they tween when you pause *

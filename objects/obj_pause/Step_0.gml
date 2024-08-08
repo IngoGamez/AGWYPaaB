@@ -1,5 +1,3 @@
-
-
 #region		Set Variables
 ////////////////////////////////////////////////////////////////////////////
 
@@ -124,7 +122,9 @@ if ( pause ){
 
 			break;
 			case 2: // Exit
-				game_end();
+				if (os_browser == browser_not_a_browser){
+					game_end();
+				}
 			break;
 		}
 		}

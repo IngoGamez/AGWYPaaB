@@ -50,8 +50,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"bucket",
-    "path":"folders/Sprites/player/bucket.yy",
+    "name":"Bucket",
+    "path":"folders/Player/Bucket.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

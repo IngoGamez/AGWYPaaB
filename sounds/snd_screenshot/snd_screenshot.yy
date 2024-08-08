@@ -12,8 +12,8 @@
   "duration":0.617732,
   "name":"snd_screenshot",
   "parent":{
-    "name":"sfx",
-    "path":"folders/Sounds/sfx.yy",
+    "name":"SFX",
+    "path":"folders/Shared/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

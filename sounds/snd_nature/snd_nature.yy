@@ -12,8 +12,8 @@
   "duration":82.598145,
   "name":"snd_nature",
   "parent":{
-    "name":"prologue",
-    "path":"folders/Sounds/sfx/prologue.yy",
+    "name":"SFX",
+    "path":"folders/Prologue/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

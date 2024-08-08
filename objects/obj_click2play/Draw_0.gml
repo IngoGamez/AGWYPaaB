@@ -1,0 +1,1 @@
+draw_text(x, y , "Click Anywhere to Start!");

@@ -12,8 +12,8 @@
   "duration":100.00608,
   "name":"mus_breaktimepause",
   "parent":{
-    "name":"prologue",
-    "path":"folders/Sounds/sfx/prologue.yy",
+    "name":"Music",
+    "path":"folders/Shared/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

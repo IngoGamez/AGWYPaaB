@@ -1,0 +1,1 @@
+curButton = 1;

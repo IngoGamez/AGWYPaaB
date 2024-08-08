@@ -13,7 +13,7 @@
   "name":"snd_mainmenu_button_click",
   "parent":{
     "name":"mainmenu",
-    "path":"folders/Sounds/sfx/menus/mainmenu.yy",
+    "path":"folders/Menus/SFX/mainmenu.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

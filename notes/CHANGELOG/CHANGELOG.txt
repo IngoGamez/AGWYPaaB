@@ -1,6 +1,38 @@
 lil changelog for those who are curious about the order I added stuff lol
 
+Straight Outta Alpha - Prerelease  0.1
+
+I haven't pushed to github in a minute so might as well now
+
+Added:
+- New Debug Menu Option - Combat Test
+- New Combat System Prototype (Still needs to be finished)
+- Added Death
+- New Room Switching (the old one put every in game room into one room rather than their own room)
+- New Fade Transition Between Rooms
+- The Rest of the rooms
+- NPCs
+- New Cutscene Drafts In Game!
+- New Low Quality Cutscenes for Web Version
+- New Click to Play Image
+- New Dialogue In Game!
+
+Fixed:
+- Checkbox sound in options menu
+
+Changed:
+- Organized Files in Source Code
+- Pause Menu Font
+- Pyro Cutscene
+- Game Resolution is Now 1280 by 720 (the ng version was massive lol)
+- Made Cutscenes Sprites in the Web Version Rather Than Videos (Video Playback Sucks on Web lmao)
+- Data is Now Saved to an INI file.
+
+Removed:
+- Discord RPC (it'll probably return someday :P)
+
 The Gettin' There Update - 0.09
+
 Added:
 - This changelog!
 - New Bucket Sprite in Level Select Screen

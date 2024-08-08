@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Extras",
-    "path":"folders/Sprites/Menus/Extras.yy",
+    "path":"folders/Menus/Sprites/Extras.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

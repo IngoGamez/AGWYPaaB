@@ -9,8 +9,8 @@
   "name":"obj_dialoguePRO",
   "overriddenProperties":[],
   "parent":{
-    "name":"dialogue",
-    "path":"folders/Objects/Prologue/dialogue.yy",
+    "name":"Objects",
+    "path":"folders/Prologue/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

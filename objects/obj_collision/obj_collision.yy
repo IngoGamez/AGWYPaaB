@@ -2,15 +2,14 @@
   "$GMObject":"",
   "%Name":"obj_collision",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
   "name":"obj_collision",
   "overriddenProperties":[],
   "parent":{
-    "name":"rooms",
-    "path":"folders/Objects/Prologue/rooms.yy",
+    "name":"Objects",
+    "path":"folders/Shared/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -29,11 +28,11 @@
   "properties":[],
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
-  "solid":false,
+  "solid":true,
   "spriteId":{
     "name":"collision",
     "path":"sprites/collision/collision.yy",
   },
   "spriteMaskId":null,
-  "visible":true,
+  "visible":false,
 }

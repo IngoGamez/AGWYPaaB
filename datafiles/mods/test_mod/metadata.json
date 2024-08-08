@@ -1,0 +1,8 @@
+{
+    "title": "Test Mod",
+    "description": "A test to see how Gamemaker reads JSON files!",
+    "author": "E-Dubz",
+    "version": "1.0.0",
+    "hasScripts": true,
+    "hasImages": false
+}

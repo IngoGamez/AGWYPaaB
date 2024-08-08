@@ -2,10 +2,10 @@
 
 # What you need
 
-- Included Files
+# Included Files
 You are going to need a few things before compiling our game. First, you will need to install the datafiles needed. These files can be found here ---> [Google Drive] *add links before launch lol*
 
-- Gamemaker Steam Version
+# Gamemaker Steam Version
 We use the Steam version of Gamemaker, but other versions may work too. If you experience issues using other versions of Gamemaker, try using the steam version, it may resolve those issues.
 
 # Tutorial on Datafiles

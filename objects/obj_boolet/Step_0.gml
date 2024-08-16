@@ -22,3 +22,12 @@ if note_movement = true{
 if y > 672{
 	note_movement = false;
 }
+
+if place_meeting(x, y, obj_bucketInCombat){
+	global.isHit = true;
+	global.hp = global.hp -1;
+	note_movement = false;
+}
+else{
+	global.isHit = false;
+}

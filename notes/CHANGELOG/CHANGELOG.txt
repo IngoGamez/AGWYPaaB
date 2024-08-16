@@ -1,5 +1,11 @@
 lil changelog for those who are curious about the order I added stuff lol
 
+Small Additions and Fixes lol - 0.2
+Added:
+Splash Texts
+Finished Combat System
+Metadata For Stuff Later On.
+
 Straight Outta Alpha - Prerelease  0.1
 
 I haven't pushed to github in a minute so might as well now

@@ -8,6 +8,7 @@ Literally what the title says!
 # BEFORE YOU COMPILE
 
 Please Read This Doc For Compiling The Game ---> [Compiling Guide](/docs/COMPILING.md)
+ALso, Read These Permissions! ---> [PERMISSIONS](/docs/permissions.txt)
 
 # CREDITS
 

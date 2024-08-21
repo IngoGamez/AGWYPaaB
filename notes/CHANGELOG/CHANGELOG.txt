@@ -1,5 +1,12 @@
 lil changelog for those who are curious about the order I added stuff lol
 
+Lil Things Go a Long Way - 0.21
+Added:
+README.txt in game files
+Finished Combat Dodging and Stuff
+Removed:
+Included Files From Source
+
 Small Additions and Fixes lol - 0.2
 Added:
 Splash Texts

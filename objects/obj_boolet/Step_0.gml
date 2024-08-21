@@ -1,17 +1,17 @@
 if note_movement = false{
 	y = 32;
-	note_rng = round(random_range(1, 3));
+	global.note_rng = round(random_range(1, 3));
 }
 
-if note_rng = 1{
+if	global. note_rng = 1{
 	note_movement = true;
 	x =512 ;
 }
-if note_rng = 2{
+if global.note_rng = 2{
 	note_movement = true;
 	x = 640;
 }
-if note_rng = 3{
+if global.note_rng = 3{
 	note_movement = true;
 	x = 768;
 }
@@ -20,6 +20,7 @@ if note_movement = true{
 	y = y + 10;
 } 
 if y > 672{
+	global.bulletsPassed = global.bulletsPassed +1;
 	note_movement = false;
 }
 
@@ -30,4 +31,11 @@ if place_meeting(x, y, obj_bucketInCombat){
 }
 else{
 	global.isHit = false;
+}
+
+if global.bulletsPassed = 3{
+	global.curTurn = "player";
+}
+else{
+	global.curTurn = "enemy";
 }

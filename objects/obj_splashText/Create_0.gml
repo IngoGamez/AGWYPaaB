@@ -1,2 +1,2 @@
 randomize();
-rng = round(random_range(1, 18));
+rng = round(random_range(1, 24));

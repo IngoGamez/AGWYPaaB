@@ -8,7 +8,7 @@ if round(rng) = 3{
 	draw_text_color(x, y, "Rise and Grind", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
 if round(rng) = 4{
-	draw_text_color(x, y, "GOTY 2025", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+	draw_text_color(x, y, "Inspired by Newgrounds", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
 if round(rng) = 5{
 	draw_text_color(x, y, "Trans Rights Are Human Rights <3", c_aqua, c_aqua, c_aqua, c_aqua, 1);
@@ -60,6 +60,23 @@ if round(rng) = 18{
 if round(rng) = 19{
 	draw_text_color(x, y, "Completely Remade!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
+if round(rng) = 20{
+	draw_text_color(x, y, "Mod support coming soon maybe idk", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 21{
+	draw_text_color(x, y, "Subscribe to whoeverhitme, he a good streamer", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 22{
+	draw_text_color(x, y, "Subscribe to our YouTube channel! (@IngoGamez)", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 23{
+	draw_text_color(x, y, "Shoutout to the guys I met at the TMG NG meet!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 24{
+	draw_text_color(x, y, "AGWYPaaB The Movie Coming 2054 (Real)", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+
+
 
 
 

@@ -4,6 +4,10 @@ if (keyboard_check_pressed(vk_enter)){
 	global.curDialogue = global.curDialogue + 1;
 }
 
+if (global.curDialogue = 14){
+	room_goto(rm_prologueFIGHT);
+}
+
 if (global.curDialogue == 24){
 	room_goto(rm_room10PRO);
 	global.canMove = true;

@@ -17,16 +17,19 @@ if global.note_rng = 3{
 }
 
 if note_movement = true{
+	global.curShooting = true;
 	y = y + 10;
 } 
 if y > 672{
 	global.bulletsPassed = global.bulletsPassed +1;
+	global.curShooting = false;
 	note_movement = false;
 }
 
 if place_meeting(x, y, obj_bucketInCombat){
 	global.isHit = true;
 	global.hp = global.hp -1;
+	global.curShooting = false;
 	note_movement = false;
 }
 else{

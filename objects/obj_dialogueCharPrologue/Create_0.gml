@@ -3,3 +3,6 @@ global.canMove = false;
 global.inDialogue = true;
 obj_bucket.x = -500;
 obj_bucket.y = -500;
+if global.curNPC = 0{
+	audio_play_sound(mus_watchingPaintDry, 1, true);
+}

@@ -1,5 +1,11 @@
 lil changelog for those who are curious about the order I added stuff lol
 
+PLAY TESTING TIME LET'S GOOOO - 0.3
+Added:
+Donut Boss Fight
+Outro Cutscene
+Music to D-Money Conversation
+
 Lil Things Go a Long Way - 0.21
 Added:
 README.txt in game files

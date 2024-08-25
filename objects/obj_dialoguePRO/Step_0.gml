@@ -1,6 +1,6 @@
 image_index = global.curDialogue - 1;
 
-if (keyboard_check_pressed(vk_enter)){
+if (keyboard_check_pressed(vk_enter))  or gamepad_button_check_pressed(0, gp_face1){
 	global.curDialogue = global.curDialogue + 1;
 }
 

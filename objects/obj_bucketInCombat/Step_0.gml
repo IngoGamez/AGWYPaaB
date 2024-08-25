@@ -17,16 +17,17 @@ if anim = "dodgeRight"{
 #endregion
 
 #region controls and stuff
-if keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A")){
+if keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A") )  or gamepad_axis_value(0, gp_axislh) = -1{
 	anim = "dodgeLeft";
 }
 if keyboard_check_released(vk_left) || keyboard_check_released(ord("A")){
 	anim = "idle";   
 }
-if keyboard_check_pressed(vk_right) || keyboard_check_pressed(ord("D")){
+if keyboard_check_pressed(vk_right) || keyboard_check_pressed(ord("D"))  or gamepad_axis_value(0, gp_axislh) = 1{
 	anim = "dodgeRight";
 }
 if keyboard_check_released(vk_right) || keyboard_check_released(ord("D")){
 	anim = "idle";   
 }
+
 #endregion

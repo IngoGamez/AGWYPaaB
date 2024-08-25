@@ -2,10 +2,10 @@
 ////////////////////////////////////////////////////////////////////////////
 
 ///		Place inputs here		///
-var kPause		= keyboard_check_pressed( vk_escape );
-var kDown		= (keyboard_check_pressed(ord("S"))) || keyboard_check_pressed( vk_down );
-var kUp			= (keyboard_check_pressed(ord("W")) || keyboard_check_pressed( vk_up ) );
-var kConfirm	= (keyboard_check_pressed(vk_space)) || keyboard_check_pressed( vk_enter);
+var kPause		= keyboard_check_pressed( vk_escape ) or gamepad_button_check_pressed(0, gp_start);
+var kDown		= (keyboard_check_pressed(ord("S"))) || keyboard_check_pressed( vk_down )  or gamepad_button_check_pressed(0, gp_padd);
+var kUp			= (keyboard_check_pressed(ord("W")) || keyboard_check_pressed( vk_up ) ) or gamepad_button_check_pressed(0, gp_padu);
+var kConfirm	= (keyboard_check_pressed(vk_space)) || keyboard_check_pressed( vk_enter) or gamepad_button_check_pressed(0, gp_face1);
 
 
 screen_alpha	= Approach( screen_alpha, screen_alpha_set, .1 );

@@ -1,5 +1,10 @@
 lil changelog for those who are curious about the order I added stuff lol
 
+Controller Support lololol - 0.4
+Added:
+New Mouse
+Controller Support
+
 PLAY TESTING TIME LET'S GOOOO - 0.3
 Added:
 Donut Boss Fight

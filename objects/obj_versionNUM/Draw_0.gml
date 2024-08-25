@@ -1,2 +1,2 @@
 draw_set_font(lol);
-draw_text(x, y, "PLAY TESTING TIME LET'S GOOOO - 0.3");
+draw_text(x, y, "Controller Support lololol - 0.4");

@@ -1,0 +1,3 @@
+[submodule "flash"]
+	path = flash
+	url = https://github.com/IngoGamez/AGWYPaaB-Flash-Files

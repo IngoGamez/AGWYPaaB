@@ -1,1 +1,1 @@
-draw_text(x, y, global.enemyHP);
+draw_text(x, y + 10, global.enemyHP);

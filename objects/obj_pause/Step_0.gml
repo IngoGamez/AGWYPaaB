@@ -3,8 +3,8 @@
 
 ///		Place inputs here		///
 var kPause		= keyboard_check_pressed( vk_escape ) or gamepad_button_check_pressed(0, gp_start);
-var kDown		= (keyboard_check_pressed(ord("S"))) || keyboard_check_pressed( vk_down )  or gamepad_button_check_pressed(0, gp_padd);
-var kUp			= (keyboard_check_pressed(ord("W")) || keyboard_check_pressed( vk_up ) ) or gamepad_button_check_pressed(0, gp_padu);
+var kDown		= (keyboard_check_pressed(ord("S"))) || keyboard_check_pressed( vk_down )  or gamepad_button_check_pressed(0, gp_padd) or gamepad_axis_value(0, gp_axislv) = 1;
+var kUp			= (keyboard_check_pressed(ord("W")) || keyboard_check_pressed( vk_up ) ) or gamepad_button_check_pressed(0, gp_padu) or gamepad_axis_value(0, gp_axislv) = -1;
 var kConfirm	= (keyboard_check_pressed(vk_space)) || keyboard_check_pressed( vk_enter) or gamepad_button_check_pressed(0, gp_face1);
 
 

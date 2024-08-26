@@ -1,4 +1,4 @@
-if gamepad_is_connected(1){
+if gamepad_is_connected(0){
 	isGamepad = true;	
 }
 else{

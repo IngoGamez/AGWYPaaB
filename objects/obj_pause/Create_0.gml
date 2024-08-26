@@ -15,9 +15,7 @@ gpu_set_tex_filter( false );
 
 #region  General	
 /////////////////////////////////////////////////////////////////
-
-font	= font_add_sprite( sfont_jasontomlee, ord(" "), 1, 1);
-draw_set_font( font );
+draw_set_font(lol);
 
 pause		= false;
 gwidth		= display_get_gui_width();

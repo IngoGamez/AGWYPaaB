@@ -9,11 +9,15 @@
     {"name":"inst_73FB7A0A","path":"rooms/rm_click2play/rm_click2play.yy",},
     {"name":"inst_7B89200","path":"rooms/rm_click2play/rm_click2play.yy",},
     {"name":"inst_49386BA0","path":"rooms/rm_click2play/rm_click2play.yy",},
+    {"name":"inst_68A93F14","path":"rooms/rm_click2play/rm_click2play.yy",},
+    {"name":"inst_1950529D","path":"rooms/rm_click2play/rm_click2play.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"daMouse","depth":-99999,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_49386BA0","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_49386BA0","objectId":{"name":"cursor","path":"objects/cursor/cursor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1024.0,"y":32.0,},
+        {"$GMRInstance":"v1","%Name":"inst_68A93F14","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_68A93F14","objectId":{"name":"obj_controllerMouse","path":"objects/obj_controllerMouse/obj_controllerMouse.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":640.0,"y":360.0,},
+        {"$GMRInstance":"v1","%Name":"inst_1950529D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1950529D","objectId":{"name":"obj_controllerInputHandlerMENU","path":"objects/obj_controllerInputHandlerMENU/obj_controllerInputHandlerMENU.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":0.0,},
       ],"layers":[],"name":"daMouse","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":true,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_5B0199CA","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5B0199CA","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":-8.7210045,"scaleX":0.50668037,"scaleY":0.5534884,"spriteId":{"name":"logo","path":"sprites/logo/logo.yy",},"x":639.7496,"y":359.96158,},

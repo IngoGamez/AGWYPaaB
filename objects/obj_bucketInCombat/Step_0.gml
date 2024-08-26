@@ -29,5 +29,9 @@ if keyboard_check_pressed(vk_right) || keyboard_check_pressed(ord("D"))  or game
 if keyboard_check_released(vk_right) || keyboard_check_released(ord("D")){
 	anim = "idle";   
 }
+if gamepad_axis_value(0, gp_axislv) = 1{
+	anim = "idle";
+}
+
 
 #endregion

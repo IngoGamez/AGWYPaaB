@@ -1,4 +1,16 @@
-lil changelog for those who are curious about the order I added stuff lol
+lil changelog for those who are curious about the order I added stuff in lol
+
+Controller Fixes and Some Other Crap - 0.5
+Added:
+The ability to use the joysticks on the pause menu
+The ability to close the game with controller
+The ability to use the menus with a controller
+Fixed:
+Pause Menu Opening on Main Menu
+Combat Issues With Controller
+Changed:
+The order of the menu buttons again cuz I can't make up my mind
+Can't resize window now bc the game looks like shit when you do :P
 
 Controller Support lololol - 0.4
 Added:

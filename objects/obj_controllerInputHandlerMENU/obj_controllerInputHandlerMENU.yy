@@ -1,16 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_controllerMouse",
+  "%Name":"obj_controllerInputHandlerMENU",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_controllerMouse",
+  "name":"obj_controllerInputHandlerMENU",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Shared/Controller/Objects.yy",
+    "name":"shared",
+    "path":"folders/Menus/Objects/shared.yy",
   },
   "parentObjectId":null,
   "persistent":true,
@@ -30,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"mouse",
-    "path":"sprites/mouse/mouse.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

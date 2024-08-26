@@ -116,7 +116,12 @@ if ( pause ){
 
 			break;
 			case 1: // MainMenus
-				room_goto(rm_mainmenu);
+				if gamepad_is_connected(0){
+					room_goto(rm_mainmenuCONTROLLER);
+				}
+				else{
+					room_goto(rm_mainmenu);
+				}
 				audio_stop_sound(mus_breaktimepause);
 				screen_alpha_set = 0;
 

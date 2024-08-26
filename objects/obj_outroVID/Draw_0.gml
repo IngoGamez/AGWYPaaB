@@ -5,8 +5,11 @@ if (_videoStatus == 0)
 	draw_surface(_videoData[1], 0, 0);
 }
 
-if (video_get_status() == video_status_closed)
+if (video_get_status() == video_status_closed) and gamepad_is_connected(0)
 {
+	room_goto(rm_mainmenuCONTROLLER);
+}
+if (video_get_status() == video_status_closed){
 	room_goto(rm_mainmenu);
 }
 //it works yay!!!

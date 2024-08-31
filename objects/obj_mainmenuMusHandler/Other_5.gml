@@ -1,1 +1,1 @@
-audio_stop_sound(menu_seioup);
+audio_stop_sound(mus_menu_seioup);

@@ -1,1 +1,1 @@
-audio_play_sound(menu_seioup, 1, true);
+audio_play_sound(mus_menu_seioup, 1, true);

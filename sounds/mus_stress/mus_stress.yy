@@ -2,8 +2,8 @@
   "$GMSound":"",
   "%Name":"mus_stress",
   "audioGroupId":{
-    "name":"audiogroup_default",
-    "path":"audiogroups/audiogroup_default",
+    "name":"Music",
+    "path":"audiogroups/Music",
   },
   "bitDepth":1,
   "bitRate":128,

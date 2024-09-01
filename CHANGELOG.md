@@ -11,19 +11,20 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Combat System
 - New Donut Assets
 - New Dialogue System
-- New Menu Button Sounds
+- New Menu Overhaul
+    - New Menu Button Sounds
+    - New Bucket Sprites
+    - New Music in Menus
+    - New Click to Start Screen
+    - New Volume Slider to Options Menu
+    - Some New Splash Texts
 - New Remade Room Art
-- New Music in Menus
-- New Silly Bucket Asset in Level Select
-- New Click to Start Screen
-- New Volume Slider to Options Menu
 - New Controller Support
 - 2 New Cutscenes
     - Intro Cutscene
     - Outro Cutscene
 - New Credits
 - New Pause Screen (Originally made by jasontomlee but heavily modified)
-- Some New Splash Texts
 ### Changed
 - Game Engine (Was TurboWarp, Now is Gamemaker)
 - Game Resolution (Was 480x360, Now is 1280x720)

@@ -24,7 +24,7 @@ Literally what the title says!
 - [E-Dubz](https://www.youtube.com/@EDubzNG)
 - [KAD](https://killerbunnie93.newgrounds.com/)
 
-## QA Tester
+## QA Testers
 - DB
 - NoahJam
 

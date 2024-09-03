@@ -25,8 +25,8 @@ Literally what the title says!
 - [KAD](https://killerbunnie93.newgrounds.com/)
 
 ## QA Tester
-- [DB]
-- [NoahJam]
+- DB
+- NoahJam
 
 ## Additional Assets
 - [jasontomlee - Pause Menu Scripts](https://marketplace.gamemaker.io/assets/7514/asset-pause-menu-basic)

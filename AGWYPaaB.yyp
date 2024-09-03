@@ -15,6 +15,7 @@
     {"$GMFolder":"","%Name":"Combat","folderPath":"folders/Combat.yy","name":"Combat","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Combat/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Combat/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Dummy","folderPath":"folders/Combat/Sprites/Dummy.yy","name":"Dummy","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Menus","folderPath":"folders/Menus.yy","name":"Menus","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Music","folderPath":"folders/Menus/Music.yy","name":"Music","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Objects","folderPath":"folders/Menus/Objects.yy","name":"Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -90,7 +91,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.6.2.162",
+    "IDEVersion":"2024.8.0.169",
   },
   "name":"AGWYPaaB",
   "resources":[
@@ -152,6 +153,7 @@
     {"id":{"name":"obj_spinninBG","path":"objects/obj_spinninBG/obj_spinninBG.yy",},},
     {"id":{"name":"obj_splashText","path":"objects/obj_splashText/obj_splashText.yy",},},
     {"id":{"name":"obj_timer","path":"objects/obj_timer/obj_timer.yy",},},
+    {"id":{"name":"obj_tutorialDummy","path":"objects/obj_tutorialDummy/obj_tutorialDummy.yy",},},
     {"id":{"name":"obj_versionNUM","path":"objects/obj_versionNUM/obj_versionNUM.yy",},},
     {"id":{"name":"obj_volumeControl","path":"objects/obj_volumeControl/obj_volumeControl.yy",},},
     {"id":{"name":"obj_warp","path":"objects/obj_warp/obj_warp.yy",},},
@@ -282,6 +284,8 @@
     {"id":{"name":"spr_knifeCombat","path":"sprites/spr_knifeCombat/spr_knifeCombat.yy",},},
     {"id":{"name":"spr_menuPointer","path":"sprites/spr_menuPointer/spr_menuPointer.yy",},},
     {"id":{"name":"spr_pyroOnDaMenu","path":"sprites/spr_pyroOnDaMenu/spr_pyroOnDaMenu.yy",},},
+    {"id":{"name":"spr_tutorialDummyIdle","path":"sprites/spr_tutorialDummyIdle/spr_tutorialDummyIdle.yy",},},
+    {"id":{"name":"spr_tutorialDummyShootin","path":"sprites/spr_tutorialDummyShootin/spr_tutorialDummyShootin.yy",},},
     {"id":{"name":"spr_wall","path":"sprites/spr_wall/spr_wall.yy",},},
     {"id":{"name":"thats_a_lot_of_changes","path":"sprites/thats_a_lot_of_changes/thats_a_lot_of_changes.yy",},},
     {"id":{"name":"warp","path":"sprites/warp/warp.yy",},},

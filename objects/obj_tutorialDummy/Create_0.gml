@@ -1,0 +1,1 @@
+global.enemyHP = 150;

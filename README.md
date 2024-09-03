@@ -4,6 +4,7 @@ Literally what the title says!
 
 - [Play the game on Newgrounds!](https://www.newgrounds.com/portal/view/930725)
 - [Download for desktop!](https://ingogamez.itch.io/agwypaab)
+- [Get the Soundtrack on Bandcamp!](https://ingogamezsoundteam.bandcamp.com/)
 
 # BEFORE YOU COMPILE
 

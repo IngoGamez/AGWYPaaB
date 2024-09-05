@@ -29,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_tutorialDummyIdle",
+    "path":"sprites/spr_tutorialDummyIdle/spr_tutorialDummyIdle.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

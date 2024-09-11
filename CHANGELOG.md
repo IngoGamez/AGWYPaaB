@@ -32,6 +32,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Pause Music Sounds Better
 - Pyro Eating a Peanut Cutscene is Now a Video Rather Than Being Played Out In Game
 - D-Money Sprites Look Better
+- The logo has been redesigned
 ### Fixed
 - A bug where Bucket's walk cycle was glitching
 - A bug where random damage was taken while in combat

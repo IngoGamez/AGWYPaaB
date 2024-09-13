@@ -81,10 +81,10 @@
     {"$GMFolder":"","%Name":"SFX","folderPath":"folders/Shared/SFX.yy","name":"SFX","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Shared/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Tutorial","folderPath":"folders/Tutorial.yy","name":"Tutorial","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Tutorial/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Music","folderPath":"folders/Tutorial/Music.yy","name":"Music","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Tutorial/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sounds","folderPath":"folders/Tutorial/Sounds.yy","name":"Sounds","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Sprites","folderPath":"folders/Tutorial/Sprites.yy","name":"Sprites","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"README.txt","CopyToMask":-1,"filePath":"datafiles","name":"README.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},

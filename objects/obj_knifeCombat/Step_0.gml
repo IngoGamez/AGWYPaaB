@@ -1,7 +1,7 @@
 if note_movement = false{
 	y = 32;
 }
-if global.curTurn = "player"{
+if global.curTurn = "player" && canHitSpace = false{
 if note_movement = false{
 	note_rng = round(random_range(1, 3));
 }
@@ -33,8 +33,6 @@ if y > 672{
 }
 
 if place_meeting(x, y, obj_bucketInCombat){
-	global.enemyHP = global.enemyHP - 50;
-	note_movement = false;
-	global.bulletsPassed = 0;
+	canHitSpace = true;
 }
 }

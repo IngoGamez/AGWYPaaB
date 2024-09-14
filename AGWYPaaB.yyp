@@ -100,7 +100,6 @@
   },
   "name":"AGWYPaaB",
   "resources":[
-    {"id":{"name":"NG_studio2_API","path":"extensions/NG_studio2_API/NG_studio2_API.yy",},},
     {"id":{"name":"lol","path":"fonts/lol/lol.yy",},},
     {"id":{"name":"API info","path":"notes/API info/API info.yy",},},
     {"id":{"name":"README","path":"notes/README/README.yy",},},
@@ -280,6 +279,8 @@
     {"id":{"name":"spr_bucketDodgeLeft","path":"sprites/spr_bucketDodgeLeft/spr_bucketDodgeLeft.yy",},},
     {"id":{"name":"spr_bucketDodgeRight","path":"sprites/spr_bucketDodgeRight/spr_bucketDodgeRight.yy",},},
     {"id":{"name":"spr_bucketIdleCombat","path":"sprites/spr_bucketIdleCombat/spr_bucketIdleCombat.yy",},},
+    {"id":{"name":"spr_bucketKnifeReady","path":"sprites/spr_bucketKnifeReady/spr_bucketKnifeReady.yy",},},
+    {"id":{"name":"spr_bucketKnifeThrow","path":"sprites/spr_bucketKnifeThrow/spr_bucketKnifeThrow.yy",},},
     {"id":{"name":"spr_bucketondamenu","path":"sprites/spr_bucketondamenu/spr_bucketondamenu.yy",},},
     {"id":{"name":"spr_dmoneyOnDaMenu","path":"sprites/spr_dmoneyOnDaMenu/spr_dmoneyOnDaMenu.yy",},},
     {"id":{"name":"spr_donutCOMBATIDLE","path":"sprites/spr_donutCOMBATIDLE/spr_donutCOMBATIDLE.yy",},},

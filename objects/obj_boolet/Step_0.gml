@@ -45,3 +45,8 @@ else{
 	global.curTurn = "enemy";
 }
 }
+
+if (obj_knifeCombat.canHitSpace = true)
+{
+	y = 32;
+}

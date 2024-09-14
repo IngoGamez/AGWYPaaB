@@ -14,9 +14,23 @@ if anim = "dodgeRight"{
 	x = 832;
 	y = 576;
 }
+if anim = "knifeReady"{
+	sprite_index = spr_bucketKnifeReady;
+	x = 640;
+	y = 576;
+}
+if anim = "knifeThrow"{
+	sprite_index = spr_bucketKnifeThrow;
+	x = 640;
+	y = 576;
+}
+
 #endregion
 
 #region controls and stuff
+
+if (obj_knifeCombat.canHitSpace = false)
+{
 if keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A") )  or gamepad_axis_value(0, gp_axislh) = -1{
 	anim = "dodgeLeft";
 }
@@ -32,6 +46,22 @@ if keyboard_check_released(vk_right) || keyboard_check_released(ord("D")){
 if gamepad_axis_value(0, gp_axislv) = 1{
 	anim = "idle";
 }
+}
 
-
+if (obj_knifeCombat.canHitSpace = true)
+{
+	anim = "knifeReady";
+	
+	if (keyboard_check_pressed(vk_space))
+	{
+		anim = "knifeThrow";
+	}
+}
+if (anim = "knifeThrow")
+{
+	if (image_index = 10)
+	{
+		anim = "idle";
+	}
+}
 #endregion

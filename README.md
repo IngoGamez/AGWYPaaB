@@ -42,7 +42,7 @@ This is just a nerdy section for those who are curious on what software we use!
 
 ## PROGRAMMING
 - [Gamemaker - Game's Engine](https://store.steampowered.com/app/1670460/GameMaker/)
-- [Visual Studio Code - Writing .md Files and Commiting Changes to Github.com](https://code.visualstudio.com/)
+- [Visual Studio Code - IDE Used to Make Ingogamez.Github.io](https://code.visualstudio.com/)
 - [Github Desktop - Commiting Changes to Github.com](https://desktop.github.com/download/)
 - [Git - Commiting Changes to Github.com](https://git-scm.com/)
 

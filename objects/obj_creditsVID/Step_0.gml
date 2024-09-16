@@ -1,4 +1,4 @@
-if keyboard_check_pressed(vk_control){
+if keyboard_check_pressed(vk_control) or gamepad_button_check_pressed(0, gp_start){
 	video_close();
 }
 

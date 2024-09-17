@@ -9,6 +9,7 @@
             - Trigger Button Sprites For Options Menu
             - Trigger Support For Moving Left and Right in Combat
             - All Other Things
+        - Low Quality Cutscenes For Web
     - Get Player Feedback
     - Fix Bugs and Stuff
 

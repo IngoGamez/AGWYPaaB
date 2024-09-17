@@ -8,8 +8,8 @@ if room = rm_tutorialFight
 {
 	if global.enemyHP = 0
 	{
-		room_goto(rm_winscreen);
-		instance_deactivate_all(false);
+		room_goto(rm_dummyExplodesCutscene);
+		instance_deactivate_object(obj_bucket);
 		audio_stop_sound(mus_tutorial);
 	}
 }

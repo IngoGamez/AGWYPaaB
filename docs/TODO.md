@@ -10,6 +10,8 @@
             - Trigger Support For Moving Left and Right in Combat
             - All Other Things
         - Low Quality Cutscenes For Web
+        - Fix Layering Issues With Dummy
+        - Lengthen Dummy Cutscene By a Bit
     - Get Player Feedback
     - Fix Bugs and Stuff
 

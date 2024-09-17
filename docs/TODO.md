@@ -1,9 +1,14 @@
 # TO DO LIST
 
 1. Finish This Demo
-    - Finish Tutorial
-        - Finish Music
-        - Finish Combat
+    - Finish Last Lil Things:
+        - Knife and Bullet Sprite in Combat
+        - Dummy Dialog
+        - Outro Cutscene and Credits Merge
+        - Controller Support
+            - Trigger Button Sprites For Options Menu
+            - Trigger Support For Moving Left and Right in Combat
+            - All Other Things
     - Get Player Feedback
     - Fix Bugs and Stuff
 

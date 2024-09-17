@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_dummyExplodes",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":5.298866,
+  "name":"snd_dummyExplodes",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Tutorial/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_dummyExplodes.ogg",
+  "type":0,
+  "volume":1.0,
+}

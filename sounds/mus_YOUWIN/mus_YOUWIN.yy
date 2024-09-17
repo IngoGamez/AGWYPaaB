@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_YOUWIN",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":13.714286,
+  "name":"mus_YOUWIN",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Shared/winscreen/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_YOUWIN.wav",
+  "type":0,
+  "volume":0.1,
+}

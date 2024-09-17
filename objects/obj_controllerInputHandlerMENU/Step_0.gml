@@ -15,7 +15,7 @@ if room = rm_mainmenuCONTROLLER{
 	}
 }
 if room = rm_levelselectCONTROLLER{
-	if gamepad_button_check_pressed(0, gp_face1){
+	if gamepad_button_check_pressed(0, gp_face3){
 		if os_browser{
 			room_goto(rm_introcutscene_proFRAMES);
 		}
@@ -25,6 +25,10 @@ if room = rm_levelselectCONTROLLER{
 	}
 	if gamepad_button_check_pressed(0, gp_face2){
 		room_goto(rm_mainmenuCONTROLLER);
+	}
+	if gamepad_button_check_pressed(0, gp_face1)
+	{
+		room_goto(rm_bucketHouse);
 	}
 }
 if room = rm_optionsmenuCONTROLLER{

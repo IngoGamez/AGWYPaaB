@@ -14,7 +14,7 @@ if global.curSong = 2{
 	artist = "KAD";
 	album = "AGWYPaaB Vol. 1";
 	releaseDate = "September 17th, 2024";
-	description = "Skiters is a song KAD created before AGWYPaaB. I have no idea when he initially released it so I put the release date as the PFD release data lol";
+	description = "Skiters is a song KAD created before AGWYPaaB. I have no idea when he initially released it so I put the release date as the PFD release date lol";
 	bpm = "160";
 }
 if global.curSong = 3{
@@ -65,20 +65,28 @@ if global.curSong = 8{
 	description = "A little shitpost remix. Fun Fact: This remix samples dogdillon's 'D-Money Clicker'!"
 	bpm = "120";
 }
+if global.curSong = 9{
+	name = "Credits";
+	artist = "KAD (Ft. E-Dubz)";
+	album = "AGWYPaaB Vol. 1";
+	releaseDate = "September 18th, 2024"
+	description = "The credits theme for AGWYPaaB's Public Feedback Demo!";
+	bpm = "76";
+}
 #endregion
 
 #region level metadata
 if global.curLevel = 1{
 	name = "The Tutorial";
 	artist = "IngoGamez";
-	releaseDate = "September 17th, 2024";
+	releaseDate = "September 18th, 2024";
 	description = "Learn how to play!";
 	difficulties = "Normal";
 }
 if global.curLevel = 2{
 	name = "The Prologue";
 	artist = "IngoGamez";
-	releaseDate = "September 17th, 2024";
+	releaseDate = "May 18th, 2024";
 	description = "The events prior to Bucket's Story";
 	difficulties = "Normal";
 }
@@ -98,7 +106,7 @@ if global.curVideo = 1{
 	description = "One peaceful day, a massive explosion occured over the city. Bucket, a resident of a forest near the city, goes to investigate.";
 }
 if global.curVideo = 2{
-	name = "Mmmmmm, Yummy."
+	name = "Ahhhhh, Yummy."
 	artist = "Animator: E-Dubz";
 	voice = "Voice Actor: Whoeverhitme";
 	description = "This guy loves eating peanuts with the shell.";

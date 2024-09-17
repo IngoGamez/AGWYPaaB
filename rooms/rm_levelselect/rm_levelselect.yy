@@ -8,12 +8,14 @@
   "instanceCreationOrder":[
     {"name":"inst_23B595A9","path":"rooms/rm_levelselect/rm_levelselect.yy",},
     {"name":"inst_2AF24838","path":"rooms/rm_levelselect/rm_levelselect.yy",},
+    {"name":"inst_6F381251","path":"rooms/rm_levelselect/rm_levelselect.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"Instances","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_23B595A9","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_23B595A9","objectId":{"name":"obj_exit","path":"objects/obj_exit/obj_exit.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.68,"scaleY":0.583999,"x":192.0,"y":96.0,},
         {"$GMRInstance":"v1","%Name":"inst_2AF24838","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2AF24838","objectId":{"name":"obj_prologue","path":"objects/obj_prologue/obj_prologue.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.488,"scaleY":0.455999,"x":224.0,"y":480.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6F381251","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6F381251","objectId":{"name":"obj_tutorialButton","path":"objects/obj_tutorialButton/obj_tutorialButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.63323784,"scaleY":0.6363636,"x":224.0,"y":288.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_67FED169","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_67FED169","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.8745098,"scaleY":0.83175606,"spriteId":{"name":"bucketKnifeThrowLVLSELECT","path":"sprites/bucketKnifeThrowLVLSELECT/bucketKnifeThrowLVLSELECT.yy",},"x":992.0,"y":384.0,},

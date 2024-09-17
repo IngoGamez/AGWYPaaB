@@ -5,13 +5,9 @@ if (_videoStatus == 0)
 	draw_surface(_videoData[1], 0, 0);
 }
 
-if (video_get_status() == video_status_closed) and gamepad_is_connected(0)
+if (video_get_status() == video_status_closed)
 {
-	room_goto(rm_mainmenuCONTROLLER);
+	room_goto(rm_credits);	
 }
-if (video_get_status() == video_status_closed){
-	room_goto(rm_mainmenu);
-}
-//it works yay!!!
 
 draw_text(1595, 1048, "Press control to skip!")

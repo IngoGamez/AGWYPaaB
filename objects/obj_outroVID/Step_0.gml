@@ -2,7 +2,7 @@ if keyboard_check_pressed(vk_control) or gamepad_button_check_pressed(0, gp_star
 	video_close();
 }
 
-video_set_volume(audio_group_get_gain(audiogroup_default));
+video_set_volume(audio_group_get_gain(Sounds));
 
 var _status = video_get_status();
 

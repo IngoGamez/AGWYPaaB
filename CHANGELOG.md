@@ -25,6 +25,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Outro Cutscene
 - New Credits
 - New Pause Screen (Originally made by jasontomlee but heavily modified)
+- New Win Screen
 ### Changed
 - Game Engine (Was TurboWarp, Now is Gamemaker)
 - Game Resolution (Was 480x360, Now is 1280x720)

@@ -17,5 +17,16 @@ if (global.curDialogue == 24){
 	obj_bucket.y = 607 * 0.66666666666;
 }
 if (global.curDialogue == 31){
-	room_goto(rm_pyroPeanut);
+	if os_browser
+	{
+		room_goto(rm_pyroFRAMES);
+	}
+	else
+	{
+		room_goto(rm_pyroPeanut);
+	}
+}
+if global.curDialogue = 52
+{
+	room_goto(rm_tutorialFight);
 }

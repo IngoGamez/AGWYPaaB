@@ -35,6 +35,34 @@ if room = rm_optionsmenuCONTROLLER{
 	if gamepad_button_check_pressed(0, gp_face2){
 		room_goto(rm_mainmenuCONTROLLER);
 	}
+	if gamepad_button_check_pressed(0, gp_shoulderl)
+	{
+		if !settings.snd_volume = 0
+		{
+			settings.snd_volume = settings.snd_volume - 0.1;
+		}
+	}
+	if gamepad_button_check_pressed(0, gp_shoulderlb)
+	{
+		if !settings.mus_volume = 0
+		{
+			settings.mus_volume = settings.mus_volume - 0.1;
+		}
+		if gamepad_button_check_pressed(0, gp_shoulderr)
+		{
+			if !settings.snd_volume = 1
+			{
+				settings.snd_volume = settings.snd_volume + 0.1;
+			}
+		if gamepad_button_check_pressed(0, gp_shoulderrb)
+		{
+			if !settings.mus_volume = 1
+			{
+				settings.mus_volume = settings.mus_volume + 0.1;
+			}
+		}
+		}
+	}
 }
 if room = rm_extrasCONTROLLER{
 	if gamepad_button_check_pressed(0, gp_face1){

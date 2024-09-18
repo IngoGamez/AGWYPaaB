@@ -1,5 +1,5 @@
 if note_movement = false{
-	y = 32;
+	y = -96;
 }
 if global.curTurn = "player" && canHitSpace = false{
 if note_movement = false{

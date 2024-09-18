@@ -1,7 +1,7 @@
 if obj_knifeCombat.canHitSpace = false{
 
 if note_movement = false{
-	y = 32;
+	y = -64;
 	global.note_rng = round(random_range(1, 3));
 }
 

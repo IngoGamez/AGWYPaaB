@@ -31,20 +31,17 @@ if anim = "knifeThrow"{
 
 if (obj_knifeCombat.canHitSpace = false)
 {
-if keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A") )  or gamepad_axis_value(0, gp_axislh) = -1{
+if keyboard_check_pressed(vk_left) || keyboard_check_pressed(ord("A") )  or gamepad_button_check_pressed(0, gp_shoulderlb){
 	anim = "dodgeLeft";
 }
-if keyboard_check_released(vk_left) || keyboard_check_released(ord("A")){
+if keyboard_check_released(vk_left) || keyboard_check_released(ord("A")) or gamepad_button_check_released(0, gp_shoulderlb){
 	anim = "idle";   
 }
-if keyboard_check_pressed(vk_right) || keyboard_check_pressed(ord("D"))  or gamepad_axis_value(0, gp_axislh) = 1{
+if keyboard_check_pressed(vk_right) || keyboard_check_pressed(ord("D"))  or gamepad_button_check_pressed(0, gp_shoulderrb){
 	anim = "dodgeRight";
 }
-if keyboard_check_released(vk_right) || keyboard_check_released(ord("D")){
+if keyboard_check_released(vk_right) || keyboard_check_released(ord("D")) or gamepad_button_check_released(0, gp_shoulderrb){
 	anim = "idle";   
-}
-if gamepad_axis_value(0, gp_axislv) = 1{
-	anim = "idle";
 }
 }
 

@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":13.714286,
+  "duration":48.0,
   "name":"mus_YOUWIN",
   "parent":{
     "name":"Music",
@@ -21,5 +21,5 @@
   "sampleRate":44100,
   "soundFile":"mus_YOUWIN.wav",
   "type":0,
-  "volume":0.1,
+  "volume":0.15,
 }

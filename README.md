@@ -15,7 +15,6 @@ Literally what the title says!
 
 ## Programming
 - [E-Dubz](https://twitter.com/edubzng)
-- [KAD](https://twitter.com/KBunnie93)
 
 ## Art / Animation
 - [E-Dubz](https://e-dubz.newgrounds.com)
@@ -53,6 +52,7 @@ This is just a nerdy section for those who are curious on what software we use!
 ## MUSIC
 - [Soundtrap - Main DAW For The Game's Soundtrack](https://www.soundtrap.com/)
 - [Bandlab - Another DAW Used For The Games Soundtrack](https://www.bandlab.com/)
+- [FL Studio - DAW Used For Win Theme](https://www.image-line.com/fl-studio-download/)
 
 ## Other Stuff
 - [Microsoft Clipchamp - Used for Editing Cutscenes](https://clipchamp.com/en/windows-video-editor/)

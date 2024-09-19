@@ -26,7 +26,7 @@ if note_rng = 3{
 if note_movement = true{
 	y = y + 10;
 } 
-if y > 672{
+if y > 575{
 	note_movement = false;
 	global.bulletsPassed = 0;
 	global.curTurn = "enemy";

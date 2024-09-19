@@ -1,6 +1,7 @@
 if room = rm_prologueFIGHT{
 	if global.enemyHP = 0{
 		room_goto(rm_winscreen);
+		instance_deactivate_object(obj_bucket);
 		audio_stop_sound(mus_donutz);
 	}
 }

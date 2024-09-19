@@ -27,5 +27,3 @@ if (global.canMove == true){
 		sprite_index = bucketIdle;
 	}
 }
-
-

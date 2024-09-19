@@ -13,7 +13,7 @@ if global.curSong = 2{
 	name = "Skiters";
 	artist = "KAD";
 	album = "AGWYPaaB Vol. 1";
-	releaseDate = "September 17th, 2024";
+	releaseDate = "September 18th, 2024";
 	description = "Skiters is a song KAD created before AGWYPaaB. I have no idea when he initially released it so I put the release date as the PFD release date lol";
 	bpm = "160";
 }
@@ -29,7 +29,7 @@ if global.curSong = 4{
 	name = "Break Time (Pause Theme) REMASTERED";
 	artist = "E-Dubz";
 	album = "AGWYPaaB Vol. 1";
-	releaseDate = "September 17th, 2024";
+	releaseDate = "September 18th, 2024";
 	description = "This is the song from the pause screen! It actually samples a song from a scrapped FNF mod I made a while back.";
 	bpm = "140";
 }

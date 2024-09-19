@@ -5,6 +5,16 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.5.1] - 2024-09-19
+### Added
+- Cutscene Skips to Web Version (Press Control on Keyboard or Start on Gamepad!)
+### Fixed
+- A glitch where bucket would get duplicated after fighting Donut.
+- A layering issue with D-Money
+- A softlock that occurs when missing the knife in combat.
+- An issue where the intro cutscene audio kept playing after the cutscene was over.
+- HOPEFULLY fixed various issues on web. (I didn't know it was as buggy as it was. Sorry!)
+
 ## [0.5.0] - 2024-09-18
 ### Added
 - New Tutorial Level

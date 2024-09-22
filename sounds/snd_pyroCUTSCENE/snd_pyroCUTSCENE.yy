@@ -2,8 +2,8 @@
   "$GMSound":"",
   "%Name":"snd_pyroCUTSCENE",
   "audioGroupId":{
-    "name":"audiogroup_default",
-    "path":"audiogroups/audiogroup_default",
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
   },
   "bitDepth":1,
   "bitRate":128,

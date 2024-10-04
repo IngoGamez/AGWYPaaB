@@ -40,20 +40,20 @@ Literally what the title says!
 This is just a nerdy section for those who are curious on what software we use!
 
 ## PROGRAMMING
-- [Gamemaker - Game's Engine](https://store.steampowered.com/app/1670460/GameMaker/)
-- [Visual Studio Code - IDE Used to Make Ingogamez.Github.io](https://code.visualstudio.com/)
-- [Github Desktop - Commiting Changes to Github.com](https://desktop.github.com/download/)
-- [Git - Commiting Changes to Github.com](https://git-scm.com/)
+- [Gamemaker](https://store.steampowered.com/app/1670460/GameMaker/)
+- [Visual Studio Code](https://code.visualstudio.com/)
+- [Github Desktop](https://desktop.github.com/download/)
+- [Git](https://git-scm.com/)
 
 ## ART
-- [Adobe Flash/Animate - In Game Sprites and Animations](https://www.adobe.com/products/animate.html)
-- [Krita - Other Art (Promotional Material, Concept Art, etc.)](https://krita.org/en/)
+- [Adobe Flash/Animate](https://www.adobe.com/products/animate.html)
+- [Krita](https://krita.org/en/)
 
 ## MUSIC
-- [Soundtrap - Main DAW For The Game's Soundtrack](https://www.soundtrap.com/)
-- [Bandlab - Another DAW Used For The Games Soundtrack](https://www.bandlab.com/)
-- [FL Studio - DAW Used For Win Theme](https://www.image-line.com/fl-studio-download/)
+- [Soundtrap](https://www.soundtrap.com/)
+- [Bandlab](https://www.bandlab.com/)
+- [FL Studio](https://www.image-line.com/fl-studio-download/)
 
 ## Other Stuff
-- [Microsoft Clipchamp - Used for Editing Cutscenes](https://clipchamp.com/en/windows-video-editor/)
-- [Capcut - Used for Editing Cutscenes](https://www.capcut.com/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=21157337217&adset_id=162157605753&ad_id=697948663363&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gclid=CjwKCAjwl6-3BhBWEiwApN6_koB18TujQfsYRspsTOZDbd4a8tcfK2R_8sr7AIfhtcZqW5V3Q2PS3hoC4zYQAvD_BwE)
+- [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
+- [Capcut](https://www.capcut.com/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=21157337217&adset_id=162157605753&ad_id=697948663363&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gclid=CjwKCAjwl6-3BhBWEiwApN6_koB18TujQfsYRspsTOZDbd4a8tcfK2R_8sr7AIfhtcZqW5V3Q2PS3hoC4zYQAvD_BwE)

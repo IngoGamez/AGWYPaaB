@@ -1,0 +1,1 @@
+audio_play_sound(mus_inTheCloset, 1, false);

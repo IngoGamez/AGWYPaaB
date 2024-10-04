@@ -1,4 +1,4 @@
 if sprite_index = spr_bucketLVLSELECTCLICK
 {
-	room_goto(rm_skinSelect);
+	room_goto(rm_charCreate);
 }

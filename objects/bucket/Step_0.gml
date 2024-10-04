@@ -28,11 +28,5 @@ if (global.canMove == true){
 	}
 }
 
-if !obj_bucketBody.image_index = obj_bucketFace.image_index
-{
-	obj_bucketFace.image_index = obj_bucketBody.image_index;
-}
-if !obj_bucketLegs.image_index = obj_bucketBody.image_index
-{
-	obj_bucketLegs.image_index = obj_bucketBody.image_index;
-}
+obj_bucketFace.image_index = obj_bucketBody.image_index;
+obj_bucketLegs.image_index = obj_bucketBody.image_index;

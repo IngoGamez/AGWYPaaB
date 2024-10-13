@@ -1,6 +1,6 @@
 anim = "idle";
 bucket_speed = 10;
-global.canMove = false;
+global.canMove = true;
 global.curNPC = 2;
 global.inDialogue = false;
 

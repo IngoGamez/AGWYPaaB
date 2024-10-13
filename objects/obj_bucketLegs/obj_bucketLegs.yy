@@ -8,14 +8,14 @@
   "name":"obj_bucketLegs",
   "overriddenProperties":[],
   "parent":{
-    "name":"Bucket",
-    "path":"folders/Player/Bucket.yy",
+    "name":"pieces",
+    "path":"folders/Player/Bucket/pieces.yy",
   },
   "parentObjectId":{
     "name":"bucket",
     "path":"objects/bucket/bucket.yy",
   },
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,

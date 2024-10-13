@@ -50,6 +50,7 @@
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Bucket","folderPath":"folders/Player/Bucket.yy","name":"Bucket","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"down","folderPath":"folders/Player/Bucket/down.yy","name":"down","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"pieces","folderPath":"folders/Player/Bucket/pieces.yy","name":"pieces","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Idle","folderPath":"folders/Player/Bucket/Idle.yy","name":"Idle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"left","folderPath":"folders/Player/Bucket/left.yy","name":"left","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"right","folderPath":"folders/Player/Bucket/right.yy","name":"right","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -390,6 +391,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_drawingTest","path":"rooms/rm_drawingTest/rm_drawingTest.yy",},},
     {"roomId":{"name":"rm_click2play","path":"rooms/rm_click2play/rm_click2play.yy",},},
     {"roomId":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},},
     {"roomId":{"name":"rm_levelselect","path":"rooms/rm_levelselect/rm_levelselect.yy",},},
@@ -433,7 +435,6 @@
     {"roomId":{"name":"rm_outroFRAMES","path":"rooms/rm_outroFRAMES/rm_outroFRAMES.yy",},},
     {"roomId":{"name":"rm_pyroFRAMES","path":"rooms/rm_pyroFRAMES/rm_pyroFRAMES.yy",},},
     {"roomId":{"name":"rm_charCreate","path":"rooms/rm_charCreate/rm_charCreate.yy",},},
-    {"roomId":{"name":"rm_drawingTest","path":"rooms/rm_drawingTest/rm_drawingTest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

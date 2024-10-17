@@ -1,4 +1,4 @@
-if (distance_to_object(obj_bucket) <= 15 && keyboard_check_pressed(vk_enter))
+if (distance_to_object(bucket) <= 15 && keyboard_check_pressed(vk_enter))
 {
 	room_goto(rm_dialoguePROLOGUE);
 	global.curDialogue = 32;

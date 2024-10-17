@@ -1,3 +1,4 @@
+if isHoliday = false{
 if round(rng) = 1{
 	draw_text_color(x, y, "Voice Acting! Holy Hell!!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
@@ -75,11 +76,56 @@ if round(rng) = 23{
 if round(rng) = 24{
 	draw_text_color(x, y, "AGWYPaaB The Movie Coming 2054 (Real)", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
-
-
-
-
+if round(rng) = 25{
+	draw_text_color(x, y, "Build a Bucket Now Available on The Level Select Screen!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 26{
+	draw_text_color(x, y, "Find Us on Bluesky! @Ingogamez.bsky.social", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 27{
+	draw_text_color(x, y, "Mobile Support Coming Eventually", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 28{
+	draw_text_color(x, y, "I'll port it to Linux one day.", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+}
 
 if global.showDEBUG = true{
 	draw_text(1120, 32, rng);
+}
+
+if current_day = 31 && current_month = 10
+{
+	isHoliday = true;
+	draw_text_color(x, y, "Happy Halloween!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if current_day = 25 && current_month = 12
+{
+	isHoliday = true;
+	draw_text_color(x, y, "Happy Holidays!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if current_day = 18 && current_month = 5
+{
+	isHoliday = true;
+	draw_text_color(x, y, "Happy Birthday AGWYPaaB!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if current_day = 27 && current_month = 2
+{
+	isHoliday = true;
+	draw_text_color(x, y, "Happy Birthday dogdillon!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if current_day = 11 && current_month = 5
+{
+	isHoliday = true;
+	draw_text_color(x, y, "Happy Birthday Whoeverhitme!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if current_day = 23 && current_month = 11
+{
+	isHoliday = true;
+	draw_text_color(x, y, "Happy Birthday KAD!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if current_day = 9 && current_month = 12
+{
+	isHoliday = true;
+	draw_text_color(x, y, "Happy Birthday E-DubzNG!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }

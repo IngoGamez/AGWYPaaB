@@ -50,9 +50,9 @@
     {"$GMFolder":"","%Name":"Player","folderPath":"folders/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Bucket","folderPath":"folders/Player/Bucket.yy","name":"Bucket","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"down","folderPath":"folders/Player/Bucket/down.yy","name":"down","resourceType":"GMFolder","resourceVersion":"2.0",},
-    {"$GMFolder":"","%Name":"pieces","folderPath":"folders/Player/Bucket/pieces.yy","name":"pieces","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Idle","folderPath":"folders/Player/Bucket/Idle.yy","name":"Idle","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"left","folderPath":"folders/Player/Bucket/left.yy","name":"left","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"pieces","folderPath":"folders/Player/Bucket/pieces.yy","name":"pieces","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"right","folderPath":"folders/Player/Bucket/right.yy","name":"right","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"up","folderPath":"folders/Player/Bucket/up.yy","name":"up","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"BucketCombat","folderPath":"folders/Player/BucketCombat.yy","name":"BucketCombat","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -100,7 +100,6 @@
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"README.txt","CopyToMask":-1,"filePath":"datafiles","name":"README.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"credits.mp4","CopyToMask":-1,"filePath":"datafiles/videos/menu","name":"credits.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
-    {"$GMIncludedFile":"","%Name":"0918.gif","CopyToMask":-1,"filePath":"datafiles/videos/prologue","name":"0918.gif","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"intro.mp4","CopyToMask":-1,"filePath":"datafiles/videos/prologue","name":"intro.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"outro.mp4","CopyToMask":-1,"filePath":"datafiles/videos/prologue","name":"outro.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"pyroPeanut.mp4","CopyToMask":-1,"filePath":"datafiles/videos/prologue","name":"pyroPeanut.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
@@ -170,6 +169,7 @@
     {"id":{"name":"obj_pause","path":"objects/obj_pause/obj_pause.yy",},},
     {"id":{"name":"obj_play_lvlselect","path":"objects/obj_play_lvlselect/obj_play_lvlselect.yy",},},
     {"id":{"name":"obj_play","path":"objects/obj_play/obj_play.yy",},},
+    {"id":{"name":"obj_positionReporter","path":"objects/obj_positionReporter/obj_positionReporter.yy",},},
     {"id":{"name":"obj_prologue","path":"objects/obj_prologue/obj_prologue.yy",},},
     {"id":{"name":"obj_pyroNPCPROLOGUE","path":"objects/obj_pyroNPCPROLOGUE/obj_pyroNPCPROLOGUE.yy",},},
     {"id":{"name":"obj_pyroPeanut","path":"objects/obj_pyroPeanut/obj_pyroPeanut.yy",},},
@@ -391,7 +391,6 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"rm_drawingTest","path":"rooms/rm_drawingTest/rm_drawingTest.yy",},},
     {"roomId":{"name":"rm_click2play","path":"rooms/rm_click2play/rm_click2play.yy",},},
     {"roomId":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},},
     {"roomId":{"name":"rm_levelselect","path":"rooms/rm_levelselect/rm_levelselect.yy",},},
@@ -435,6 +434,7 @@
     {"roomId":{"name":"rm_outroFRAMES","path":"rooms/rm_outroFRAMES/rm_outroFRAMES.yy",},},
     {"roomId":{"name":"rm_pyroFRAMES","path":"rooms/rm_pyroFRAMES/rm_pyroFRAMES.yy",},},
     {"roomId":{"name":"rm_charCreate","path":"rooms/rm_charCreate/rm_charCreate.yy",},},
+    {"roomId":{"name":"rm_drawingTest","path":"rooms/rm_drawingTest/rm_drawingTest.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

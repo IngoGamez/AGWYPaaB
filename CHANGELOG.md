@@ -7,13 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.6.0] 2024-10-31
 ### Added
-- New Skin Select Menu!
-    - Click Bucket on the level select menu!
-- Buncha new skins!
-    - Spooky Bucket Skin
-    - Tank Guy Skin
+- New Build a Bucket Menu! Access it by clicking on Bucket in the Level Select Menu!
+    - Create your own Bucket using different faces, bodies, and legs!
+### Changed
+- Bucket is now drawn using seperate sprites instead of just one sprites
 ### Fixed
-- Cutscene Audio on Web Not Changing Volume
+- Cutscene audio not changing audio
+- A glitch where Bucket duplicates on web
+### Removed
+- A random gif that came with the game for some reason lol
 
 ## [0.5.1] - 2024-09-19
 ### Added

@@ -58,4 +58,4 @@ Temporary Items
 *.resource_order
 *.old
 
-git-filter-repo
+/ignoredFiles

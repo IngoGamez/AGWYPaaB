@@ -13,8 +13,8 @@ if (global.curDialogue == 24){
 	global.canMove = true;
 	global.inDialogue = false;
 	//this is kinda a band-aid fix. bucket's visibility just doesn't update for some reason and I'm too tired to figure it out.
-	obj_bucket.x = 288 * 0.66666666666;
-	obj_bucket.y = 607 * 0.66666666666;
+	bucket.x = 288 * 0.66666666666;
+	bucket.y = 607 * 0.66666666666;
 }
 if (global.curDialogue == 31){
 	if os_browser

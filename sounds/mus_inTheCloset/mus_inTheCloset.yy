@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":243.16132,
+  "duration":96.0,
   "name":"mus_inTheCloset",
   "parent":{
     "name":"Music",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"mus_inTheCloset.ogg",
+  "soundFile":"mus_inTheCloset.wav",
   "type":0,
   "volume":1.0,
 }

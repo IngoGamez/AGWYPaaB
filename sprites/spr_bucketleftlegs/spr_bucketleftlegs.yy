@@ -44,7 +44,7 @@
   "origin":4,
   "parent":{
     "name":"left",
-    "path":"folders/Player/Bucket/left.yy",
+    "path":"folders/Player/Bucket/DEFAULT/left.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

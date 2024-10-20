@@ -38,7 +38,7 @@
   "origin":4,
   "parent":{
     "name":"right",
-    "path":"folders/Player/Bucket/right.yy",
+    "path":"folders/Player/Bucket/DEFAULT/right.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

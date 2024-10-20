@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"up",
-    "path":"folders/Player/Bucket/up.yy",
+    "path":"folders/Player/Bucket/DEFAULT/up.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -21,7 +21,7 @@ blacklistedRoomsList = [
 	rm_tutorialFight, 
 	rm_prologueFIGHT, 
 	rm_dialoguePROLOGUE, 
-	rm_charCreate, 
+	rm_buildabucket, 
 	rm_debugHUB, 
 	rm_bucket_dead,
 	rm_bucket_dying

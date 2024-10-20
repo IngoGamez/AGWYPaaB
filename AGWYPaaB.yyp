@@ -197,6 +197,7 @@
     {"id":{"name":"obj_versionNUM","path":"objects/obj_versionNUM/obj_versionNUM.yy",},},
     {"id":{"name":"obj_volReporter","path":"objects/obj_volReporter/obj_volReporter.yy",},},
     {"id":{"name":"obj_warp","path":"objects/obj_warp/obj_warp.yy",},},
+    {"id":{"name":"obj_webBucketTeleporter","path":"objects/obj_webBucketTeleporter/obj_webBucketTeleporter.yy",},},
     {"id":{"name":"obj_website","path":"objects/obj_website/obj_website.yy",},},
     {"id":{"name":"obj_winBucket","path":"objects/obj_winBucket/obj_winBucket.yy",},},
     {"id":{"name":"obj_winTEXT","path":"objects/obj_winTEXT/obj_winTEXT.yy",},},

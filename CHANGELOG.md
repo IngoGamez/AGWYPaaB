@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Cutscene audio not changing audio
 - A glitch where Bucket duplicates on web
+- Various bugs on web
 ### Removed
 - A random gif that came with the game for some reason lol
 

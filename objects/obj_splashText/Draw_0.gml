@@ -27,12 +27,7 @@ if round(rng) = 9{
 	draw_text_color(x, y, "i like trains", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
 if round(rng) = 10{
-	if os_browser{
-		draw_text_color(x, y, "Web Exclusive Splash!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
-	}
-	if os_windows or os_linux or os_macosx{
-		draw_text_color(x, y, "Desktop Exclusive Splash!", c_aqua, c_aqua, c_aqua, c_aqua, 1)
-	}
+	draw_text_color(x, y, "Politics are dumb, buckets are not.", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
 if round(rng) = 11{
 	draw_text_color(x, y, "Play D-Money Clicker on Itch.io!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
@@ -87,6 +82,12 @@ if round(rng) = 27{
 }
 if round(rng) = 28{
 	draw_text_color(x, y, "I'll port it to Linux one day.", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 29{
+	draw_text_color(x, y, "483k hours of medical malpractice!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 30{
+	draw_text_color(x, y, ":)", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
 }
 

@@ -1,3 +1,3 @@
 randomize();
-rng = round(random_range(1, 28));
+rng = round(random_range(1, 30));
 isHoliday = false;

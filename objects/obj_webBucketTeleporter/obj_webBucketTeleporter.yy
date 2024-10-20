@@ -1,11 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_dummyBucketRoom",
+  "%Name":"obj_webBucketTeleporter",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_dummyBucketRoom",
+  "name":"obj_webBucketTeleporter",
   "overriddenProperties":[],
   "parent":{
     "name":"AGWYPaaB",
@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_tutorialDummyIdle",
-    "path":"sprites/spr_tutorialDummyIdle/spr_tutorialDummyIdle.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

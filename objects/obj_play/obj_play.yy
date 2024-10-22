@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"play",
-    "path":"sprites/play/play.yy",
+    "name":"spr_play",
+    "path":"sprites/spr_play/spr_play.yy",
   },
   "spriteMaskId":null,
   "visible":true,

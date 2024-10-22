@@ -9,12 +9,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - New Build a Bucket Menu! Access it by clicking on Bucket in the Level Select Menu!
     - Create your own Bucket using different faces, bodies, and legs!
+- Restored Donut's previously unused idle animation in battle!
 ### Changed
 - Bucket is now drawn using seperate sprites instead of just one sprites
 ### Fixed
 - Cutscene audio not changing audio
-- A glitch where Bucket duplicates on web
+- A bug where Bucket duplicates on web
 - Various bugs on web
+- A bug Where button hitboxes were off.
 ### Removed
 - A random gif that came with the game for some reason lol
 

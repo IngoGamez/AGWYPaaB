@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"extras",
-    "path":"sprites/extras/extras.yy",
+    "name":"spr_extras",
+    "path":"sprites/spr_extras/spr_extras.yy",
   },
   "spriteMaskId":null,
   "visible":true,

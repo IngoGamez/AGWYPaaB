@@ -39,8 +39,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"charCreateMenu",
-    "path":"folders/charCreateMenu.yy",
+    "name":"Everything Else",
+    "path":"folders/charCreateMenu/sprites/Everything Else.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

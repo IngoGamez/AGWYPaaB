@@ -89,6 +89,48 @@ if round(rng) = 29{
 if round(rng) = 30{
 	draw_text_color(x, y, ":)", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
+if round(rng) = 31{
+	draw_text_color(x, y, "Do y'all fw garlic bread?", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 32{
+	draw_text_color(x, y, "As seen on Newgrounds.com", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 33{
+	draw_text_color(x, y, "Not sponsored by The Holy Family Catholic Church", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 34{
+	draw_text_color(x, y, "Parental Advisory: Naughty Words Included", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 35{
+	draw_text_color(x, y, "I like my cheese drippy, bruh", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 36{
+	draw_text_color(x, y, "Mold not included", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 37{
+	draw_text_color(x, y, "mfw the chroma is rusty", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 38{
+	draw_text_color(x, y, "That bucket is a spy!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 39{
+	draw_text_color(x, y, "Open source is pretty cool!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 40{
+	draw_text_color(x, y, "May Contain Peanuts", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 41{
+	draw_text_color(x, y, "Bears Not Included", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 42{
+	draw_text_color(x, y, "A game with a VERY sane playerbase.", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 43{
+	draw_text_color(x, y, "Shoutout to the Canadian bucket fans.", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
+if round(rng) = 44{
+	draw_text_color(x, y, "Pyro has 17 charges of aggravated assault with a paper towel!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
 }
 
 if global.showDEBUG = true{

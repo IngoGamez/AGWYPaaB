@@ -8,8 +8,8 @@
   "name":"obj_darkFilter",
   "overriddenProperties":[],
   "parent":{
-    "name":"charCreateMenu",
-    "path":"folders/charCreateMenu.yy",
+    "name":"Everything Else",
+    "path":"folders/charCreateMenu/objects/Everything Else.yy",
   },
   "parentObjectId":null,
   "persistent":false,

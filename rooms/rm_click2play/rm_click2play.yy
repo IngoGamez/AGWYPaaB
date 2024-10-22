@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_click2play",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_click2play/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -9,26 +9,10 @@
     {"name":"inst_73FB7A0A","path":"rooms/rm_click2play/rm_click2play.yy",},
     {"name":"inst_7B89200","path":"rooms/rm_click2play/rm_click2play.yy",},
     {"name":"inst_1950529D","path":"rooms/rm_click2play/rm_click2play.yy",},
-    {"name":"inst_D1607C5","path":"rooms/rm_click2play/rm_click2play.yy",},
-    {"name":"inst_3BABAA6A","path":"rooms/rm_click2play/rm_click2play.yy",},
-    {"name":"inst_456ABCA4","path":"rooms/rm_click2play/rm_click2play.yy",},
-    {"name":"inst_CC92776","path":"rooms/rm_click2play/rm_click2play.yy",},
     {"name":"inst_302FAAEE","path":"rooms/rm_click2play/rm_click2play.yy",},
   ],
   "isDnd":false,
   "layers":[
-    {"$GMRLayer":"","%Name":"bucket","depth":-100399,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
-        {"$GMRInstanceLayer":"","%Name":"face","depth":-100299,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-            {"$GMRInstance":"v1","%Name":"inst_D1607C5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D1607C5","objectId":{"name":"obj_bucketFace","path":"objects/obj_bucketFace/obj_bucketFace.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.616,"scaleY":0.68,"x":-832.0,"y":736.0,},
-          ],"layers":[],"name":"face","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-        {"$GMRInstanceLayer":"","%Name":"body","depth":-100199,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-            {"$GMRInstance":"v1","%Name":"inst_3BABAA6A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3BABAA6A","objectId":{"name":"obj_bucketBody","path":"objects/obj_bucketBody/obj_bucketBody.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.616,"scaleY":0.68,"x":-832.0,"y":736.0,},
-          ],"layers":[],"name":"body","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-        {"$GMRInstanceLayer":"","%Name":"legs","depth":-100099,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-            {"$GMRInstance":"v1","%Name":"inst_456ABCA4","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_456ABCA4","objectId":{"name":"obj_bucketLegs","path":"objects/obj_bucketLegs/obj_bucketLegs.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.616,"scaleY":0.68,"x":-832.0,"y":736.0,},
-            {"$GMRInstance":"v1","%Name":"inst_CC92776","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_CC92776","objectId":{"name":"bucket","path":"objects/bucket/bucket.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-864.0,"y":512.0,},
-          ],"layers":[],"name":"legs","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
-      ],"name":"bucket","properties":[],"resourceType":"GMRLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"daMouse","depth":-99999,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_1950529D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1950529D","objectId":{"name":"obj_controllerInputHandlerMENU","path":"objects/obj_controllerInputHandlerMENU/obj_controllerInputHandlerMENU.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":32.0,"y":0.0,},
       ],"layers":[],"name":"daMouse","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":true,"visible":true,},

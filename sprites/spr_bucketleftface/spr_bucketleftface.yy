@@ -44,7 +44,7 @@
   "origin":4,
   "parent":{
     "name":"left",
-    "path":"folders/Player/Bucket/DEFAULT/left.yy",
+    "path":"folders/Player/Bucket/SKINS N' SHIT/DEFAULT/left.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

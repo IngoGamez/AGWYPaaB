@@ -1,6 +1,4 @@
-if global.curShooting = true{
-	sprite_index = spr_donutCOMBATSHOT;
-}
-if global.curShooting = false{
+if obj_knifeCombat.canHitSpace = true
+{
 	sprite_index = spr_donutCOMBATIDLE;
 }

@@ -24,10 +24,14 @@
     {"name":"inst_3BABAA6A","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_5A7FD778","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_CC92776","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
+    {"name":"inst_7A22000D","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
   ],
   "isDnd":false,
   "layers":[
-    {"$GMRLayer":"","%Name":"bucket","depth":-1000399,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
+    {"$GMRLayer":"","%Name":"bucket","depth":-1000499,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
+        {"$GMRInstanceLayer":"","%Name":"foot","depth":-1000399,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+            {"$GMRInstance":"v1","%Name":"inst_7A22000D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7A22000D","objectId":{"name":"obj_bucketFoot","path":"objects/obj_bucketFoot/obj_bucketFoot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.8298969,"scaleY":0.7147651,"x":-800.0,"y":832.0,},
+          ],"layers":[],"name":"foot","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
         {"$GMRInstanceLayer":"","%Name":"face","depth":-1000299,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
             {"$GMRInstance":"v1","%Name":"inst_5A7FD778","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5A7FD778","objectId":{"name":"obj_bucketFace","path":"objects/obj_bucketFace/obj_bucketFace.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.616,"scaleY":0.68,"x":-832.0,"y":762.0,},
           ],"layers":[],"name":"face","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},

@@ -30,6 +30,7 @@ if (global.canMove == true){
 
 obj_bucketFace.image_index = obj_bucketBody.image_index;
 obj_bucketLegs.image_index = obj_bucketBody.image_index;
+obj_bucketFoot.image_index = obj_bucketBody.image_index;
 obj_bucketFace.x = obj_bucketBody.x;
 obj_bucketLegs.x = obj_bucketBody.x;
 obj_bucketFace.y = obj_bucketBody.y + 26;
@@ -43,6 +44,8 @@ if global.curBody = "default"
 		obj_bucketFace.y = obj_bucketBody.y + 26;
 		obj_bucketLegs.x = obj_bucketBody.x - 5;
 		obj_bucketLegs.y = obj_bucketBody.y + 96;
+		obj_bucketFoot.x = obj_bucketBody.x + 5;
+		obj_bucketFoot.y = obj_bucketBody.y + 70;
 	}
 	if anim = "left"
 	{

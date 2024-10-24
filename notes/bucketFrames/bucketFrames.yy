@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"",
+  "%Name":"bucketFrames",
+  "name":"bucketFrames",
+  "parent":{
+    "name":"Bucket",
+    "path":"folders/Player/Bucket.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}

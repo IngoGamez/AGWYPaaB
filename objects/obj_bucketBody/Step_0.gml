@@ -22,26 +22,3 @@ if global.curBody = "default"
 		sprite_index = spr_bucketupbody;
 	}
 }
-if global.curBody = "awesome"
-{
-	if bucket.anim = "idle"
-	{
-		sprite_index = spr_AWESOMEIDLEBody;
-	}
-	if bucket.anim = "down"
-	{
-		sprite_index = spr_AWESOMEDOWNBody;
-	}
-	if bucket.anim = "left"
-	{
-		sprite_index = spr_AWESOMELEFTBody;
-	}
-	if bucket.anim = "right"
-	{
-		sprite_index = spr_awesomerightbody;
-	}
-	if bucket.anim = "up"
-	{
-		sprite_index = spr_awesomeupbody;
-	}
-}

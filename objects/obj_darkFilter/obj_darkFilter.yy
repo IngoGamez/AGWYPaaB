@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Everything Else",
-    "path":"folders/charCreateMenu/objects/Everything Else.yy",
+    "path":"folders/buildabucket/objects/Everything Else.yy",
   },
   "parentObjectId":null,
   "persistent":false,

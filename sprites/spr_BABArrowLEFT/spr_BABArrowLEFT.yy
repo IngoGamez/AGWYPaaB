@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"UI",
-    "path":"folders/charCreateMenu/sprites/UI.yy",
+    "path":"folders/buildabucket/sprites/UI.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

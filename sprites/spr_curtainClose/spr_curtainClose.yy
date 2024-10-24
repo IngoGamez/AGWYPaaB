@@ -160,7 +160,7 @@
   "origin":4,
   "parent":{
     "name":"Everything Else",
-    "path":"folders/charCreateMenu/sprites/Everything Else.yy",
+    "path":"folders/buildabucket/sprites/Everything Else.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

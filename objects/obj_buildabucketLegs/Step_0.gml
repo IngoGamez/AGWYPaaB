@@ -2,7 +2,7 @@ if global.curLegs = "default"
 {
 	sprite_index = spr_bucketIdleLegs;
 }
-if global.curLegs = "awesome"
+if global.curLegs = "ghost"
 {
-	sprite_index = spr_AWESOMEIDLELegs;
+	sprite_index = spr_bucketIdleLegs_ghost;
 }

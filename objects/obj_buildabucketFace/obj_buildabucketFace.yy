@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"bucket",
-    "path":"folders/charCreateMenu/bucket.yy",
+    "path":"folders/buildabucket/bucket.yy",
   },
   "parentObjectId":null,
   "persistent":false,

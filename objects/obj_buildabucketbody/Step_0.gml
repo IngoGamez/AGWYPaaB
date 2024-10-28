@@ -10,3 +10,15 @@ if global.curBody = "jackolantern"
 {
 	sprite_index = spr_bucketIdleBody_jacko;
 }
+if global.curBody = "medic"
+{
+	sprite_index = spr_bucketIdleBody_medic;
+}
+if global.curBody = "skeleton"
+{
+	sprite_index = spr_bucketIdleBody_skull;
+}
+if global.curBody = "whoever"
+{
+	sprite_index = spr_bucketIdleBody_whoever;
+}

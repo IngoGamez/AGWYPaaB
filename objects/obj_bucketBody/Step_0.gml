@@ -68,3 +68,72 @@ if global.curBody = "jackolantern"
 		sprite_index = spr_bucketupbody_jacko;
 	}
 }
+if global.curBody = "medic"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketIdleBody_medic;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownbody_medic;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftbody_medic;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightbody_medic;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupbody_medic;
+	}
+}
+if global.curBody = "skeleton"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketIdleBody_skull;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownbody_skull;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftbody_skull;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightbody_skull;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupbody_skull;
+	}
+}
+if global.curBody = "whoever"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketIdleBody_whoever;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownbody_whoever;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftbody_whoever;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightbody_whoever;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupbody_whoever;
+	}
+}

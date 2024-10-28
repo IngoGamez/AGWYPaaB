@@ -68,3 +68,49 @@ if global.curLegs = "jackolantern"
 		sprite_index = spr_bucketuplegs_jacko;
 	}
 }
+if global.curLegs = "medic"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketIdleLegs_medic;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownlegs_medic;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftlegs_medic;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightlegs_medic;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketuplegs_medic;
+	}
+}
+if global.curLegs = "skeleton"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketIdleLegs_skull;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownlegs_skull;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftlegs_skull;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightlegs_skull;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketuplegs_skull;
+	}
+}

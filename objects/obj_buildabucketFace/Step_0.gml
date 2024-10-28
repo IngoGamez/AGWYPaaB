@@ -6,3 +6,7 @@ if global.curFace = "ghost"
 {
 	sprite_index = spr_bucketIdleFace_ghost;
 }
+if global.curFace = "jackolantern"
+{
+	sprite_index = spr_bucketIdleFace_jacko;
+}

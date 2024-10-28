@@ -8,8 +8,8 @@
   "name":"obj_dummyBucketRoom",
   "overriddenProperties":[],
   "parent":{
-    "name":"AGWYPaaB",
-    "path":"AGWYPaaB.yyp",
+    "name":"Tutorial",
+    "path":"folders/Tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,

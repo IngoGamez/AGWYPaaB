@@ -45,3 +45,26 @@ if global.curFace = "ghost"
 		sprite_index = spr_bucketupface_ghost;
 	}
 }
+if global.curFace = "jackolantern"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketIdleFace_jacko;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownface_jacko;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftface_jacko;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightface_jacko;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupface_jacko;
+	}
+}

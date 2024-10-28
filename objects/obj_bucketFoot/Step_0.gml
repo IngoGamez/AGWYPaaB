@@ -46,3 +46,26 @@ if global.curLegs = "default"
 		sprite_index = spr_bucketUpFoot_ghost;
 	}
 }
+if global.curLegs = "jackolantern"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketDownFoot_jacko;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketUpFoot_jacko;
+	}
+}

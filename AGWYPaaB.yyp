@@ -564,7 +564,6 @@
     {"roomId":{"name":"rm_room11PRO","path":"rooms/rm_room11PRO/rm_room11PRO.yy",},},
     {"roomId":{"name":"rm_room12PRO","path":"rooms/rm_room12PRO/rm_room12PRO.yy",},},
     {"roomId":{"name":"rm_room13PRO","path":"rooms/rm_room13PRO/rm_room13PRO.yy",},},
-    {"roomId":{"name":"rm_room14PRO","path":"rooms/rm_room14PRO/rm_room14PRO.yy",},},
     {"roomId":{"name":"rm_pyroPeanut","path":"rooms/rm_pyroPeanut/rm_pyroPeanut.yy",},},
     {"roomId":{"name":"rm_introcutscene_proFRAMES","path":"rooms/rm_introcutscene_proFRAMES/rm_introcutscene_proFRAMES.yy",},},
     {"roomId":{"name":"rm_modLoader","path":"rooms/rm_modLoader/rm_modLoader.yy",},},
@@ -582,6 +581,7 @@
     {"roomId":{"name":"rm_pyroFRAMES","path":"rooms/rm_pyroFRAMES/rm_pyroFRAMES.yy",},},
     {"roomId":{"name":"rm_buildabucket","path":"rooms/rm_buildabucket/rm_buildabucket.yy",},},
     {"roomId":{"name":"rm_drawingTest","path":"rooms/rm_drawingTest/rm_drawingTest.yy",},},
+    {"roomId":{"name":"rm_room14PRO","path":"rooms/rm_room14PRO/rm_room14PRO.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

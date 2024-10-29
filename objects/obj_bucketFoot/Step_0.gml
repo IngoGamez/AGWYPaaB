@@ -23,7 +23,7 @@ if global.curLegs = "default"
 		sprite_index = spr_bucketUpFoot;
 	}
 }
-if global.curLegs = "default"
+if global.curLegs = "ghost"
 {
 	if bucket.anim = "idle"
 	{

@@ -1,4 +1,4 @@
-if obj_ropeBAB.isLight = true
+if obj_bulbBAB.isLight = true
 {
 	image_alpha = 0;
 }

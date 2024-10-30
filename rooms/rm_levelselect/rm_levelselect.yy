@@ -11,6 +11,7 @@
     {"name":"inst_6F381251","path":"rooms/rm_levelselect/rm_levelselect.yy",},
     {"name":"inst_17D82945","path":"rooms/rm_levelselect/rm_levelselect.yy",},
     {"name":"inst_5A05BFA5","path":"rooms/rm_levelselect/rm_levelselect.yy",},
+    {"name":"inst_18035913","path":"rooms/rm_levelselect/rm_levelselect.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -20,6 +21,7 @@
         {"$GMRInstance":"v1","%Name":"inst_6F381251","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6F381251","objectId":{"name":"obj_tutorialButton","path":"objects/obj_tutorialButton/obj_tutorialButton.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.63323784,"scaleY":0.6363636,"x":224.0,"y":288.0,},
         {"$GMRInstance":"v1","%Name":"inst_17D82945","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_17D82945","objectId":{"name":"obj_bucketOnLevelSelect","path":"objects/obj_bucketOnLevelSelect/obj_bucketOnLevelSelect.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":960.0,"y":320.0,},
         {"$GMRInstance":"v1","%Name":"inst_5A05BFA5","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5A05BFA5","objectId":{"name":"obj_bucketMenuHitboxLOL","path":"objects/obj_bucketMenuHitboxLOL/obj_bucketMenuHitboxLOL.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":4.3125,"scaleY":10.0,"x":1120.0,"y":448.0,},
+        {"$GMRInstance":"v1","%Name":"inst_18035913","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_18035913","objectId":{"name":"obj_BlueBallBAB","path":"objects/obj_BlueBallBAB/obj_BlueBallBAB.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.616,"scaleY":0.6,"x":992.0,"y":192.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_2EEFC803","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2EEFC803","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0444444,"spriteId":{"name":"spr_bluCard","path":"sprites/spr_bluCard/spr_bluCard.yy",},"x":512.0,"y":352.0,},

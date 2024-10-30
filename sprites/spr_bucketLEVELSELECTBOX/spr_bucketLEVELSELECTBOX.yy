@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"LevelSelect",
-    "path":"folders/Menus/Objects/LevelSelect.yy",
+    "name":"levelSelect",
+    "path":"folders/Menus/Sprites/levelSelect.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

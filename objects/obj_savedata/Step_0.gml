@@ -1,5 +1,6 @@
 ini_open("data/settings.ini");
 ini_write_real("settings", "fullscreen", global.fullscreen);
+ini_write_real("data", "newBAB", global.newBAB);
 ini_close();
 
 //fullscreen junk

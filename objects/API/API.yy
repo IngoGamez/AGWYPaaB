@@ -1,18 +1,18 @@
 {
   "$GMObject":"",
-  "%Name":"obj_APIShit",
+  "%Name":"API",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_APIShit",
+  "name":"API",
   "overriddenProperties":[],
   "parent":{
-    "name":"APIJunk",
-    "path":"folders/Shared/APIJunk.yy",
+    "name":"AGWYPaaB",
+    "path":"AGWYPaaB.yyp",
   },
   "parentObjectId":null,
-  "persistent":false,
+  "persistent":true,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,

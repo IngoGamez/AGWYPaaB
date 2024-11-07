@@ -5,11 +5,21 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.7.0] 2024-12-20
+### Added
+- New Hats Available in Build a Bucket Now!
+- New Build a Bucket Costumes!
+- New Results Screens!
+    - After winning a battle, you will get to see how well you did!
+### Fixed
+- Hitbox issues in rooms
+
 ## [0.6.0] 2024-10-31
 ### Added
 - New Build a Bucket Menu! Access it by clicking on Bucket in the Level Select Menu!
     - Create your own Bucket using different faces, bodies, and legs!
 - Restored Donut's previously unused idle animation in battle!
+- New Boot Up Screen!
 ### Changed
 - Bucket is now drawn using seperate sprites instead of just one sprites
 ### Fixed

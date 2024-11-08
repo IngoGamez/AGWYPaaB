@@ -11,6 +11,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Build a Bucket Costumes!
 - New Results Screens!
     - After winning a battle, you will get to see how well you did!
+### Changed
+- Credits are now rendered in game rather than in a video
 ### Fixed
 - Hitbox issues in rooms
 

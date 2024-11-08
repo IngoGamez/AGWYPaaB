@@ -1,3 +1,3 @@
 event_inherited();
 
-room_goto(rm_credits);
+room_goto(rm_scrollingCredits);

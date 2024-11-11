@@ -131,6 +131,9 @@ if round(rng) = 43{
 if round(rng) = 44{
 	draw_text_color(x, y, "Pyro has 17 charges of aggravated assault with a paper towel!", c_aqua, c_aqua, c_aqua, c_aqua, 1);
 }
+if round(rng) = 45{
+	draw_text_color(x, y, "Controller Support Returning Soon Probably Maybe idk", c_aqua, c_aqua, c_aqua, c_aqua, 1);
+}
 }
 
 if global.showDEBUG = true{

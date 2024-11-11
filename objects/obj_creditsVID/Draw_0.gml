@@ -7,12 +7,5 @@ if (_videoStatus == 0)
 
 if (video_get_status() == video_status_closed)
 {
-	if gamepad_is_connected(0)
-	{
-		room_goto(rm_mainmenuCONTROLLER);
-	}
-	else
-	{
-		room_goto(rm_mainmenu);
-	}
+	room_goto(rm_mainmenu);
 }

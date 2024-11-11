@@ -5,7 +5,7 @@ global.curNPC = 2;
 global.inDialogue = false;
 
 //a list of rooms where bucket can't walk. This is currently unused but i'll implement it eventually lol
-blacklistedRoomsList = [
+/*blacklistedRoomsList = [
 	rm_mainmenu, 
 	rm_mainmenuCONTROLLER, 
 	rm_optionsmenu, 
@@ -26,6 +26,6 @@ blacklistedRoomsList = [
 	rm_bucket_dead,
 	rm_bucket_dying
 ];
-
+*/
 bucketX = 1888;
 bucketY = 774;

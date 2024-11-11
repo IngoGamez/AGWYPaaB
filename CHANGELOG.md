@@ -15,6 +15,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Credits are now rendered in game rather than in a video
 ### Fixed
 - Hitbox issues in rooms
+### Removed
+- Controller Support (it was buggy af but will come back at some point)
 
 ## [0.6.0] 2024-10-31
 ### Added

@@ -12,6 +12,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Pause Menu!
 - New Results Screens!
     - After winning a battle, you will get to see how well you did!
+- New Screenshot Feature (Press F2 to take a screenshot! Screenshots are saved in C:\Users\User\AppData\Local\AGWYPaaB\screenshots)
 ### Changed
 - Credits are now rendered in game rather than in a video
 ### Fixed
@@ -26,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Restored Donut's previously unused idle animation in battle!
 - New Boot Up Screen!
 ### Changed
-- Bucket is now drawn using seperate sprites instead of just one sprites
+- Bucket is now drawn using seperate sprites instead of just one sprite
 ### Fixed
 - Cutscene audio not changing audio
 - A bug where Bucket duplicates on web

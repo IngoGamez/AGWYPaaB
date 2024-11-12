@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":0.617732,
+  "duration":0.715604,
   "name":"snd_screenshot",
   "parent":{
     "name":"SFX",
@@ -19,7 +19,7 @@
   "resourceType":"GMSound",
   "resourceVersion":"2.0",
   "sampleRate":44100,
-  "soundFile":"snd_screenshot.ogg",
+  "soundFile":"snd_screenshot.wav",
   "type":0,
   "volume":1.0,
 }

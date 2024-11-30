@@ -1,1 +1,1 @@
-room_goto(rm_bucket_dying);
+room_goto(rm_musicPopUpTEST);

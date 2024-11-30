@@ -1,0 +1,16 @@
+name = "null";
+musname = "null";
+artist = "null";
+musartist = "null";
+voice = "null";
+album = "null";
+releaseDate = "null";
+bpm = "null";
+difficulties = "null"
+description = "null";
+set = "null";
+rarity = "null";
+curSong = 0;
+curLevel = 0;
+curVideo = 0;
+curChar = "null";

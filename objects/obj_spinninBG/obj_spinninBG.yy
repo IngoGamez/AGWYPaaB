@@ -29,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"bg",
-    "path":"sprites/bg/bg.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

@@ -1,1 +1,1 @@
-audio_stop_sound(mus_skiter);
+audio_stop_sound(mus_leopeidia);

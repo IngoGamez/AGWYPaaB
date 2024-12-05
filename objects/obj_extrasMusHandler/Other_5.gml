@@ -1,1 +1,1 @@
-audio_stop_sound(mus_stress);
+audio_stop_sound(mus_extras);

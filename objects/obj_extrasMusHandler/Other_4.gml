@@ -1,1 +1,1 @@
-audio_play_sound(mus_stress, 1, true);
+audio_play_sound(mus_extras, 1, true);

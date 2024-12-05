@@ -9,6 +9,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - New Hats Available in Build a Bucket Now!
 - New Build a Bucket Costumes!
+- New Menu Background!
+- New Music for the Options and Extras Menus!
 - New Pause Menu!
 - New Results Screens!
     - After winning a battle, you will get to see how well you did!

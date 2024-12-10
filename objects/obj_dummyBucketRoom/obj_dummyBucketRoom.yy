@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Tutorial",
-    "path":"folders/Tutorial.yy",
+    "path":"folders/Levels/Tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,

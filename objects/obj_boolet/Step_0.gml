@@ -32,6 +32,7 @@ if place_meeting(x, y, obj_bucketInCombat){
 	global.isHit = true;
 	global.hp = global.hp -1;
 	global.curShooting = false;
+	combatStats.hits = combatStats.hits + 1;
 	note_movement = false;
 }
 else{

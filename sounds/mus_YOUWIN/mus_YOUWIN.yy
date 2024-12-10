@@ -13,7 +13,7 @@
   "name":"mus_YOUWIN",
   "parent":{
     "name":"Music",
-    "path":"folders/Shared/winscreen/Music.yy",
+    "path":"folders/Shared/winscreen/old/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

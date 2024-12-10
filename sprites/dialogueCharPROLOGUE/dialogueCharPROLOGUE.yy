@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"DIALOGUE",
-    "path":"folders/Prologue/Sprites/DIALOGUE.yy",
+    "path":"folders/Levels/Prologue/Sprites/DIALOGUE.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

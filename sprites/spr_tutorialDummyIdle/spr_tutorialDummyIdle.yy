@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Dummy",
-    "path":"folders/Combat/Sprites/Dummy.yy",
+    "path":"folders/Shared/Combat/Sprites/Dummy.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -25,8 +25,8 @@
   ],
   "name":"rm_pauseMenu",
   "parent":{
-    "name":"pausescreen",
-    "path":"folders/pausescreen.yy",
+    "name":"Pause Screen",
+    "path":"folders/Pause Screen.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

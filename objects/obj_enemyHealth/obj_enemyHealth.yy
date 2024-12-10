@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/Combat/Objects.yy",
+    "path":"folders/Shared/Combat/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

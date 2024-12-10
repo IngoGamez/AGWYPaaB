@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"collision",
-    "path":"sprites/collision/collision.yy",
+    "name":"spr_collision",
+    "path":"sprites/spr_collision/spr_collision.yy",
   },
   "spriteMaskId":null,
   "visible":false,

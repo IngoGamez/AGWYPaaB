@@ -18,7 +18,7 @@
   "name":"rm_introcutscene_proFRAMES",
   "parent":{
     "name":"introcutscene",
-    "path":"folders/Prologue/Cutscenes/introcutscene.yy",
+    "path":"folders/Levels/Prologue/Cutscenes/introcutscene.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

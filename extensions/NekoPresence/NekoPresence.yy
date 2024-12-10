@@ -93,7 +93,7 @@
   "packageId":"",
   "parent":{
     "name":"Extensions",
-    "path":"folders/Extensions.yy",
+    "path":"folders/Shared/Extensions.yy",
   },
   "productId":"",
   "resourceType":"GMExtension",

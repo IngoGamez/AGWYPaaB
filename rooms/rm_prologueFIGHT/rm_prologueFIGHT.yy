@@ -41,7 +41,7 @@
   "name":"rm_prologueFIGHT",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Prologue/Rooms.yy",
+    "path":"folders/Levels/Prologue/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

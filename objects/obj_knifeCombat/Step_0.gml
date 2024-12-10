@@ -27,6 +27,7 @@ if note_movement = true{
 	y = y + 10;
 } 
 if y > 575{
+	combatStats.misses = combatStats.misses + 1;
 	note_movement = false;
 	global.bulletsPassed = 0;
 	global.curTurn = "enemy";

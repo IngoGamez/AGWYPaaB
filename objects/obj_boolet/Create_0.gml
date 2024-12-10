@@ -3,3 +3,7 @@ note_rng = 0;
 global.isHit = true;
 global.bulletsPassed = 0;
 global.curShooting = false;
+combatStats.hits = 0;
+combatStats.misses = 0;
+combatStats.throws = 0;
+combatStats.totalKnives = 0;

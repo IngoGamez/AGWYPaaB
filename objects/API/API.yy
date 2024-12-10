@@ -8,8 +8,8 @@
   "name":"API",
   "overriddenProperties":[],
   "parent":{
-    "name":"AGWYPaaB",
-    "path":"AGWYPaaB.yyp",
+    "name":"Objects",
+    "path":"folders/Shared/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,

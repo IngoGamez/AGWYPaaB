@@ -13,7 +13,7 @@
   "name":"mus_watchingPaintDry",
   "parent":{
     "name":"Music",
-    "path":"folders/Prologue/Music.yy",
+    "path":"folders/Levels/Prologue/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

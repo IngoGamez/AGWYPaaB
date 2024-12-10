@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_bucketGoodRankLoop",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":63.4883,
+  "name":"mus_bucketGoodRankLoop",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Shared/winscreen/good/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_bucketGoodRankLoop.wav",
+  "type":0,
+  "volume":1.0,
+}

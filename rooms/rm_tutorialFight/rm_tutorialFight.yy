@@ -47,7 +47,7 @@
   "name":"rm_tutorialFight",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Tutorial/Rooms.yy",
+    "path":"folders/Levels/Tutorial/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -38,7 +38,7 @@
   "name":"rm_bucketHouse",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Tutorial/Rooms.yy",
+    "path":"folders/Levels/Tutorial/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

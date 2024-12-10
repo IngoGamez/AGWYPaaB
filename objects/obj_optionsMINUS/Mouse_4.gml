@@ -4,6 +4,7 @@ if (_id == 1)
 {
 	if !(settings.snd_volume == 0)
 	{
+		audio_play_sound(snd_pluck, 1, false);
 		settings.snd_volume = settings.snd_volume - 0.1;
 	}
 }

@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
-    "path":"folders/Shared/winscreen/objects.yy",
+    "path":"folders/Shared/winscreen/old/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Rooms",
-    "path":"folders/Prologue/Sprites/Rooms.yy",
+    "path":"folders/Levels/Prologue/Sprites/Rooms.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

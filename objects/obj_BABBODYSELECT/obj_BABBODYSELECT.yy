@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
-    "path":"folders/buildabucket/objects/UI.yy",
+    "path":"folders/Menus/buildabucket/objects/UI.yy",
   },
   "parentObjectId":null,
   "persistent":false,

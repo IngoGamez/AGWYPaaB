@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
-    "path":"folders/pausescreen/objects.yy",
+    "path":"folders/Pause Screen/objects.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

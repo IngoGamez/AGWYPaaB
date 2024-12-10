@@ -13,7 +13,7 @@
   "name":"snd_dummyExplodes",
   "parent":{
     "name":"Sounds",
-    "path":"folders/Tutorial/Sounds.yy",
+    "path":"folders/Levels/Tutorial/Sounds.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

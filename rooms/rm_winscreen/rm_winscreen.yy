@@ -19,8 +19,8 @@
   ],
   "name":"rm_winscreen",
   "parent":{
-    "name":"winscreen",
-    "path":"folders/Shared/winscreen.yy",
+    "name":"old",
+    "path":"folders/Shared/winscreen/old.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

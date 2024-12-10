@@ -109,7 +109,7 @@
   "origin":4,
   "parent":{
     "name":"PyroCutscene",
-    "path":"folders/Prologue/Cutscenes/PyroCutscene.yy",
+    "path":"folders/Levels/Prologue/Cutscenes/PyroCutscene.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

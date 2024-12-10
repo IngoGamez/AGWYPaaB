@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Shared/winscreen/Sprites.yy",
+    "path":"folders/Shared/winscreen/old/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

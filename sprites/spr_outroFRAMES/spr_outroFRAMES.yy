@@ -296,7 +296,7 @@
   "origin":4,
   "parent":{
     "name":"outroCutscene",
-    "path":"folders/Prologue/Cutscenes/outroCutscene.yy",
+    "path":"folders/Levels/Prologue/Cutscenes/outroCutscene.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

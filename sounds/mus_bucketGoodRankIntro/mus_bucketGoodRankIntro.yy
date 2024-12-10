@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_bucketGoodRankIntro",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":4.259093,
+  "name":"mus_bucketGoodRankIntro",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Shared/winscreen/good/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_bucketGoodRankIntro.wav",
+  "type":0,
+  "volume":1.0,
+}

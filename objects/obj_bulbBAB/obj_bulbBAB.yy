@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Everything Else",
-    "path":"folders/buildabucket/objects/Everything Else.yy",
+    "path":"folders/Menus/buildabucket/objects/Everything Else.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

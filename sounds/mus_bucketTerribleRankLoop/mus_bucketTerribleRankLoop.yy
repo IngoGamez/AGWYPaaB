@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_bucketTerribleRankLoop",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":47.987053,
+  "name":"mus_bucketTerribleRankLoop",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Shared/winscreen/terrible/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_bucketTerribleRankLoop.wav",
+  "type":0,
+  "volume":1.0,
+}

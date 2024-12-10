@@ -15,8 +15,13 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Results Screens!
     - After winning a battle, you will get to see how well you did!
 - New Screenshot Feature (Press F2 to take a screenshot! Screenshots are saved in C:\Users\User\AppData\Local\AGWYPaaB\screenshots)
+- Added a sound that plays when you change your sfx volume!
 ### Changed
 - Credits are now rendered in game rather than in a video
+- Buffed Dummy and Donut's HP
+    - Dummy: 150 -> 500
+    - Donut: 500 -> 1000
+- Player is now timed on pressing space in battle
 ### Fixed
 - Hitbox issues in rooms
 ### Removed

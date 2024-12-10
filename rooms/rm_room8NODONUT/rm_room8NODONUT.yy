@@ -106,7 +106,7 @@
   "name":"rm_room8NODONUT",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Prologue/Rooms.yy",
+    "path":"folders/Levels/Prologue/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

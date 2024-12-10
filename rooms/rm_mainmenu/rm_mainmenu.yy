@@ -19,7 +19,6 @@
     {"name":"inst_9D2724F","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_C97C02E","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_5149DA42","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
-    {"name":"inst_5C1893EE","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_456ABCA4","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_3BABAA6A","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_5A7FD778","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
@@ -27,6 +26,7 @@
     {"name":"inst_7A22000D","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_45D5D226","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_1AF2C503","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
+    {"name":"inst_21A04E41","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -52,8 +52,8 @@
         {"$GMRInstance":"v1","%Name":"inst_9D2724F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_9D2724F","objectId":{"name":"obj_splashText","path":"objects/obj_splashText/obj_splashText.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":192.0,},
         {"$GMRInstance":"v1","%Name":"inst_C97C02E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_C97C02E","objectId":{"name":"settings","path":"objects/settings/settings.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":0.0,},
         {"$GMRInstance":"v1","%Name":"inst_5149DA42","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5149DA42","objectId":{"name":"bucket","path":"objects/bucket/bucket.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":864.0,},
-        {"$GMRInstance":"v1","%Name":"inst_5C1893EE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5C1893EE","objectId":{"name":"obj_positionReporter","path":"objects/obj_positionReporter/obj_positionReporter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1440.0,"y":256.0,},
         {"$GMRInstance":"v1","%Name":"inst_45D5D226","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_45D5D226","objectId":{"name":"RPC","path":"objects/RPC/RPC.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1184.0,"y":64.0,},
+        {"$GMRInstance":"v1","%Name":"inst_21A04E41","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_21A04E41","objectId":{"name":"combatStats","path":"objects/combatStats/combatStats.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1152.0,"y":64.0,},
       ],"layers":[],"name":"mouse","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"Instances_1","depth":-550,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"Instances_1","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[

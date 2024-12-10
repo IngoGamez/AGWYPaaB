@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"AGWYPaaB",
-    "path":"AGWYPaaB.yyp",
+    "name":"Sprites",
+    "path":"folders/Shared/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

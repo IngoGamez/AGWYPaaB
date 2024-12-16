@@ -1,7 +1,18 @@
 if room = rm_prologueFIGHT{
 	if global.enemyHP = 0{
-		room_goto(rm_winscreen);
 		audio_stop_sound(mus_donutz);
+		if combatStats.rank = "terrible"
+		{
+			room_goto(rm_bucketTerribleRankScreen);
+		}
+		if combatStats.rank = "good"
+		{
+			room_goto(rm_bucketGoodRankScreen);
+		}		
+		if combatStats.rank = "perfect"
+		{
+			room_goto(rm_bucketPerfectRankScreen);
+		}
 	}
 }
 if room = rm_tutorialFight

@@ -8,7 +8,7 @@ if _id = "face"
 	{
 		obj_charCreateCurtain.isChanging = true;
 		audio_play_sound(snd_curtain, 1, false);
-		obj_BABFACESELECT.image_index = 5;
+		obj_BABFACESELECT.image_index = 6;
 	}
 	else
 	{
@@ -23,7 +23,7 @@ if _id = "body"
 	{
 		audio_play_sound(snd_curtain, 1, false);
 		obj_charCreateCurtain.isChanging = true;
-		obj_BABBODYSELECT.image_index = 5;
+		obj_BABBODYSELECT.image_index = 7;
 	}
 	else
 	{
@@ -38,13 +38,28 @@ if _id = "legs"
 	{
 		audio_play_sound(snd_curtain, 1, false);
 		obj_charCreateCurtain.isChanging = true;
-		obj_BABLEGSSELECT.image_index = 4;
+		obj_BABLEGSSELECT.image_index = 6;
 	}
 	else
 	{
 		audio_play_sound(snd_curtain, 1, false);
 		obj_charCreateCurtain.isChanging = true;
 		obj_BABLEGSSELECT.image_index = obj_BABLEGSSELECT.image_index -1;
+	}
+}
+if _id = "hats"
+{
+	if obj_BABHATSELECT.image_index = 0
+	{
+		audio_play_sound(snd_curtain, 1, false);
+		obj_charCreateCurtain.isChanging = true;
+		obj_BABHATSELECT.image_index = 4;
+	}
+	else
+	{
+		audio_play_sound(snd_curtain, 1, false);
+		obj_charCreateCurtain.isChanging = true;
+		obj_BABHATSELECT.image_index = obj_BABHATSELECT.image_index -1;
 	}
 }
 }

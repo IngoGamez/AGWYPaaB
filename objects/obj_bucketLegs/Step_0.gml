@@ -114,3 +114,49 @@ if global.curLegs = "skeleton"
 		sprite_index = spr_bucketuplegs_skull;
 	}
 }
+if global.curLegs = "ice"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidlelegs_ice;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownlegs_ice;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftlegs_ice;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightlegs_ice;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketuplegs_ice;
+	}
+}
+if global.curLegs = "cane"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidlelegs_cane;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownlegs_cane;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftlegs_cane;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightlegs_cane;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketuplegs_cane;
+	}
+}

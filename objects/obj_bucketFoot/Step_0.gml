@@ -115,3 +115,49 @@ if global.curLegs = "skeleton"
 		sprite_index = spr_bucketUpFoot_skull;
 	}
 }
+if global.curLegs = "ice"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownfoot_ice;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupfoot_ice;
+	}
+}
+if global.curLegs = "cane"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownfoot_cane;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_emptyFoot;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupfoot_cane;
+	}
+}

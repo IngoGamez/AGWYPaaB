@@ -22,6 +22,10 @@ if image_index = 5
 {
 	global.curFace = "whoever";
 }
+if image_index = 6
+{
+	global.curFace = "ice";
+}
 if global.curFace = "default"
 {
 	image_index = 0;
@@ -45,4 +49,8 @@ if global.curFace = "skeleton"
 if global.curFace = "whoever"
 {
 	image_index = 5;
+}
+if global.curFace = "ice"
+{
+	image_index = 6;
 }

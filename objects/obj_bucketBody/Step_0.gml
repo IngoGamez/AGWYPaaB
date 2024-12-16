@@ -137,3 +137,49 @@ if global.curBody = "whoever"
 		sprite_index = spr_bucketupbody_whoever;
 	}
 }
+if global.curBody = "ice"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidlebody_ice;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownbody_ice;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftbody_ice;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightbody_ice;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupbody_ice;
+	}
+}
+if global.curBody = "cane"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidlebody_cane;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownbody_cane;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftbody_cane;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightbody_cane;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupbody_cane;
+	}
+}

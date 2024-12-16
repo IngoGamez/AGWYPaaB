@@ -20,7 +20,11 @@ if image_index = 4
 }
 if image_index = 5
 {
-	global.curLegs = "whoever";
+	global.curLegs = "ice";
+}
+if image_index = 6
+{
+	global.curLegs = "cane";
 }
 if global.curLegs = "default"
 {
@@ -42,7 +46,11 @@ if global.curLegs = "skeleton"
 {
 	image_index = 4;
 }
-if global.curLegs = "whoever"
+if global.curLegs = "ice"
 {
 	image_index = 5;
+}
+if global.curLegs = "cane"
+{
+	image_index = 6;
 }

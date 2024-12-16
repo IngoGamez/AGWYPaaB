@@ -137,3 +137,26 @@ if global.curFace = "whoever"
 		sprite_index = spr_bucketupface_whoever;
 	}
 }
+if global.curFace = "ice"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidleface_ice;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownface_ice;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftface_ice;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightface_ice;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupface_ice;
+	}
+}

@@ -22,3 +22,11 @@ if global.curBody = "whoever"
 {
 	sprite_index = spr_bucketIdleBody_whoever;
 }
+if global.curBody = "ice"
+{
+	sprite_index = spr_bucketidlebody_ice;
+}
+if global.curBody = "cane"
+{
+	sprite_index = spr_bucketidlebody_cane;
+}

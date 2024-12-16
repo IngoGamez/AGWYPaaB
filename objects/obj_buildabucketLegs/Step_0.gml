@@ -18,3 +18,11 @@ if global.curLegs = "skeleton"
 {
 	sprite_index = spr_bucketIdleLegs_skull;
 }
+if global.curLegs = "ice"
+{
+	sprite_index = spr_bucketidlelegs_ice;
+}
+if global.curLegs = "cane"
+{
+	sprite_index = spr_bucketidlelegs_cane;
+}

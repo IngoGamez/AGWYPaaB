@@ -22,3 +22,7 @@ if global.curFace = "whoever"
 {
 	sprite_index = spr_bucketIdleFace_whoever;
 }
+if global.curFace = "ice"
+{
+	sprite_index = spr_bucketidleface_ice;
+}

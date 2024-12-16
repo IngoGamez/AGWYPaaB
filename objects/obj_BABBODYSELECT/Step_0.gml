@@ -22,6 +22,14 @@ if image_index = 5
 {
 	global.curBody = "whoever";
 }
+if image_index = 6
+{
+	global.curBody = "ice";
+}
+if image_index = 7
+{
+	global.curBody = "cane";
+}
 if global.curBody = "default"
 {
 	image_index = 0;
@@ -45,4 +53,12 @@ if global.curBody = "skeleton"
 if global.curBody = "whoever"
 {
 	image_index = 5;
+}
+if global.curBody = "ice"
+{
+	image_index = 6;
+}
+if global.curBody = "cane"
+{
+	image_index = 7;
 }

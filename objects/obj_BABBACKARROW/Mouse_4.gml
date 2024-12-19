@@ -2,64 +2,64 @@ event_inherited();
 
 if obj_charCreateCurtain.isChanging = false
 {
-if _id = "face"
-{
-	if obj_BABFACESELECT.image_index = 0
+	if _id = "face"
 	{
-		obj_charCreateCurtain.isChanging = true;
-		audio_play_sound(snd_curtain, 1, false);
-		obj_BABFACESELECT.image_index = 6;
+		if obj_BABFACESELECT.image_index = 0
+		{
+			obj_charCreateCurtain.isChanging = true;
+			audio_play_sound(snd_curtain, 1, false);
+			obj_BABFACESELECT.image_index = 6;
+		}
+		else
+		{
+			obj_charCreateCurtain.isChanging = true;
+			audio_play_sound(snd_curtain, 1, false);
+			obj_BABFACESELECT.image_index = obj_BABFACESELECT.image_index -1;
+		}
 	}
-	else
+	if _id = "body"
 	{
-		obj_charCreateCurtain.isChanging = true;
-		audio_play_sound(snd_curtain, 1, false);
-		obj_BABFACESELECT.image_index = obj_BABFACESELECT.image_index -1;
+		if obj_BABBODYSELECT.image_index = 0
+		{
+			audio_play_sound(snd_curtain, 1, false);
+			obj_charCreateCurtain.isChanging = true;
+			obj_BABBODYSELECT.image_index = 7;
+		}
+		else
+		{
+			audio_play_sound(snd_curtain, 1, false);
+			obj_charCreateCurtain.isChanging = true;
+			obj_BABBODYSELECT.image_index = obj_BABBODYSELECT.image_index -1;
+		}
 	}
-}
-if _id = "body"
-{
-	if obj_BABBODYSELECT.image_index = 0
+	if _id = "legs"
 	{
-		audio_play_sound(snd_curtain, 1, false);
-		obj_charCreateCurtain.isChanging = true;
-		obj_BABBODYSELECT.image_index = 7;
+		if obj_BABLEGSSELECT.image_index = 0
+		{
+			audio_play_sound(snd_curtain, 1, false);
+			obj_charCreateCurtain.isChanging = true;
+			obj_BABLEGSSELECT.image_index = 6;
+		}
+		else
+		{
+			audio_play_sound(snd_curtain, 1, false);
+			obj_charCreateCurtain.isChanging = true;
+			obj_BABLEGSSELECT.image_index = obj_BABLEGSSELECT.image_index -1;
+		}
 	}
-	else
+	if _id =  "hat"
 	{
-		audio_play_sound(snd_curtain, 1, false);
-		obj_charCreateCurtain.isChanging = true;
-		obj_BABBODYSELECT.image_index = obj_BABBODYSELECT.image_index -1;
+		if obj_BABHATSELECT.image_index = 0
+		{
+			audio_play_sound(snd_curtain, 1, false);
+			obj_charCreateCurtain.isChanging = true;
+			obj_BABHATSELECT.image_index = 4;
+		}
+		else
+		{
+			audio_play_sound(snd_curtain, 1, false);
+			obj_charCreateCurtain.isChanging = true;
+			obj_BABHATSELECT.image_index = obj_BABHATSELECT.image_index - 1;
+		}
 	}
-}
-if _id = "legs"
-{
-	if obj_BABLEGSSELECT.image_index = 0
-	{
-		audio_play_sound(snd_curtain, 1, false);
-		obj_charCreateCurtain.isChanging = true;
-		obj_BABLEGSSELECT.image_index = 6;
-	}
-	else
-	{
-		audio_play_sound(snd_curtain, 1, false);
-		obj_charCreateCurtain.isChanging = true;
-		obj_BABLEGSSELECT.image_index = obj_BABLEGSSELECT.image_index -1;
-	}
-}
-if _id = "hats"
-{
-	if obj_BABHATSELECT.image_index = 0
-	{
-		audio_play_sound(snd_curtain, 1, false);
-		obj_charCreateCurtain.isChanging = true;
-		obj_BABHATSELECT.image_index = 4;
-	}
-	else
-	{
-		audio_play_sound(snd_curtain, 1, false);
-		obj_charCreateCurtain.isChanging = true;
-		obj_BABHATSELECT.image_index = obj_BABHATSELECT.image_index -1;
-	}
-}
 }

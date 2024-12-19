@@ -31,12 +31,15 @@ if (global.canMove == true){
 obj_bucketFace.image_index = obj_bucketBody.image_index;
 obj_bucketLegs.image_index = obj_bucketBody.image_index;
 obj_bucketFoot.image_index = obj_bucketBody.image_index;
+obj_bucketHat.image_index = obj_bucketBody.image_index;
 obj_bucketFace.x = obj_bucketBody.x;
 obj_bucketLegs.x = obj_bucketBody.x;
 obj_bucketFace.y = obj_bucketBody.y;
 obj_bucketLegs.y = obj_bucketBody.y ;
 obj_bucketFoot.x = obj_bucketBody.x;
 obj_bucketFoot.y = obj_bucketBody.y;
+obj_bucketHat.x = obj_bucketBody.x;
+obj_bucketHat.y = obj_bucketBody.y;
 
 /*
 if global.curBody = "default"

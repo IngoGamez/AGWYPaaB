@@ -18,3 +18,4 @@ if global.curHat = "santa"
 {
 	sprite_index = spr_bucketSantaHatIdle;
 }
+image_index = obj_buildabucketbody.image_index;

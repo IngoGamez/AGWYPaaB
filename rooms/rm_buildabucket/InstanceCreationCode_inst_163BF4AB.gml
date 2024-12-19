@@ -1,1 +1,1 @@
-_id = "hats";
+_id = "hat";

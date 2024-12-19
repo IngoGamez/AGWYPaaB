@@ -47,7 +47,7 @@ if _id = "legs"
 		obj_BABLEGSSELECT.image_index = obj_BABLEGSSELECT.image_index +1;
 	}
 }
-if _id = "hats"
+if _id = "hat"
 {
 	if obj_BABHATSELECT.image_index = 4
 	{
@@ -59,7 +59,7 @@ if _id = "hats"
 	{
 		audio_play_sound(snd_curtain, 1, false);
 		obj_charCreateCurtain.isChanging = true;
-		obj_BABHATSELECT.image_index = obj_BABHATSELECT.image_index +1;
+		obj_BABHATSELECT.image_index = obj_BABHATSELECT.image_index + 1
 	}
 }
 }

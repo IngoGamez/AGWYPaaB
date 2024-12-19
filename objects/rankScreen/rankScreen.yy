@@ -10,8 +10,8 @@
   "name":"rankScreen",
   "overriddenProperties":[],
   "parent":{
-    "name":"winscreen",
-    "path":"folders/Shared/winscreen.yy",
+    "name":"objects",
+    "path":"folders/Shared/winscreen/shared/objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

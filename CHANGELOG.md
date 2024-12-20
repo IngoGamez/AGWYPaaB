@@ -7,7 +7,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [0.7.0] 2024-12-20
 ### Added
-- New Hats Available in Build a Bucket Now!
+- New Hats Available in Build a Bucket!
 - New Build a Bucket Costumes!
 - New Menu Background!
 - New Music for the Options and Extras Menus!

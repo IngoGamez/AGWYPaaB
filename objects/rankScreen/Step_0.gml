@@ -25,9 +25,10 @@ if room = rm_bucketTerribleRankScreen
 if room = rm_bucketGoodRankScreen
 {
 	goodTimer = goodTimer - 1
-	if goodTimer = 0
+	if goodTimer < 0
 	{
 		audio_play_sound(mus_bucketGoodRankLoop, 1, true);
+		goodTimer = 10000
 	}
 	if keyboard_check_pressed(vk_anykey)
 	{

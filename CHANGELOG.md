@@ -22,8 +22,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Dummy: 150 -> 500
     - Donut: 500 -> 1000
 - Player is now timed on pressing space in battle
-### Fixed
-- Hitbox issues in rooms
 ### Removed
 - Controller Support (it was buggy af but will come back at some point)
 

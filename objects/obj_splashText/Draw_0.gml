@@ -72,7 +72,7 @@ if round(rng) = 24{
 	draw_text_color(x, y, "AGWYPaaB The Movie Coming 2054 (Real)", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 25{
-	draw_text_color(x, y, "Build a Bucket Now Available on The Level Select Screen!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "You can play as D-Money too :)", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 26{
 	draw_text_color(x, y, "Find Us on Bluesky! @Ingogamez.bsky.social", c_yellow, c_yellow, c_yellow, c_yellow, 1);
@@ -133,6 +133,9 @@ if round(rng) = 44{
 }
 if round(rng) = 45{
 	draw_text_color(x, y, "Controller Support Returning Soon Probably Maybe idk", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 46 {
+	draw_text_color(x, y, "Seals are pretty cool", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 }
 

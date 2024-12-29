@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"PyroCutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/PyroCutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/PyroCutscene.yy",
   },
   "parentObjectId":null,
   "persistent":false,

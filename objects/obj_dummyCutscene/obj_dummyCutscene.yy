@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Tutorial",
-    "path":"folders/Levels/Tutorial.yy",
+    "path":"folders/Levels/Bucket/Tutorial.yy",
   },
   "parentObjectId":null,
   "persistent":false,

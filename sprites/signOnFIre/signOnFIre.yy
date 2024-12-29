@@ -29,7 +29,7 @@
   "origin":4,
   "parent":{
     "name":"Rooms",
-    "path":"folders/Levels/Prologue/Sprites/Rooms.yy",
+    "path":"folders/Levels/Bucket/Prologue/Sprites/Rooms.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

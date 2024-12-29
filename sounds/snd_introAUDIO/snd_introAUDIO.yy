@@ -13,7 +13,7 @@
   "name":"snd_introAUDIO",
   "parent":{
     "name":"introcutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/introcutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/introcutscene.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

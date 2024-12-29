@@ -18,7 +18,7 @@
   "name":"rm_outroFRAMES",
   "parent":{
     "name":"outroCutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/outroCutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/outroCutscene.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

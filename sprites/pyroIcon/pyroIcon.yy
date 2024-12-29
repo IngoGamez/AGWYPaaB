@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"dialogueIcons",
-    "path":"folders/Levels/Prologue/Sprites/DIALOGUE/dialogueIcons.yy",
+    "path":"folders/Levels/Bucket/Prologue/Sprites/DIALOGUE/dialogueIcons.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

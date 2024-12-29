@@ -18,7 +18,7 @@
   "name":"rm_pyroFRAMES",
   "parent":{
     "name":"PyroCutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/PyroCutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/PyroCutscene.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

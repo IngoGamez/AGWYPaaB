@@ -91,7 +91,7 @@
   "name":"rm_room1PRO",
   "parent":{
     "name":"Rooms",
-    "path":"folders/Levels/Prologue/Rooms.yy",
+    "path":"folders/Levels/Bucket/Prologue/Rooms.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

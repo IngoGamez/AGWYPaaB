@@ -13,7 +13,7 @@
   "name":"snd_nature",
   "parent":{
     "name":"SFX",
-    "path":"folders/Levels/Prologue/SFX.yy",
+    "path":"folders/Levels/Bucket/Prologue/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

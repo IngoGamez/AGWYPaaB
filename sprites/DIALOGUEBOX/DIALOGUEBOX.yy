@@ -77,7 +77,7 @@
   "origin":4,
   "parent":{
     "name":"DIALOGUE",
-    "path":"folders/Levels/Prologue/Sprites/DIALOGUE.yy",
+    "path":"folders/Levels/Bucket/Prologue/Sprites/DIALOGUE.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

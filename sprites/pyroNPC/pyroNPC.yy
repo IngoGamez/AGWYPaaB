@@ -31,7 +31,7 @@
   "origin":4,
   "parent":{
     "name":"NPCs",
-    "path":"folders/Levels/Prologue/Sprites/NPCs.yy",
+    "path":"folders/Levels/Bucket/Prologue/Sprites/NPCs.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

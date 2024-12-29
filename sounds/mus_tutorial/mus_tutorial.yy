@@ -13,7 +13,7 @@
   "name":"mus_tutorial",
   "parent":{
     "name":"Music",
-    "path":"folders/Levels/Tutorial/Music.yy",
+    "path":"folders/Levels/Bucket/Tutorial/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

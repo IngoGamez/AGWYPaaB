@@ -13,7 +13,7 @@
   "name":"snd_outroAUDIO",
   "parent":{
     "name":"outroCutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/outroCutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/outroCutscene.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

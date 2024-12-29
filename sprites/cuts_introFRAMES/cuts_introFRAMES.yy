@@ -313,7 +313,7 @@
   "origin":4,
   "parent":{
     "name":"introcutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/introcutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/introcutscene.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

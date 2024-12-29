@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"NPCs",
-    "path":"folders/Levels/Prologue/Objects/NPCs.yy",
+    "path":"folders/Levels/Bucket/Prologue/Objects/NPCs.yy",
   },
   "parentObjectId":null,
   "persistent":false,

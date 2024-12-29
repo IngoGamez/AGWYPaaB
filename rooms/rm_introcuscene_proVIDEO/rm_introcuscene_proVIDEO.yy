@@ -18,7 +18,7 @@
   "name":"rm_introcuscene_proVIDEO",
   "parent":{
     "name":"introcutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/introcutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/introcutscene.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

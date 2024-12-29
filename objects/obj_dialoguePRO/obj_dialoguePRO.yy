@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/Levels/Prologue/Objects.yy",
+    "path":"folders/Levels/Bucket/Prologue/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

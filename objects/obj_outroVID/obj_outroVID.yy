@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"outroCutscene",
-    "path":"folders/Levels/Prologue/Cutscenes/outroCutscene.yy",
+    "path":"folders/Levels/Bucket/Prologue/Cutscenes/outroCutscene.yy",
   },
   "parentObjectId":null,
   "persistent":false,

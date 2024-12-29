@@ -13,7 +13,7 @@
   "name":"mus_donutz",
   "parent":{
     "name":"Music",
-    "path":"folders/Levels/Prologue/Music.yy",
+    "path":"folders/Levels/Bucket/Prologue/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

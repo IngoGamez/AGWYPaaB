@@ -1,0 +1,1 @@
+draw_text_color(x, y, "Press Shift to Change Characters!", c_yellow, c_yellow, c_yellow, c_yellow, 1);

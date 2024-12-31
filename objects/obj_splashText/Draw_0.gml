@@ -21,7 +21,7 @@ if round(rng) = 7{
 	draw_text_color(x, y, "Follow Our Socials! (@IngoGamez)", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 8{
-	draw_text_color(x, y, "Portal 1 Coming  2025!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "Portal 1 Part 1 Coming  2025 Probably idk", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 9{
 	draw_text_color(x, y, "i like trains", c_yellow, c_yellow, c_yellow, c_yellow, 1);
@@ -60,7 +60,7 @@ if round(rng) = 20{
 	draw_text_color(x, y, "Mod support coming soon maybe idk", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 21{
-	draw_text_color(x, y, "Subscribe to whoeverhitme, he a good streamer", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "Subscribe to whoeverhitme, he's a good streamer", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 22{
 	draw_text_color(x, y, "Subscribe to our YouTube channel! (@IngoGamez)", c_yellow, c_yellow, c_yellow, c_yellow, 1);
@@ -93,7 +93,7 @@ if round(rng) = 31{
 	draw_text_color(x, y, "Do y'all fw garlic bread?", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 32{
-	draw_text_color(x, y, "As seen on Newgrounds.com", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "720p Gaming", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 33{
 	draw_text_color(x, y, "Not sponsored by The Holy Family Catholic Church", c_yellow, c_yellow, c_yellow, c_yellow, 1);
@@ -135,7 +135,16 @@ if round(rng) = 45{
 	draw_text_color(x, y, "Controller Support Returning Soon Probably Maybe idk", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 46 {
-	draw_text_color(x, y, "Seals are pretty cool", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "Seals scare me", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 47 {
+	draw_text_color(x, y, "My wife left and took the kids", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 48 {
+	draw_text_color(x, y, "Made by a few crackheads", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 49 {
+	draw_text_color(x, y, "Buy his Hideo games", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 }
 

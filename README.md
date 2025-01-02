@@ -13,6 +13,13 @@ Literally what the title says!
 
 # CREDITS
 
+## Main Story Director
+- [E-Dubz](https://twitter.com/edubzng)
+
+## D-Money Side Story Directors
+- [E-Dubz](https://twitter.com/edubzng)
+- [dogdillon](https://twitter.com/dogdillonYT)
+
 ## Programming
 - [E-Dubz](https://twitter.com/edubzng)
 
@@ -27,9 +34,6 @@ Literally what the title says!
 ## QA Testers
 - DB
 - NoahJam
-
-## Additional Assets
-- [jasontomlee - Pause Menu Scripts](https://marketplace.gamemaker.io/assets/7514/asset-pause-menu-basic)
 
 ## Other Stuff
 - [dogdillon - Creator of D-Money and VA for Tutorial Dummy](https://twitter.com/dogdillonYT)

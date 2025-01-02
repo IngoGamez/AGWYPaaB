@@ -4,7 +4,7 @@
   "name":"bucketFrames",
   "parent":{
     "name":"Bucket",
-    "path":"folders/Player/Bucket.yy",
+    "path":"folders/Player/bucket/Bucket.yy",
   },
   "resourceType":"GMNotes",
   "resourceVersion":"2.0",

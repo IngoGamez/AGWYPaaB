@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"BucketDies",
-    "path":"folders/Player/BucketDies.yy",
+    "path":"folders/Player/bucket/BucketDies.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -37,7 +37,7 @@
   "origin":4,
   "parent":{
     "name":"red",
-    "path":"folders/Player/Bucket/hats/red.yy",
+    "path":"folders/Player/bucket/Bucket/hats/red.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

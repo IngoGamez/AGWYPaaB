@@ -37,7 +37,7 @@
   "origin":4,
   "parent":{
     "name":"cop",
-    "path":"folders/Player/Bucket/hats/cop.yy",
+    "path":"folders/Player/bucket/Bucket/hats/cop.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

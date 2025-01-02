@@ -37,7 +37,7 @@
   "origin":4,
   "parent":{
     "name":"left",
-    "path":"folders/Player/Bucket/SKINS N' SHIT/CANE/left.yy",
+    "path":"folders/Player/bucket/Bucket/SKINS N' SHIT/CANE/left.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

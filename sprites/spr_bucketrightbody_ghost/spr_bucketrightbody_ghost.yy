@@ -37,7 +37,7 @@
   "origin":4,
   "parent":{
     "name":"right",
-    "path":"folders/Player/Bucket/SKINS N' SHIT/GHOST/right.yy",
+    "path":"folders/Player/bucket/Bucket/SKINS N' SHIT/GHOST/right.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

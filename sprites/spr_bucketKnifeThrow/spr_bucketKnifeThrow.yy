@@ -35,7 +35,7 @@
   "origin":4,
   "parent":{
     "name":"BucketCombat",
-    "path":"folders/Player/BucketCombat.yy",
+    "path":"folders/Player/bucket/BucketCombat.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

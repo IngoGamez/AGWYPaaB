@@ -51,7 +51,7 @@
   "origin":4,
   "parent":{
     "name":"up",
-    "path":"folders/Player/Bucket/SKINS N' SHIT/MEDIC/up.yy",
+    "path":"folders/Player/bucket/Bucket/SKINS N' SHIT/MEDIC/up.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"sprites",
-    "path":"folders/Pause Screen/sprites.yy",
+    "path":"folders/Menus/Pause Screen/sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

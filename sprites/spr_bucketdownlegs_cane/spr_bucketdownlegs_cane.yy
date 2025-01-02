@@ -51,7 +51,7 @@
   "origin":4,
   "parent":{
     "name":"down",
-    "path":"folders/Player/Bucket/SKINS N' SHIT/CANE/down.yy",
+    "path":"folders/Player/bucket/Bucket/SKINS N' SHIT/CANE/down.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

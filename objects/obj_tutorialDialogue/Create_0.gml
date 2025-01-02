@@ -1,0 +1,27 @@
+event_inherited();
+
+dialogue.add(spr_dummyDialogueIcon, "Hey there buddy.");
+dialogue.add(spr_dummyDialogueIcon, "Are you trying to figure out how to play the game?");
+dialogue.add(spr_bucketDialogueIcon, "Uh... what?");
+dialogue.add(spr_dummyDialogueIcon, "Oh yeah, you're one of those people who doesn't know they're in a video game.");
+dialogue.add(spr_bucketDialogueIcon, "???");
+dialogue.add(spr_dummyDialogueIcon, "Forget that I said anything. It doesn't really matter anyways");
+dialogue.add(spr_bucketDialogueIcon, "I really just wanted to know learn to fight.");
+dialogue.add(spr_dummyDialogueIcon, "I can teach you.");
+dialogue.add(spr_dummyDialogueIcon, "It's actually pretty simple.");
+dialogue.add(spr_dummyDialogueIcon, "If you see a bullet coming at you, you can dodge it by pressing A or D");
+dialogue.add(spr_dummyDialogueIcon, "If you see a knife coming at you, collect it.");
+dialogue.add(spr_dummyDialogueIcon, "You can then take that knife and throw it at your enemy by pressing space.");
+dialogue.add(spr_dummyDialogueIcon, "Eventually, your enemy will run out of HP and die.");
+dialogue.add(spr_dummyDialogueIcon, "Once your enemy dies, you win.");
+dialogue.add(spr_bucketDialogueIcon, "Hey, I've got a random question about this.");
+dialogue.add(spr_dummyDialogueIcon, "What?");
+dialogue.add(spr_bucketDialogueIcon, "So like, where do the knives come from?");
+dialogue.add(spr_dummyDialogueIcon, "Man, I dunno. I think the developers just threw those in there to make it interesting or something.");
+dialogue.add(spr_bucketDialogueIcon, "Dude, what the fuck are you talking about?");
+dialogue.add(spr_dummyDialogueIcon, "You know what? Let's just fight.");
+dialogue.add(spr_bucketDialogueIcon, "Uh... okay.");
+dialogue.add(spr_bucketDialogueIcon, "   ");
+
+obj_bucketBody.x = 1500;
+obj_bucketBody.y = 1500;

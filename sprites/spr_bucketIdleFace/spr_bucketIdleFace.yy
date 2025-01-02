@@ -40,7 +40,7 @@
   "origin":4,
   "parent":{
     "name":"Idle",
-    "path":"folders/Player/Bucket/SKINS N' SHIT/DEFAULT/Idle.yy",
+    "path":"folders/Player/bucket/Bucket/SKINS N' SHIT/DEFAULT/Idle.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

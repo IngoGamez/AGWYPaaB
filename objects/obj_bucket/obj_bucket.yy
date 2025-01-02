@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Bucket",
-    "path":"folders/Player/Bucket.yy",
+    "path":"folders/Player/bucket/Bucket.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"BucketCombat",
-    "path":"folders/Player/BucketCombat.yy",
+    "path":"folders/Player/bucket/BucketCombat.yy",
   },
   "parentObjectId":null,
   "persistent":false,

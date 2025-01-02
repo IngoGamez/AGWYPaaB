@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"pieces",
-    "path":"folders/Player/Bucket/pieces.yy",
+    "path":"folders/Player/bucket/Bucket/pieces.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

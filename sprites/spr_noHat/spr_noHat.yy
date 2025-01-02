@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"none",
-    "path":"folders/Player/Bucket/hats/none.yy",
+    "path":"folders/Player/bucket/Bucket/hats/none.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

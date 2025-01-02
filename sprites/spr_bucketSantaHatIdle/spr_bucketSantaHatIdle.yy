@@ -40,7 +40,7 @@
   "origin":4,
   "parent":{
     "name":"santa",
-    "path":"folders/Player/Bucket/hats/santa.yy",
+    "path":"folders/Player/bucket/Bucket/hats/santa.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

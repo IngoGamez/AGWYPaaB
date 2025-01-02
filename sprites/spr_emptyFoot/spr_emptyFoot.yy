@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"SKINS N' SHIT",
-    "path":"folders/Player/Bucket/SKINS N' SHIT.yy",
+    "path":"folders/Player/bucket/Bucket/SKINS N' SHIT.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

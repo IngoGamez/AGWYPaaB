@@ -1,5 +1,6 @@
 event_inherited();
 
+dialogue.add(spr_bucketDialogueIcon, " ");
 dialogue.add(spr_dummyDialogueIcon, "Hey there buddy.");
 dialogue.add(spr_dummyDialogueIcon, "Are you trying to figure out how to play the game?");
 dialogue.add(spr_bucketDialogueIcon, "Uh... what?");

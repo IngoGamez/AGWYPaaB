@@ -5,6 +5,23 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [UNRELEASED] 2025-2-??
+### Added
+- New Character Select Menu!
+    - Press Shift on the Level Select Menu!
+- New Playable Character: D-Money! This includes the following content:
+    - D-Money Level Select
+    - D-Money Pause Theme
+    - D-Money Rank Screens
+- New Side Level: D-Money's Day Out!
+- New Achievements!
+- More Build a Bucket cosmetics!
+### Changed
+- New IngoGamez logo by KAD on the boot up screen
+- Cutscenes have been redone and are now rendered in game rather than in a video
+### Fixed
+- Credits music is under the music audio group rather than the default one.
+
 ## [0.7.0] 2024-12-20
 ### Added
 - New Hats Available in Build a Bucket Now!

@@ -146,6 +146,9 @@ if round(rng) = 48 {
 if round(rng) = 49 {
 	draw_text_color(x, y, "Buy his Hideo games", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
+if round(rng) = 50 {
+	draw_text_color(x, y, "Now with achievements!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
 }
 
 if global.showDEBUG = true{

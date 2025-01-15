@@ -1,18 +1,20 @@
 {
   "$GMObject":"",
-  "%Name":"obj_splashScreen",
+  "%Name":"obj_achievementsButton",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_splashScreen",
+  "name":"obj_achievementsButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"AGWYPaaB",
-    "path":"AGWYPaaB.yyp",
+    "name":"MainMenu",
+    "path":"folders/Menus/Objects/MainMenu.yy",
   },
-  "parentObjectId":null,
+  "parentObjectId":{
+    "name":"obj_button_parent",
+    "path":"objects/obj_button_parent/obj_button_parent.yy",
+  },
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -31,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_splashScreen",
-    "path":"sprites/spr_splashScreen/spr_splashScreen.yy",
+    "name":"spr_placeholder",
+    "path":"sprites/spr_placeholder/spr_placeholder.yy",
   },
   "spriteMaskId":null,
   "visible":true,

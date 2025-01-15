@@ -1,1 +1,4 @@
-room_goto(rm_debugHUB);
+if debug_mode 
+{
+	room_goto(rm_debugHUB);
+}

@@ -19,7 +19,7 @@ if (global.curDialogue == 24){
 if (global.curDialogue == 31){
 	if os_browser
 	{
-		room_goto(rm_pyroFRAMES);
+		room_goto(cutscenePyroPeanut);
 	}
 	else
 	{

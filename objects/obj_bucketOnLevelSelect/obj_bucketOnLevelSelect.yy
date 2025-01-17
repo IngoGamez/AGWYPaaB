@@ -11,8 +11,8 @@
   "name":"obj_bucketOnLevelSelect",
   "overriddenProperties":[],
   "parent":{
-    "name":"LevelSelect",
-    "path":"folders/Menus/Objects/LevelSelect.yy",
+    "name":"Bucket",
+    "path":"folders/Menus/Objects/LevelSelect/Bucket.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

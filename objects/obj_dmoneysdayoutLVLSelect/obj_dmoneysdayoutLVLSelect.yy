@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_bucketMenuHitboxLOL",
+  "%Name":"obj_dmoneysdayoutLVLSelect",
   "eventList":[],
   "managed":true,
-  "name":"obj_bucketMenuHitboxLOL",
+  "name":"obj_dmoneysdayoutLVLSelect",
   "overriddenProperties":[],
   "parent":{
-    "name":"Bucket",
-    "path":"folders/Menus/Objects/LevelSelect/Bucket.yy",
+    "name":"D-Money",
+    "path":"folders/Menus/Objects/LevelSelect/D-Money.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,9 +28,9 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_bucketLEVELSELECTBOX",
-    "path":"sprites/spr_bucketLEVELSELECTBOX/spr_bucketLEVELSELECTBOX.yy",
+    "name":"spr_dmoneysDayOut",
+    "path":"sprites/spr_dmoneysDayOut/spr_dmoneysDayOut.yy",
   },
   "spriteMaskId":null,
-  "visible":false,
+  "visible":true,
 }

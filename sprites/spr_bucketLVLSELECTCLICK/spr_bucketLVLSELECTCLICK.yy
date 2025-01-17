@@ -43,8 +43,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"levelSelect",
-    "path":"folders/Menus/Sprites/levelSelect.yy",
+    "name":"Bucket",
+    "path":"folders/Menus/Sprites/levelSelect/Bucket.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

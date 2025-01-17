@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"exit_button",
-    "path":"sprites/exit_button/exit_button.yy",
+    "name":"spr_exit_button",
+    "path":"sprites/spr_exit_button/spr_exit_button.yy",
   },
   "spriteMaskId":null,
   "visible":true,

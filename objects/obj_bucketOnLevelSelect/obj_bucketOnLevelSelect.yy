@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bucketKnifeThrowLVLSELECT",
-    "path":"sprites/bucketKnifeThrowLVLSELECT/bucketKnifeThrowLVLSELECT.yy",
+    "name":"spr_bucketKnifeThrowLVLSELECT",
+    "path":"sprites/spr_bucketKnifeThrowLVLSELECT/spr_bucketKnifeThrowLVLSELECT.yy",
   },
   "spriteMaskId":null,
   "visible":true,

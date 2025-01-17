@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"lvl_select_play",
-    "path":"sprites/lvl_select_play/lvl_select_play.yy",
+    "name":"spr_lvl_select_play",
+    "path":"sprites/spr_lvl_select_play/spr_lvl_select_play.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"sourcecode",
-    "path":"sprites/sourcecode/sourcecode.yy",
+    "name":"spr_sourcecodeEXTRAS",
+    "path":"sprites/spr_sourcecodeEXTRAS/spr_sourcecodeEXTRAS.yy",
   },
   "spriteMaskId":null,
   "visible":true,

@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"fullscreenToggle",
-    "path":"sprites/fullscreenToggle/fullscreenToggle.yy",
+    "name":"spr_fullscreenToggleOptions",
+    "path":"sprites/spr_fullscreenToggleOptions/spr_fullscreenToggleOptions.yy",
   },
   "spriteMaskId":null,
   "visible":true,

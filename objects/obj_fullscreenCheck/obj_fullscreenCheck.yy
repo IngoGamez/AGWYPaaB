@@ -36,8 +36,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"checkBox",
-    "path":"sprites/checkBox/checkBox.yy",
+    "name":"spr_optionscheckBox",
+    "path":"sprites/spr_optionscheckBox/spr_optionscheckBox.yy",
   },
   "spriteMaskId":null,
   "visible":true,

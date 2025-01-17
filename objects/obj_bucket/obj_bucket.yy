@@ -9,8 +9,8 @@
   "name":"obj_bucket",
   "overriddenProperties":[],
   "parent":{
-    "name":"Bucket",
-    "path":"folders/Player/bucket/Bucket.yy",
+    "name":"old shit",
+    "path":"folders/Player/bucket/Bucket/old shit.yy",
   },
   "parentObjectId":null,
   "persistent":true,
@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bucketIdle",
-    "path":"sprites/bucketIdle/bucketIdle.yy",
+    "name":"spr_bucketIdle",
+    "path":"sprites/spr_bucketIdle/spr_bucketIdle.yy",
   },
   "spriteMaskId":null,
   "visible":true,

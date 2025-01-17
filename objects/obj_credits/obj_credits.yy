@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"credits",
-    "path":"sprites/credits/credits.yy",
+    "name":"spr_creditsEXTRAS",
+    "path":"sprites/spr_creditsEXTRAS/spr_creditsEXTRAS.yy",
   },
   "spriteMaskId":null,
   "visible":true,

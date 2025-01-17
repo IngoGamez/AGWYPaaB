@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"prologue",
-    "path":"sprites/prologue/prologue.yy",
+    "name":"spr_prologue",
+    "path":"sprites/spr_prologue/spr_prologue.yy",
   },
   "spriteMaskId":null,
   "visible":true,

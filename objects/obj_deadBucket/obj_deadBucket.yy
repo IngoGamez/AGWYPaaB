@@ -31,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"bucketDies",
-    "path":"sprites/bucketDies/bucketDies.yy",
+    "name":"spr_bucketDies",
+    "path":"sprites/spr_bucketDies/spr_bucketDies.yy",
   },
   "spriteMaskId":null,
   "visible":true,

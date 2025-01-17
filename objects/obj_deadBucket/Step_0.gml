@@ -1,4 +1,4 @@
-if(sprite_index = bucketDies) && (image_index > 70){
+if(sprite_index = spr_bucketDies) && (image_index > 70){
 	deathAnim = true;
 }
 if (keyboard_check_pressed(vk_enter)){

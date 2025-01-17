@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"donutNPC",
-    "path":"sprites/donutNPC/donutNPC.yy",
+    "name":"spr_donutNPC",
+    "path":"sprites/spr_donutNPC/spr_donutNPC.yy",
   },
   "spriteMaskId":null,
   "visible":true,

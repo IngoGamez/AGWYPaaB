@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"dialogueCharPROLOGUE",
-    "path":"sprites/dialogueCharPROLOGUE/dialogueCharPROLOGUE.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

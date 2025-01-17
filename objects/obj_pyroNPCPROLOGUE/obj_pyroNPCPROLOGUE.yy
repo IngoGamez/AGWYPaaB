@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":true,
   "spriteId":{
-    "name":"pyroNPC",
-    "path":"sprites/pyroNPC/pyroNPC.yy",
+    "name":"spr_pyroNPC",
+    "path":"sprites/spr_pyroNPC/spr_pyroNPC.yy",
   },
   "spriteMaskId":null,
   "visible":true,

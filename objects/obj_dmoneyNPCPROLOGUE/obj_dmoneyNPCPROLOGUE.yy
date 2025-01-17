@@ -30,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"dmoneyNPC",
-    "path":"sprites/dmoneyNPC/dmoneyNPC.yy",
+    "name":"spr_dmoneyNPC",
+    "path":"sprites/spr_dmoneyNPC/spr_dmoneyNPC.yy",
   },
   "spriteMaskId":null,
   "visible":true,

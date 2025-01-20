@@ -1,0 +1,12 @@
+{
+  "$GMShader":"",
+  "%Name":"shd_menuGreenCard",
+  "name":"shd_menuGreenCard",
+  "parent":{
+    "name":"Shaders",
+    "path":"folders/Menus/LevelSelectMenu/D-Money/Shaders.yy",
+  },
+  "resourceType":"GMShader",
+  "resourceVersion":"2.0",
+  "type":1,
+}

@@ -12,6 +12,7 @@
     {"name":"inst_6B879E40","path":"rooms/rm_levelselectDMONEY/rm_levelselectDMONEY.yy",},
     {"name":"inst_2CEB4E55","path":"rooms/rm_levelselectDMONEY/rm_levelselectDMONEY.yy",},
     {"name":"inst_BFE04B3","path":"rooms/rm_levelselectDMONEY/rm_levelselectDMONEY.yy",},
+    {"name":"inst_53A914B0","path":"rooms/rm_levelselectDMONEY/rm_levelselectDMONEY.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -20,6 +21,7 @@
         {"$GMRInstance":"v1","%Name":"inst_191386AC_1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_191386AC_1","objectId":{"name":"obj_levelSelectText","path":"objects/obj_levelSelectText/obj_levelSelectText.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":832.0,"y":0.0,},
         {"$GMRInstance":"v1","%Name":"inst_6B879E40","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6B879E40","objectId":{"name":"obj_dmoneysdayoutLVLSelect","path":"objects/obj_dmoneysdayoutLVLSelect/obj_dmoneysdayoutLVLSelect.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.828026,"scaleY":0.82483906,"x":64.0,"y":256.0,},
         {"$GMRInstance":"v1","%Name":"inst_2CEB4E55","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2CEB4E55","objectId":{"name":"obj_dmoneyLVLSelectIDle","path":"objects/obj_dmoneyLVLSelectIDle/obj_dmoneyLVLSelectIDle.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+        {"$GMRInstance":"v1","%Name":"inst_53A914B0","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_53A914B0","objectId":{"name":"obj_lvlSelectStars","path":"objects/obj_lvlSelectStars/obj_lvlSelectStars.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":128.0,"y":384.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_28DB1763","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_28DB1763","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":0.73221755,"scaleY":0.6875,"spriteId":{"name":"spr_dmoneyLOGO","path":"sprites/spr_dmoneyLOGO/spr_dmoneyLOGO.yy",},"x":25.0,"y":27.0,},

@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_DMoneysDayOutRoom1",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_DMoneysDayOutRoom1/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -12,14 +12,14 @@
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"dmoney","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_763605E1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_763605E1","objectId":{"name":"PlayableDMoney","path":"objects/PlayableDMoney/PlayableDMoney.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.08,"scaleY":1.0711111,"x":544.0,"y":256.0,},
+        {"$GMRInstance":"v1","%Name":"inst_763605E1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_763605E1","objectId":{"name":"PlayableDMoney","path":"objects/PlayableDMoney/PlayableDMoney.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":192.0,},
       ],"layers":[],"name":"dmoney","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"fgShit","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_2893956A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2893956A","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_DMoneysDayOutRoom1Puddle","path":"sprites/spr_DMoneysDayOutRoom1Puddle/spr_DMoneysDayOutRoom1Puddle.yy",},"x":0.0,"y":0.0,},
         {"$GMRSpriteGraphic":"","%Name":"graphic_27AE8D1E","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_27AE8D1E","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_DMoneysDayOutRoom1Hydrant","path":"sprites/spr_DMoneysDayOutRoom1Hydrant/spr_DMoneysDayOutRoom1Hydrant.yy",},"x":0.0,"y":0.0,},
       ],"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"fgShit","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"cars","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_3E249404","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E249404","objectId":{"name":"obj_DMoneysDayOutRoom1Cars","path":"objects/obj_DMoneysDayOutRoom1Cars/obj_DMoneysDayOutRoom1Cars.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
+        {"$GMRInstance":"v1","%Name":"inst_3E249404","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E249404","objectId":{"name":"obj_DMoneysDayOutRoom1Cars","path":"objects/obj_DMoneysDayOutRoom1Cars/obj_DMoneysDayOutRoom1Cars.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-608.0,"y":384.0,},
       ],"layers":[],"name":"cars","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"bgShit","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_1212FF92","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_1212FF92","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_DMoneysDayOutRoom1Sky","path":"sprites/spr_DMoneysDayOutRoom1Sky/spr_DMoneysDayOutRoom1Sky.yy",},"x":0.0,"y":0.0,},

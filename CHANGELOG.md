@@ -18,6 +18,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - More Build a Bucket cosmetics!
 ### Changed
 - New IngoGamez logo by KAD on the boot up screen
+- Levels now have difficulty ratings
+    - Tutorial - 1 Star
+    - Prologue - 1.5 Stars
+    - D-Money's Day Out - 2 Stars
 - Cutscenes have been redone and are now rendered in game rather than in a video
 ### Fixed
 - Credits music is under the music audio group rather than the default one.

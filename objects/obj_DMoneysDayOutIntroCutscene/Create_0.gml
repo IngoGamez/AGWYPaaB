@@ -1,0 +1,1 @@
+audio_play_sound(mus_sprayPaintCansAndDollarBills, 1, false);

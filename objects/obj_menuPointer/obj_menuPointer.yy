@@ -9,8 +9,8 @@
   "name":"obj_menuPointer",
   "overriddenProperties":[],
   "parent":{
-    "name":"shared",
-    "path":"folders/Menus/Objects/shared.yy",
+    "name":"Objects",
+    "path":"folders/Menus/Shared/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

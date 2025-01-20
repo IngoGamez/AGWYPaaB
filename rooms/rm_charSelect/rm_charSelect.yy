@@ -39,8 +39,8 @@
   ],
   "name":"rm_charSelect",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"CharSelectMenu",
+    "path":"folders/Menus/CharSelectMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -28,8 +28,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"charSelect",
-    "path":"folders/Menus/Sprites/charSelect.yy",
+    "name":"Sprites",
+    "path":"folders/Menus/CharSelectMenu/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

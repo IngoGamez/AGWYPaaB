@@ -8,8 +8,8 @@
   "name":"obj_exit",
   "overriddenProperties":[],
   "parent":{
-    "name":"shared",
-    "path":"folders/Menus/Objects/shared.yy",
+    "name":"Objects",
+    "path":"folders/Menus/Shared/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

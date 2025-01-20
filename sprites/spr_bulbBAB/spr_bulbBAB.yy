@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Everything Else",
-    "path":"folders/Menus/buildabucket/sprites/Everything Else.yy",
+    "path":"folders/Menus/BuildABucketMenu/sprites/Everything Else.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

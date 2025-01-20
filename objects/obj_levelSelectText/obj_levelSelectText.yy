@@ -9,8 +9,8 @@
   "name":"obj_levelSelectText",
   "overriddenProperties":[],
   "parent":{
-    "name":"LevelSelect",
-    "path":"folders/Menus/Objects/LevelSelect.yy",
+    "name":"Objects",
+    "path":"folders/Menus/LevelSelectMenu/Bucket/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

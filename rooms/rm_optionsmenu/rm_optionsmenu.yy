@@ -43,8 +43,8 @@
   ],
   "name":"rm_optionsmenu",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"OptionsMenu",
+    "path":"folders/Menus/OptionsMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

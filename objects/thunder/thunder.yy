@@ -10,7 +10,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Everything Else",
-    "path":"folders/Menus/buildabucket/objects/Everything Else.yy",
+    "path":"folders/Menus/BuildABucketMenu/objects/Everything Else.yy",
   },
   "parentObjectId":null,
   "persistent":false,

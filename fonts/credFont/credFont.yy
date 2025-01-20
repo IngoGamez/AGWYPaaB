@@ -252,7 +252,7 @@
   "name":"credFont",
   "parent":{
     "name":"Fonts",
-    "path":"folders/Menus/Fonts.yy",
+    "path":"folders/Menus/ExtrasMenu/Fonts.yy",
   },
   "pointRounding":0,
   "ranges":[

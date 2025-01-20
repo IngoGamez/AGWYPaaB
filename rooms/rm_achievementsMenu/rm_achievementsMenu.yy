@@ -17,8 +17,8 @@
   ],
   "name":"rm_achievementsMenu",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"AchievementsMenu",
+    "path":"folders/Menus/AchievementsMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

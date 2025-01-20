@@ -17,8 +17,8 @@
   ],
   "name":"rm_scrollingCredits",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"ExtrasMenu",
+    "path":"folders/Menus/ExtrasMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

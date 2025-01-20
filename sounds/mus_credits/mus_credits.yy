@@ -12,8 +12,8 @@
   "duration":50.78225,
   "name":"mus_credits",
   "parent":{
-    "name":"Music",
-    "path":"folders/Menus/Music.yy",
+    "name":"ExtrasMenu",
+    "path":"folders/Menus/ExtrasMenu.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

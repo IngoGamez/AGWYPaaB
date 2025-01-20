@@ -8,8 +8,8 @@
   "name":"obj_sourcecode",
   "overriddenProperties":[],
   "parent":{
-    "name":"Extras",
-    "path":"folders/Menus/Objects/Extras.yy",
+    "name":"Objects",
+    "path":"folders/Menus/ExtrasMenu/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

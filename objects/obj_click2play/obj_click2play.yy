@@ -10,8 +10,8 @@
   "name":"obj_click2play",
   "overriddenProperties":[],
   "parent":{
-    "name":"MainMenu",
-    "path":"folders/Menus/Objects/MainMenu.yy",
+    "name":"Objects",
+    "path":"folders/Menus/MainMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

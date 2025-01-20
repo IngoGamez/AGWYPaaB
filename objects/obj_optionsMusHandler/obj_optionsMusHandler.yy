@@ -9,8 +9,8 @@
   "name":"obj_optionsMusHandler",
   "overriddenProperties":[],
   "parent":{
-    "name":"Options",
-    "path":"folders/Menus/Objects/Options.yy",
+    "name":"Objects",
+    "path":"folders/Menus/OptionsMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

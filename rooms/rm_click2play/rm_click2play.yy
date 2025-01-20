@@ -30,8 +30,8 @@
   ],
   "name":"rm_click2play",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"MainMenu",
+    "path":"folders/Menus/MainMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

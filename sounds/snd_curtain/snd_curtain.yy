@@ -12,8 +12,8 @@
   "duration":1.030181,
   "name":"snd_curtain",
   "parent":{
-    "name":"buildabucket",
-    "path":"folders/Menus/SFX/buildabucket.yy",
+    "name":"SFX",
+    "path":"folders/Menus/BuildABucketMenu/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

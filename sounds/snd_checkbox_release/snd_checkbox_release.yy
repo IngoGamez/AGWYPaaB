@@ -12,8 +12,8 @@
   "duration":0.840522,
   "name":"snd_checkbox_release",
   "parent":{
-    "name":"options",
-    "path":"folders/Menus/SFX/options.yy",
+    "name":"SFX",
+    "path":"folders/Menus/OptionsMenu/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -33,8 +33,8 @@
   ],
   "name":"rm_extras",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"ExtrasMenu",
+    "path":"folders/Menus/ExtrasMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

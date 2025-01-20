@@ -6,8 +6,8 @@
   "name":"obj_dmoneysdayoutLVLSelect",
   "overriddenProperties":[],
   "parent":{
-    "name":"D-Money",
-    "path":"folders/Menus/Objects/LevelSelect/D-Money.yy",
+    "name":"Objects",
+    "path":"folders/Menus/LevelSelectMenu/D-Money/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

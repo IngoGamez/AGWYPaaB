@@ -14,7 +14,7 @@
   "name":"rm_modLoader",
   "parent":{
     "name":"modLoaderPROTOTYPE",
-    "path":"folders/Menus/Objects/debugHUB/modLoaderPROTOTYPE.yy",
+    "path":"folders/Menus/DebugMenu/Objects/modLoaderPROTOTYPE.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

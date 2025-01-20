@@ -87,8 +87,8 @@
   ],
   "name":"rm_buildabucket",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"BuildABucketMenu",
+    "path":"folders/Menus/BuildABucketMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

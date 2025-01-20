@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"objects",
-    "path":"folders/Menus/Pause Screen/objects.yy",
+    "path":"folders/Menus/PauseMenu/objects.yy",
   },
   "parentObjectId":null,
   "persistent":true,

@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"D-Money",
-    "path":"folders/Menus/Sprites/levelSelect/D-Money.yy",
+    "name":"Sprites",
+    "path":"folders/Menus/LevelSelectMenu/D-Money/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

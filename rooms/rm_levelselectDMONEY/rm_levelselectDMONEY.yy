@@ -31,8 +31,8 @@
   ],
   "name":"rm_levelselectDMONEY",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"D-Money",
+    "path":"folders/Menus/LevelSelectMenu/D-Money.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -9,8 +9,8 @@
   "name":"obj_menuBGScroll",
   "overriddenProperties":[],
   "parent":{
-    "name":"MainMenu",
-    "path":"folders/Menus/Objects/MainMenu.yy",
+    "name":"Objects",
+    "path":"folders/Menus/Shared/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

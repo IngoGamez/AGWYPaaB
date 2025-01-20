@@ -12,8 +12,8 @@
   "duration":100.17959,
   "name":"mus_extras",
   "parent":{
-    "name":"Music",
-    "path":"folders/Menus/Music.yy",
+    "name":"ExtrasMenu",
+    "path":"folders/Menus/ExtrasMenu.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

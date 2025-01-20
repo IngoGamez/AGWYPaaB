@@ -6,8 +6,8 @@
   "name":"obj_bucketMenuHitboxLOL",
   "overriddenProperties":[],
   "parent":{
-    "name":"Bucket",
-    "path":"folders/Menus/Objects/LevelSelect/Bucket.yy",
+    "name":"Objects",
+    "path":"folders/Menus/LevelSelectMenu/Bucket/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

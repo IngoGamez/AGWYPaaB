@@ -12,8 +12,8 @@
   "duration":96.0,
   "name":"mus_inTheCloset",
   "parent":{
-    "name":"Music",
-    "path":"folders/Menus/Music.yy",
+    "name":"BuildABucketMenu",
+    "path":"folders/Menus/BuildABucketMenu.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

@@ -9,8 +9,8 @@
   "name":"obj_splashText",
   "overriddenProperties":[],
   "parent":{
-    "name":"MainMenu",
-    "path":"folders/Menus/Objects/MainMenu.yy",
+    "name":"Objects",
+    "path":"folders/Menus/MainMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

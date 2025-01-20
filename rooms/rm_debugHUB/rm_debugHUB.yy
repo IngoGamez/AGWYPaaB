@@ -17,8 +17,8 @@
   ],
   "name":"rm_debugHUB",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"DebugMenu",
+    "path":"folders/Menus/DebugMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

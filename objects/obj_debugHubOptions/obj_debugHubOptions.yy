@@ -14,8 +14,8 @@
   "name":"obj_debugHubOptions",
   "overriddenProperties":[],
   "parent":{
-    "name":"debugHUB",
-    "path":"folders/Menus/Objects/debugHUB.yy",
+    "name":"Objects",
+    "path":"folders/Menus/DebugMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

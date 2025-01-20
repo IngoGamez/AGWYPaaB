@@ -37,8 +37,8 @@
   ],
   "name":"rm_levelselect",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"Bucket",
+    "path":"folders/Menus/LevelSelectMenu/Bucket.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

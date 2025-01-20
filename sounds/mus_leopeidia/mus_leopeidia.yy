@@ -12,8 +12,8 @@
   "duration":75.41551,
   "name":"mus_leopeidia",
   "parent":{
-    "name":"Music",
-    "path":"folders/Menus/Music.yy",
+    "name":"OptionsMenu",
+    "path":"folders/Menus/OptionsMenu.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

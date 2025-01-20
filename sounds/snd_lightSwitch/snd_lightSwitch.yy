@@ -12,8 +12,8 @@
   "duration":1.105714,
   "name":"snd_lightSwitch",
   "parent":{
-    "name":"buildabucket",
-    "path":"folders/Menus/SFX/buildabucket.yy",
+    "name":"SFX",
+    "path":"folders/Menus/BuildABucketMenu/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

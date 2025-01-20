@@ -8,8 +8,8 @@
   "name":"obj_prologue",
   "overriddenProperties":[],
   "parent":{
-    "name":"MainMenu",
-    "path":"folders/Menus/Objects/MainMenu.yy",
+    "name":"Objects",
+    "path":"folders/Menus/LevelSelectMenu/Bucket/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

@@ -8,8 +8,8 @@
   "name":"obj_charSelectlock",
   "overriddenProperties":[],
   "parent":{
-    "name":"charSelect",
-    "path":"folders/Menus/Objects/charSelect.yy",
+    "name":"Objects",
+    "path":"folders/Menus/CharSelectMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

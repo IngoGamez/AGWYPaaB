@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"modLoaderPROTOTYPE",
-    "path":"folders/Menus/Objects/debugHUB/modLoaderPROTOTYPE.yy",
+    "path":"folders/Menus/DebugMenu/Objects/modLoaderPROTOTYPE.yy",
   },
   "parentObjectId":null,
   "persistent":false,

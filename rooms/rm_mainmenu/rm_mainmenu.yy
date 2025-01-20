@@ -85,8 +85,8 @@
   ],
   "name":"rm_mainmenu",
   "parent":{
-    "name":"Rooms",
-    "path":"folders/Menus/Rooms.yy",
+    "name":"MainMenu",
+    "path":"folders/Menus/MainMenu.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -11,7 +11,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"UI",
-    "path":"folders/Menus/buildabucket/objects/UI.yy",
+    "path":"folders/Menus/BuildABucketMenu/objects/UI.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

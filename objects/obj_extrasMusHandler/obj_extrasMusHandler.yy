@@ -9,8 +9,8 @@
   "name":"obj_extrasMusHandler",
   "overriddenProperties":[],
   "parent":{
-    "name":"Extras",
-    "path":"folders/Menus/Objects/Extras.yy",
+    "name":"Objects",
+    "path":"folders/Menus/ExtrasMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

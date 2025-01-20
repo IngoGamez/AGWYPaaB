@@ -12,8 +12,8 @@
   "duration":0.15619,
   "name":"snd_mainmenu_button_click",
   "parent":{
-    "name":"mainmenu",
-    "path":"folders/Menus/SFX/mainmenu.yy",
+    "name":"SFX",
+    "path":"folders/Menus/MainMenu/SFX.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

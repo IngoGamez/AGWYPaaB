@@ -8,8 +8,8 @@
   "name":"obj_achievementsButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"MainMenu",
-    "path":"folders/Menus/Objects/MainMenu.yy",
+    "name":"Objects",
+    "path":"folders/Menus/MainMenu/Objects.yy",
   },
   "parentObjectId":{
     "name":"obj_button_parent",

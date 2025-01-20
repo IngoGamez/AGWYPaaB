@@ -12,8 +12,8 @@
   "duration":71.78449,
   "name":"mus_switchUp",
   "parent":{
-    "name":"Music",
-    "path":"folders/Menus/Music.yy",
+    "name":"CharSelectMenu",
+    "path":"folders/Menus/CharSelectMenu.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

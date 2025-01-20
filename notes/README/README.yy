@@ -4,7 +4,7 @@
   "name":"README",
   "parent":{
     "name":"modLoaderPROTOTYPE",
-    "path":"folders/Menus/Objects/debugHUB/modLoaderPROTOTYPE.yy",
+    "path":"folders/Menus/DebugMenu/Objects/modLoaderPROTOTYPE.yy",
   },
   "resourceType":"GMNotes",
   "resourceVersion":"2.0",

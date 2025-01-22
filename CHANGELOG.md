@@ -16,6 +16,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Side Level: D-Money's Day Out!
 - New Achievements!
 - More Build a Bucket cosmetics!
+- New Discord RPC Support!
 ### Changed
 - New IngoGamez logo by KAD on the boot up screen
 - Levels now have difficulty ratings
@@ -83,7 +84,6 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - New Bucket Sprites
     - New Music in Menus
     - New Click to Start Screen
-    - New Volume Slider to Options Menu
     - Some New Splash Texts
 - New Remade Room Art
 - New Controller Support

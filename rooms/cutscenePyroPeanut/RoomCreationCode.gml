@@ -1,0 +1,1 @@
+np_setpresence("Prologue: Pyro Eats a Peanut", "Watching Cutscene", "cover", "");

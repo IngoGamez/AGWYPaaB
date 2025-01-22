@@ -1,0 +1,1 @@
+np_setpresence("D-Money's Day Out: Intro Cutscene", "Watching Cutscene", "cover", "");

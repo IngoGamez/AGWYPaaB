@@ -1,0 +1,1 @@
+np_setpresence("Watching Credits", "On Extras Menu", "cover", "");

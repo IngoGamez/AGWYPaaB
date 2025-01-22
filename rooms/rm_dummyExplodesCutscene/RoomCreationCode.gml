@@ -1,0 +1,1 @@
+np_setpresence("Tutorial: Dummy Explodes", "Watching Cutscene", "cover", "");

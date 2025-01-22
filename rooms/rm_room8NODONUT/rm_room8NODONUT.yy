@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_room8NODONUT",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_room8NODONUT/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

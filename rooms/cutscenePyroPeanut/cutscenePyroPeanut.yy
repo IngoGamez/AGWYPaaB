@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"cutscenePyroPeanut",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/cutscenePyroPeanut/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

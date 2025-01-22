@@ -1,0 +1,1 @@
+np_setpresence("Fighting Dummy", "In Fight", "cover", "");

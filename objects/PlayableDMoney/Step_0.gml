@@ -37,6 +37,12 @@ if (global.canMove == true){
 		else if (_xinput = 1){
 			sprite_index = spr_PlayableDMoneyRight;
 		}
+		else if (_yinput = -1){
+			y = 192;
+		}
+		else if (_yinput = 1){
+			y = 192;
+		}
 		else{
 			sprite_index = spr_PlayableDMoneyIdle;
 		}

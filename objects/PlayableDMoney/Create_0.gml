@@ -1,2 +1,2 @@
 playerSpeed = 10;
-isSideScroll = false;
+isSideScroll = true;

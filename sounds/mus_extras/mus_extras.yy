@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":100.17959,
+  "duration":100.49306,
   "name":"mus_extras",
   "parent":{
     "name":"ExtrasMenu",

@@ -23,6 +23,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - Tutorial - 1 Star
     - Prologue - 1.5 Stars
     - D-Money's Day Out - 2 Stars
+- New Extras Music (The old one got copyright claimed on YouTube lol)
 - Cutscenes have been redone and are now rendered in game rather than in a video
 ### Fixed
 - Credits music is under the music audio group rather than the default one.

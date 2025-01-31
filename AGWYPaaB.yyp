@@ -14,6 +14,8 @@
   "Folders":[
     {"$GMFolder":"","%Name":"Levels","folderPath":"folders/Levels.yy","name":"Levels","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Bucket","folderPath":"folders/Levels/Bucket.yy","name":"Bucket","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Debug","folderPath":"folders/Levels/Bucket/Debug.yy","name":"Debug","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Levels/Bucket/Debug/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Prologue","folderPath":"folders/Levels/Bucket/Prologue.yy","name":"Prologue","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Cutscenes","folderPath":"folders/Levels/Bucket/Prologue/Cutscenes.yy","name":"Cutscenes","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"introcutscene","folderPath":"folders/Levels/Bucket/Prologue/Cutscenes/introcutscene.yy","name":"introcutscene","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -375,6 +377,7 @@
     {"id":{"name":"rm_charSelect","path":"rooms/rm_charSelect/rm_charSelect.yy",},},
     {"id":{"name":"rm_click2play","path":"rooms/rm_click2play/rm_click2play.yy",},},
     {"id":{"name":"rm_debugHUB","path":"rooms/rm_debugHUB/rm_debugHUB.yy",},},
+    {"id":{"name":"rm_debugRoom","path":"rooms/rm_debugRoom/rm_debugRoom.yy",},},
     {"id":{"name":"rm_dialoguePROLOGUE","path":"rooms/rm_dialoguePROLOGUE/rm_dialoguePROLOGUE.yy",},},
     {"id":{"name":"rm_dialogueTest","path":"rooms/rm_dialogueTest/rm_dialogueTest.yy",},},
     {"id":{"name":"rm_DMoneysDayOutRoom1","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},},
@@ -827,6 +830,7 @@
     {"roomId":{"name":"rm_levelselectDMONEY","path":"rooms/rm_levelselectDMONEY/rm_levelselectDMONEY.yy",},},
     {"roomId":{"name":"cutsceneDMoneysDayOutIntro","path":"rooms/cutsceneDMoneysDayOutIntro/cutsceneDMoneysDayOutIntro.yy",},},
     {"roomId":{"name":"rm_DMoneysDayOutRoom1","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},},
+    {"roomId":{"name":"rm_debugRoom","path":"rooms/rm_debugRoom/rm_debugRoom.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

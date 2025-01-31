@@ -15,8 +15,10 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - D-Money Rank Screens
 - New Side Level: D-Money's Day Out!
 - New Achievements!
+- New Dialogue System!
 - More Build a Bucket cosmetics!
 - New Discord RPC Support!
+- Various Debug Tools
 ### Changed
 - New IngoGamez logo by KAD on the boot up screen
 - Levels now have difficulty ratings

@@ -134,3 +134,11 @@ else
 	global.canMove = true;
 }
 */
+
+if (debug_mode)
+{
+	if keyboard_check_pressed(ord("7"))
+	{
+		room_goto(rm_debugHUB);
+	}
+}

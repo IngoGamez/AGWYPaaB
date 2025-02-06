@@ -1,1 +1,1 @@
-room_goto(rm_prologueFIGHT);
+room_goto(COMBATDEBUGTESTLOL);

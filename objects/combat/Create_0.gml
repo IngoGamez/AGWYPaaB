@@ -1,5 +1,14 @@
 playerHealth = 6;
 enemyHealth = 1500;
-curTurn = "none";
+curTurn = "null";
 isFighting = false;
-isDodging = true;
+isDodging = false;
+inChoices = true;
+playerDMG = 50;
+dmgBoost = 0;
+bulletsPassed = 0;
+enemyDMG = 1;
+heals = 0;
+bpm = 0;
+obj_bucketBody.x = 1500;
+obj_bucketBody.y = 1500;

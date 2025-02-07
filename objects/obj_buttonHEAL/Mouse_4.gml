@@ -1,6 +1,10 @@
 event_inherited();
-
-if combat.curTurn = "player"
+if !(combat.playerHealth == 6)
 {
-	combat.playerHealth = combat.playerHealth + 0.5;
+	if combat.curTurn = "null"
+	{
+		combat.playerHealth = combat.playerHealth + 1;
+		combat.inChoices = false;
+		combat.curTurn = "enemy";
+	}
 }

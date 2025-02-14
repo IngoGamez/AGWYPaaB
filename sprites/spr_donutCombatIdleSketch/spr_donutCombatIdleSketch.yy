@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_combatButtonHEAL",
+  "%Name":"spr_donutCombatIdleSketch",
   "bboxMode":0,
-  "bbox_bottom":226,
+  "bbox_bottom":449,
   "bbox_left":0,
-  "bbox_right":406,
+  "bbox_right":452,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,16 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"8e33be61-4d46-40e2-b8df-79e279675bcb","name":"8e33be61-4d46-40e2-b8df-79e279675bcb","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"598acf5c-74cc-47a5-aa5d-ef57ca9580d5","name":"598acf5c-74cc-47a5-aa5d-ef57ca9580d5","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":227,
+  "height":450,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"40b97410-3dac-423b-a2db-e654bdab6d76","blendMode":0,"displayName":"default","isLocked":false,"name":"40b97410-3dac-423b-a2db-e654bdab6d76","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"ce9d2e10-327c-4673-97bc-d09361d48628","blendMode":0,"displayName":"default","isLocked":false,"name":"ce9d2e10-327c-4673-97bc-d09361d48628","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_combatButtonHEAL",
+  "name":"spr_donutCombatIdleSketch",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -33,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_combatButtonHEAL",
+    "%Name":"spr_donutCombatIdleSketch",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -57,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_combatButtonHEAL",
+    "name":"spr_donutCombatIdleSketch",
     "playback":1,
     "playbackSpeed":24.0,
     "playbackSpeedType":0,
@@ -69,8 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"8e33be61-4d46-40e2-b8df-79e279675bcb","path":"sprites/spr_combatButtonHEAL/spr_combatButtonHEAL.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"2c3aa41e-9cc7-43a2-94c1-7014711a2df2","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"598acf5c-74cc-47a5-aa5d-ef57ca9580d5","path":"sprites/spr_donutCombatIdleSketch/spr_donutCombatIdleSketch.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"a6930965-debd-4930-ba94-259983af851c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":407,
+  "width":453,
 }

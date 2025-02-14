@@ -149,6 +149,9 @@ if round(rng) = 49 {
 if round(rng) = 50 {
 	draw_text_color(x, y, "Now with achievements!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
+if round(rng) = 51 {
+	draw_text_color(x, y, "Nazis are fucking stupid!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
 }
 
 if global.showDEBUG = true{

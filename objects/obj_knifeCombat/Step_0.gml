@@ -1,12 +1,12 @@
 if note_movement = false{
 	y = -96;
 }
-if global.curTurn = "player" && canHitSpace = false{
+if combat.curTurn = "player" && canHitSpace = false{
 if note_movement = false{
 	note_rng = round(random_range(1, 3));
 }
 
-if global.note_rng = note_rng{
+if combat.note_rng = note_rng{
 	note_rng = round(random_range(1, 3));
 }
 
@@ -29,8 +29,8 @@ if note_movement = true{
 if y > 575{
 	combatStats.misses = combatStats.misses + 1;
 	note_movement = false;
-	global.bulletsPassed = 0;
-	global.curTurn = "enemy";
+	combat.bulletsPassed = 0;
+	combat.curTurn = "enemy";
 }
 
 if place_meeting(x, y, obj_bucketInCombat){

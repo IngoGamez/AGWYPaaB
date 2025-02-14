@@ -10,7 +10,7 @@ if combat.curTurn = "player"
 		if combat.bulletsPassed = 3
 		{
 			combat.enemyHealth = combat.enemyHealth - (combat.playerDMG*combat.dmgBoost);
-			combat.curTurn = "null";
+			combat.curTurn = "enemy";
 		}
 	}
 }

@@ -5,8 +5,9 @@ if isFighting = true
 	obj_combatPLAYER.image_alpha = 0;
 	obj_combatENEMY.image_alpha = 0
 	obj_wallsCOMBAT.image_alpha = 1;
-	obj_bucketInCombat.image_alpha = 1;
+	/* obj_bucketInCombat.image_alpha = 1;
 	obj_donutCOMBAT.image_alpha = 1;
+	*/
 }
 else
 {
@@ -15,6 +16,7 @@ else
 	obj_combatPLAYER.image_alpha = 1;
 	obj_combatENEMY.image_alpha = 1
 	obj_wallsCOMBAT.image_alpha = 0;
-	obj_bucketInCombat.image_alpha = 0;
+	/*obj_bucketInCombat.image_alpha = 0;
 	obj_donutCOMBAT.image_alpha = 0;
+	*/
 }

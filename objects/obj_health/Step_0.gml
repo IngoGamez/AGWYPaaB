@@ -20,6 +20,7 @@ if global.hp = 0{
 	image_index = 7;
 	room_goto(rm_bucket_dying);
 }
-if global.isHit = true{
+/*if global.isHit = true{
 	image_index = 1;
 }
+*/

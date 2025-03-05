@@ -46,3 +46,11 @@ if _id = 3
 		image_index = 3;
 	}
 }
+if place_meeting(x, y, cursor)
+{
+	cursor.image_index = 1;
+}
+else
+{
+	cursor.image_index = 0;
+}

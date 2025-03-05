@@ -15,6 +15,7 @@
     {"name":"inst_2EBF0348","path":"rooms/rm_debugRoom/rm_debugRoom.yy",},
     {"name":"inst_56C93FAA","path":"rooms/rm_debugRoom/rm_debugRoom.yy",},
     {"name":"inst_22F33F9D","path":"rooms/rm_debugRoom/rm_debugRoom.yy",},
+    {"name":"inst_15BD2A6C","path":"rooms/rm_debugRoom/rm_debugRoom.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -27,6 +28,7 @@
           ],"layers":[],"name":"foot","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
         {"$GMRInstanceLayer":"","%Name":"face","depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
             {"$GMRInstance":"v1","%Name":"inst_330423E7","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_330423E7","objectId":{"name":"obj_bucketFace","path":"objects/obj_bucketFace/obj_bucketFace.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.616,"scaleY":0.68,"x":96.0,"y":448.0,},
+            {"$GMRInstance":"v1","%Name":"inst_15BD2A6C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_15BD2A6C","objectId":{"name":"combatStats","path":"objects/combatStats/combatStats.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":0.0,},
           ],"layers":[],"name":"face","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
         {"$GMRInstanceLayer":"","%Name":"body","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
             {"$GMRInstance":"v1","%Name":"inst_17FC2E4D","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_17FC2E4D","objectId":{"name":"obj_bucketBody","path":"objects/obj_bucketBody/obj_bucketBody.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.616,"scaleY":0.68,"x":96.0,"y":448.0,},

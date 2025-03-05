@@ -12,6 +12,7 @@
     {"name":"inst_4E084C07","path":"rooms/rm_click2play/rm_click2play.yy",},
     {"name":"inst_A62E52C","path":"rooms/rm_click2play/rm_click2play.yy",},
     {"name":"inst_22AA27E1","path":"rooms/rm_click2play/rm_click2play.yy",},
+    {"name":"inst_3A29460D","path":"rooms/rm_click2play/rm_click2play.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -19,6 +20,7 @@
         {"$GMRInstance":"v1","%Name":"inst_4E084C07","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_4E084C07","objectId":{"name":"API","path":"objects/API/API.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1184.0,"y":32.0,},
         {"$GMRInstance":"v1","%Name":"inst_A62E52C","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_A62E52C","objectId":{"name":"obj_screenshot","path":"objects/obj_screenshot/obj_screenshot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":96.0,"y":0.0,},
         {"$GMRInstance":"v1","%Name":"inst_22AA27E1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_22AA27E1","objectId":{"name":"RPC","path":"objects/RPC/RPC.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":1248.0,"y":32.0,},
+        {"$GMRInstance":"v1","%Name":"inst_3A29460D","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3A29460D","objectId":{"name":"cursor","path":"objects/cursor/cursor.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"daMouse","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":true,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_5B0199CA","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_5B0199CA","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.730113,"scaleX":0.50668037,"scaleY":0.5534884,"spriteId":{"name":"spr_logo","path":"sprites/spr_logo/spr_logo.yy",},"x":640.0,"y":360.0,},

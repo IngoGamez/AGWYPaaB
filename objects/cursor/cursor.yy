@@ -30,10 +30,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_mouse",
-    "path":"sprites/spr_mouse/spr_mouse.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

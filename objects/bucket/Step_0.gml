@@ -142,3 +142,9 @@ if (debug_mode)
 		room_goto(rm_debugHUB);
 	}
 }
+
+if !(global.curChar == "bucket")
+{
+	obj_bucketBody.x = 1500;
+	obj_bucketBody.y = 1500;
+}

@@ -398,6 +398,7 @@
     {"id":{"name":"rm_dialoguePROLOGUE","path":"rooms/rm_dialoguePROLOGUE/rm_dialoguePROLOGUE.yy",},},
     {"id":{"name":"rm_dialogueTest","path":"rooms/rm_dialogueTest/rm_dialogueTest.yy",},},
     {"id":{"name":"rm_DMoneysDayOutRoom1","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},},
+    {"id":{"name":"rm_DMoneysDayOutRoom2","path":"rooms/rm_DMoneysDayOutRoom2/rm_DMoneysDayOutRoom2.yy",},},
     {"id":{"name":"rm_dummyExplodesCutscene","path":"rooms/rm_dummyExplodesCutscene/rm_dummyExplodesCutscene.yy",},},
     {"id":{"name":"rm_extras","path":"rooms/rm_extras/rm_extras.yy",},},
     {"id":{"name":"rm_introcuscene_proVIDEO","path":"rooms/rm_introcuscene_proVIDEO/rm_introcuscene_proVIDEO.yy",},},
@@ -869,6 +870,7 @@
     {"roomId":{"name":"rm_DMoneysDayOutRoom1","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},},
     {"roomId":{"name":"rm_debugRoom","path":"rooms/rm_debugRoom/rm_debugRoom.yy",},},
     {"roomId":{"name":"COMBATDEBUGTESTLOL","path":"rooms/COMBATDEBUGTESTLOL/COMBATDEBUGTESTLOL.yy",},},
+    {"roomId":{"name":"rm_DMoneysDayOutRoom2","path":"rooms/rm_DMoneysDayOutRoom2/rm_DMoneysDayOutRoom2.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

@@ -48,3 +48,9 @@ if (global.canMove == true){
 		}
 	}
 }
+
+if !(global.curChar == "d-money")
+{
+	x = 1500;
+	y = 1500;
+}

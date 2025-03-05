@@ -7,3 +7,4 @@ else{
 	room_goto(rm_introcutscene_proFRAMES);
 }
 audio_play_sound(snd_mainmenu_button_click, 1, false)
+global.curChar = "bucket";

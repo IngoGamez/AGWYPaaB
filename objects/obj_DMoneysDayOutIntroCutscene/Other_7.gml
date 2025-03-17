@@ -1,1 +1,2 @@
 room_goto(rm_DMoneysDayOutRoom1);
+audio_stop_sound(mus_sprayPaintCansAndDollarBills);

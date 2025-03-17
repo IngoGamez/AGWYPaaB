@@ -7,16 +7,16 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_3E249404","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
-    {"name":"inst_763605E1","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
     {"name":"inst_75110350","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
     {"name":"inst_2C775841","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
     {"name":"inst_D311CDD","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
     {"name":"inst_7D207351","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
+    {"name":"inst_5026356E","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
   ],
   "isDnd":false,
   "layers":[
     {"$GMRInstanceLayer":"","%Name":"dmoney","depth":0,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_763605E1","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_763605E1","objectId":{"name":"PlayableDMoney","path":"objects/PlayableDMoney/PlayableDMoney.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":480.0,"y":192.0,},
+        {"$GMRInstance":"v1","%Name":"inst_5026356E","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_5026356E","objectId":{"name":"pause","path":"objects/pause/pause.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"dmoney","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"fgShit","assets":[
         {"$GMRSpriteGraphic":"","%Name":"graphic_2893956A","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_2893956A","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_DMoneysDayOutRoom1Puddle","path":"sprites/spr_DMoneysDayOutRoom1Puddle/spr_DMoneysDayOutRoom1Puddle.yy",},"x":0.0,"y":0.0,},

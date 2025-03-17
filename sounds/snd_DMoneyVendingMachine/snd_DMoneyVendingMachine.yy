@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_DMoneyVendingMachine",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":2.690612,
+  "name":"snd_DMoneyVendingMachine",
+  "parent":{
+    "name":"SFX",
+    "path":"folders/Levels/D-Money/D-Money's Day Out/SFX.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_DMoneyVendingMachine.mp3",
+  "type":0,
+  "volume":1.0,
+}

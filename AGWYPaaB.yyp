@@ -354,6 +354,7 @@
     {"id":{"name":"obj_optionsPLUS","path":"objects/obj_optionsPLUS/obj_optionsPLUS.yy",},},
     {"id":{"name":"obj_oturoFRAMES","path":"objects/obj_oturoFRAMES/obj_oturoFRAMES.yy",},},
     {"id":{"name":"obj_outroVID","path":"objects/obj_outroVID/obj_outroVID.yy",},},
+    {"id":{"name":"obj_pausescreenBG","path":"objects/obj_pausescreenBG/obj_pausescreenBG.yy",},},
     {"id":{"name":"obj_pausescreenMM","path":"objects/obj_pausescreenMM/obj_pausescreenMM.yy",},},
     {"id":{"name":"obj_pausescreenQUIT","path":"objects/obj_pausescreenQUIT/obj_pausescreenQUIT.yy",},},
     {"id":{"name":"obj_pausescreenResume","path":"objects/obj_pausescreenResume/obj_pausescreenResume.yy",},},

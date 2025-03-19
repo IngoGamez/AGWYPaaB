@@ -317,6 +317,7 @@
     {"id":{"name":"obj_dmoneyNPCPROLOGUE","path":"objects/obj_dmoneyNPCPROLOGUE/obj_dmoneyNPCPROLOGUE.yy",},},
     {"id":{"name":"obj_DMoneysDayOutIntroCutscene","path":"objects/obj_DMoneysDayOutIntroCutscene/obj_DMoneysDayOutIntroCutscene.yy",},},
     {"id":{"name":"obj_dmoneysdayoutLVLSelect","path":"objects/obj_dmoneysdayoutLVLSelect/obj_dmoneysdayoutLVLSelect.yy",},},
+    {"id":{"name":"obj_DMoneysDayOutPaint","path":"objects/obj_DMoneysDayOutPaint/obj_DMoneysDayOutPaint.yy",},},
     {"id":{"name":"obj_DMoneysDayOutRoom1Cars","path":"objects/obj_DMoneysDayOutRoom1Cars/obj_DMoneysDayOutRoom1Cars.yy",},},
     {"id":{"name":"obj_DMoneysDayOutSkateboardBuildings","path":"objects/obj_DMoneysDayOutSkateboardBuildings/obj_DMoneysDayOutSkateboardBuildings.yy",},},
     {"id":{"name":"obj_DMoneysDayOutSkateboardClouds","path":"objects/obj_DMoneysDayOutSkateboardClouds/obj_DMoneysDayOutSkateboardClouds.yy",},},
@@ -399,6 +400,7 @@
     {"id":{"name":"COMBATDEBUGTESTLOL","path":"rooms/COMBATDEBUGTESTLOL/COMBATDEBUGTESTLOL.yy",},},
     {"id":{"name":"cutsceneDMoneysDayOutIntro","path":"rooms/cutsceneDMoneysDayOutIntro/cutsceneDMoneysDayOutIntro.yy",},},
     {"id":{"name":"cutscenePyroPeanut","path":"rooms/cutscenePyroPeanut/cutscenePyroPeanut.yy",},},
+    {"id":{"name":"paint","path":"rooms/paint/paint.yy",},},
     {"id":{"name":"rm_achievementsMenu","path":"rooms/rm_achievementsMenu/rm_achievementsMenu.yy",},},
     {"id":{"name":"rm_bucket_dead","path":"rooms/rm_bucket_dead/rm_bucket_dead.yy",},},
     {"id":{"name":"rm_bucket_dying","path":"rooms/rm_bucket_dying/rm_bucket_dying.yy",},},
@@ -869,6 +871,7 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"paint","path":"rooms/paint/paint.yy",},},
     {"roomId":{"name":"rm_splashScreen","path":"rooms/rm_splashScreen/rm_splashScreen.yy",},},
     {"roomId":{"name":"rm_DMoneysDayOutSkateboardTUT","path":"rooms/rm_DMoneysDayOutSkateboardTUT/rm_DMoneysDayOutSkateboardTUT.yy",},},
     {"roomId":{"name":"rm_bucketPerfectRankScreen","path":"rooms/rm_bucketPerfectRankScreen/rm_bucketPerfectRankScreen.yy",},},

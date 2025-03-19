@@ -1,0 +1,9 @@
+w_width = 1280;
+w_height = 720;
+color = c_green;
+surf_painting = surface_create(w_width, w_height);
+surf_painting_update = true;
+paint_active = false;
+paint_width = 5;
+paint_width_min = 1;
+paint_width_max = 30;

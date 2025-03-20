@@ -493,6 +493,7 @@
     {"id":{"name":"snd_checkbox_down","path":"sounds/snd_checkbox_down/snd_checkbox_down.yy",},},
     {"id":{"name":"snd_checkbox_release","path":"sounds/snd_checkbox_release/snd_checkbox_release.yy",},},
     {"id":{"name":"snd_curtain","path":"sounds/snd_curtain/snd_curtain.yy",},},
+    {"id":{"name":"snd_DMoneysDayOutIntroAudio","path":"sounds/snd_DMoneysDayOutIntroAudio/snd_DMoneysDayOutIntroAudio.yy",},},
     {"id":{"name":"snd_DMoneyVendingMachine","path":"sounds/snd_DMoneyVendingMachine/snd_DMoneyVendingMachine.yy",},},
     {"id":{"name":"snd_DMoneyVendingMachineBOOM","path":"sounds/snd_DMoneyVendingMachineBOOM/snd_DMoneyVendingMachineBOOM.yy",},},
     {"id":{"name":"snd_DMoneyVendingMachineFire","path":"sounds/snd_DMoneyVendingMachineFire/snd_DMoneyVendingMachineFire.yy",},},
@@ -871,8 +872,8 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
-    {"roomId":{"name":"paint","path":"rooms/paint/paint.yy",},},
     {"roomId":{"name":"rm_splashScreen","path":"rooms/rm_splashScreen/rm_splashScreen.yy",},},
+    {"roomId":{"name":"paint","path":"rooms/paint/paint.yy",},},
     {"roomId":{"name":"rm_DMoneysDayOutSkateboardTUT","path":"rooms/rm_DMoneysDayOutSkateboardTUT/rm_DMoneysDayOutSkateboardTUT.yy",},},
     {"roomId":{"name":"rm_bucketPerfectRankScreen","path":"rooms/rm_bucketPerfectRankScreen/rm_bucketPerfectRankScreen.yy",},},
     {"roomId":{"name":"rm_bucketGoodRankScreen","path":"rooms/rm_bucketGoodRankScreen/rm_bucketGoodRankScreen.yy",},},

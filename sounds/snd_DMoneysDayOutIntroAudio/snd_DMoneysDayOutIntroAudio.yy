@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_DMoneysDayOutIntroAudio",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":21.640999,
+  "name":"snd_DMoneysDayOutIntroAudio",
+  "parent":{
+    "name":"IntroCutscene",
+    "path":"folders/Levels/D-Money/D-Money's Day Out/Cutscenes/IntroCutscene.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_DMoneysDayOutIntroAudio.WAV",
+  "type":0,
+  "volume":1.0,
+}

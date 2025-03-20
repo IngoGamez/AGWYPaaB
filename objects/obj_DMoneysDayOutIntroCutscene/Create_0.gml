@@ -1,1 +1,1 @@
-audio_play_sound(mus_sprayPaintCansAndDollarBills, 1, false);
+audio_play_sound(snd_DMoneysDayOutIntroAudio, 1, false);

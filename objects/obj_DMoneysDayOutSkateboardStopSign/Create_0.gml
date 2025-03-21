@@ -1,1 +1,0 @@
-scrollSpeed = 40;

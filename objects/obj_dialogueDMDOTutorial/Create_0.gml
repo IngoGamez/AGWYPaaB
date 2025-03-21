@@ -1,7 +1,5 @@
 event_inherited();
 
-boxY = 500;
-
 dialogue.add(spr_dummyDialogueIcon, "Hey there pal.");
 dialogue.add(spr_dummyDialogueIcon, "It looks like you're trying to learn how to skate.");
 dialogue.add(spr_dummyDialogueIcon, "I guess I'll show you how to do it.");

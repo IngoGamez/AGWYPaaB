@@ -10,4 +10,4 @@ if room = rm_DMoneysDayOutSkateboard1
 }
 
 playerspeed = 10;
-playerHealth = 30;
+playerHealth = 100;

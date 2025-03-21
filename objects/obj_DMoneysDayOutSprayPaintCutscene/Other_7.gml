@@ -1,0 +1,2 @@
+room_goto(rm_DMoneysDayOutBossFight);
+audio_stop_sound(snd_DMoneysDayOutSprayPaintCutscene);

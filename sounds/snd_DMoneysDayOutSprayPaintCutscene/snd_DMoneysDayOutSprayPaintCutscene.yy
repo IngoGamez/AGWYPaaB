@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_DMoneysDayOutSprayPaintCutscene",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":15.51093,
+  "name":"snd_DMoneysDayOutSprayPaintCutscene",
+  "parent":{
+    "name":"SpraypaintCutscene",
+    "path":"folders/Levels/D-Money/D-Money's Day Out/Cutscenes/SpraypaintCutscene.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_DMoneysDayOutSprayPaintCutscene.WAV",
+  "type":0,
+  "volume":1.0,
+}

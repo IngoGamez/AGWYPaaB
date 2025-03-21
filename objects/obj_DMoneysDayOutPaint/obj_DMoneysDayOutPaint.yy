@@ -11,8 +11,8 @@
   "name":"obj_DMoneysDayOutPaint",
   "overriddenProperties":[],
   "parent":{
-    "name":"AGWYPaaB",
-    "path":"AGWYPaaB.yyp",
+    "name":"Objects",
+    "path":"folders/Levels/D-Money/D-Money's Day Out/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

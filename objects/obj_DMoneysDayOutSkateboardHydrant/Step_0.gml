@@ -21,7 +21,7 @@ if x < 0
 	timerReset = true;
 }
 
-if place_meeting(x, y, obj_DMoneysDayOutSkateBoardDMONEY)
+if place_meeting(x, y, obj_DMoneysDayOutSkateBoardDMONEY) && obj_DMoneysDayOutSkateBoardDMONEY.y > 250
 {
 	if timer <= 300
 	{

@@ -1,5 +1,6 @@
 if mouse_check_button(mb_left)
 {
+	audio_play_sound(snd_DMoneysDayOutSpray, 1, false);
 	paint_active = true;	
 }
 else if paint_active

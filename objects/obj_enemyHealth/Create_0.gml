@@ -7,5 +7,10 @@ if room = rm_tutorialFight
 	global.enemyHP = 500;
 	global.curEnemy = "dummy";
 }
+if room = rm_DMoneysDayOutBossFight
+{
+	global.enemyHP = 1500;
+	global.curEnemy = "angryCop";
+}
 
 global.curTurn = "enemy";

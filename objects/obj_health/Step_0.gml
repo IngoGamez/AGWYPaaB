@@ -18,7 +18,14 @@ if global.hp = 1{
 }
 if global.hp = 0{
 	image_index = 7;
-	room_goto(rm_bucket_dying);
+	if global.curChar = "bucket"
+	{
+		room_goto(rm_bucket_dying);
+	}
+	if global.curChar = "d-money"
+	{
+		room_goto(rm_DMoneyDying);
+	}
 }
 /*if global.isHit = true{
 	image_index = 1;

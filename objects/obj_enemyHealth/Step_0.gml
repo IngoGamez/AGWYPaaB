@@ -24,3 +24,8 @@ if room = rm_tutorialFight
 		audio_stop_sound(mus_tutorial);
 	}
 }
+if room = rm_DMoneysDayOutBossFight
+{
+	room_goto(cutsceneDMoneysDayOutPostFight);
+	audio_stop_sound(mus_copFight);
+}

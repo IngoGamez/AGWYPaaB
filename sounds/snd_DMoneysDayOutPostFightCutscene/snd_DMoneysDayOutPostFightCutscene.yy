@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_DMoneysDayOutPostFightCutscene",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":6.083628,
+  "name":"snd_DMoneysDayOutPostFightCutscene",
+  "parent":{
+    "name":"PostFightCutscene",
+    "path":"folders/Levels/D-Money/D-Money's Day Out/Cutscenes/PostFightCutscene.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_DMoneysDayOutPostFightCutscene.WAV",
+  "type":0,
+  "volume":1.0,
+}

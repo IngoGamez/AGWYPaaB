@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_DMoneysDayOutOutro",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":24.613152,
+  "name":"snd_DMoneysDayOutOutro",
+  "parent":{
+    "name":"OutroCutscene",
+    "path":"folders/Levels/D-Money/D-Money's Day Out/Cutscenes/OutroCutscene.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_DMoneysDayOutOutro.WAV",
+  "type":0,
+  "volume":1.0,
+}

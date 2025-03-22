@@ -1,2 +1,2 @@
-room_goto(rm_DMoneysDayOutBossFight);
+room_goto(rm_dmoneyCopFight);
 audio_stop_sound(snd_DMoneysDayOutSprayPaintCutscene);

@@ -24,8 +24,11 @@ if room = rm_tutorialFight
 		audio_stop_sound(mus_tutorial);
 	}
 }
-if room = rm_dmoneyCopFight
+if room = rm_DMoneysDayOutFight
 {
-	room_goto(cutsceneDMoneysDayOutPostFight);
-	audio_stop_sound(mus_copFight);
+	if global.enemyHP = 0
+	{
+		room_goto(cutsceneDMoneysDayOutPostFight);
+		audio_stop_sound(mus_copFight);
+	}
 }

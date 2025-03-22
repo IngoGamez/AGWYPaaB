@@ -28,7 +28,7 @@ if y > 672{
 	note_movement = false;
 }
 
-if place_meeting(x, y, obj_bucketInCombat){
+if place_meeting(x, y, obj_bucketInCombat) or place_meeting(x, y, obj_PlayableDMoneyInCombat){
 	global.isHit = true;
 	global.hp = global.hp -1;
 	global.curShooting = false;

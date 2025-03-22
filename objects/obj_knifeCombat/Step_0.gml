@@ -33,7 +33,7 @@ if y > 575{
 	global.curTurn = "enemy";
 }
 
-if place_meeting(x, y, obj_bucketInCombat){
+if place_meeting(x, y, obj_bucketInCombat) or place_meeting(x, y, obj_PlayableDMoneyInCombat){
 	canHitSpace = true;
 }
 }

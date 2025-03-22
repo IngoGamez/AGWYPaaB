@@ -1,28 +1,23 @@
 #region animation shit
 if anim = "idle"{
 	sprite_index = spr_PlayableDMoneyCombatIdle;
-	x = 640;
-	y = 576;
+	x = 480;
 }
 if anim = "dodgeLeft"{
 	sprite_index = spr_PlayableDMoneyLeftCombat;
-	x = 448;
-	y = 576;
+	x = 320;
 }
 if anim = "dodgeRight"{
 	sprite_index = spr_PlayableDMoneyCombatRight;
-	x = 832;
-	y = 576;
+	x = 672;
 }
 if anim = "knifeReady"{
 	sprite_index = spr_PlayableDMoneyGunReady;
-	x = 640;
-	y = 576;
+	x = 480;
 }
 if anim = "knifeThrow"{
 	sprite_index = spr_PlayableDMoneyGunShoot;
-	x = 640;
-	y = 576;
+	x = 480;
 }
 
 #endregion

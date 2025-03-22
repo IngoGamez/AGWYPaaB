@@ -430,6 +430,7 @@
     {"id":{"name":"rm_dmoneyCopFight","path":"rooms/rm_dmoneyCopFight/rm_dmoneyCopFight.yy",},},
     {"id":{"name":"rm_DMoneyDying","path":"rooms/rm_DMoneyDying/rm_DMoneyDying.yy",},},
     {"id":{"name":"rm_DMoneyExplodesRoom","path":"rooms/rm_DMoneyExplodesRoom/rm_DMoneyExplodesRoom.yy",},},
+    {"id":{"name":"rm_DMoneysDayOutFight","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},},
     {"id":{"name":"rm_DMoneysDayOutRoom1","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},},
     {"id":{"name":"rm_DMoneysDayOutRoom2","path":"rooms/rm_DMoneysDayOutRoom2/rm_DMoneysDayOutRoom2.yy",},},
     {"id":{"name":"rm_DMoneysDayOutRoom3","path":"rooms/rm_DMoneysDayOutRoom3/rm_DMoneysDayOutRoom3.yy",},},
@@ -913,9 +914,9 @@
   "resourceType":"GMProject",
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
+    {"roomId":{"name":"rm_splashScreen","path":"rooms/rm_splashScreen/rm_splashScreen.yy",},},
     {"roomId":{"name":"rm_dmoneyCopFight","path":"rooms/rm_dmoneyCopFight/rm_dmoneyCopFight.yy",},},
     {"roomId":{"name":"rm_DMoneysDayOutSkateboard2","path":"rooms/rm_DMoneysDayOutSkateboard2/rm_DMoneysDayOutSkateboard2.yy",},},
-    {"roomId":{"name":"rm_splashScreen","path":"rooms/rm_splashScreen/rm_splashScreen.yy",},},
     {"roomId":{"name":"rm_DMoneysDayOutSprayPaint","path":"rooms/rm_DMoneysDayOutSprayPaint/rm_DMoneysDayOutSprayPaint.yy",},},
     {"roomId":{"name":"rm_DMoneysDayOutSkateboardTUT","path":"rooms/rm_DMoneysDayOutSkateboardTUT/rm_DMoneysDayOutSkateboardTUT.yy",},},
     {"roomId":{"name":"rm_bucketPerfectRankScreen","path":"rooms/rm_bucketPerfectRankScreen/rm_bucketPerfectRankScreen.yy",},},
@@ -987,6 +988,7 @@
     {"roomId":{"name":"rm_DMoneySkateboardGameOver","path":"rooms/rm_DMoneySkateboardGameOver/rm_DMoneySkateboardGameOver.yy",},},
     {"roomId":{"name":"cutsceneDMoneysDayOutPostFight","path":"rooms/cutsceneDMoneysDayOutPostFight/cutsceneDMoneysDayOutPostFight.yy",},},
     {"roomId":{"name":"rm_DMoneyDying","path":"rooms/rm_DMoneyDying/rm_DMoneyDying.yy",},},
+    {"roomId":{"name":"rm_DMoneysDayOutFight","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

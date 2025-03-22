@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_DMoneysDayOutSkateboard2",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_DMoneysDayOutSkateboard2/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

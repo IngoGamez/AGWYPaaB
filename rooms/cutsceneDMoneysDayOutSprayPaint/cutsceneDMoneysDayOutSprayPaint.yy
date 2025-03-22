@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"cutsceneDMoneysDayOutSprayPaint",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/cutsceneDMoneysDayOutSprayPaint/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

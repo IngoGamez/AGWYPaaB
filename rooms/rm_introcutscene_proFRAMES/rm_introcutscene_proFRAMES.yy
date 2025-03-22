@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_introcutscene_proFRAMES",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_introcutscene_proFRAMES/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

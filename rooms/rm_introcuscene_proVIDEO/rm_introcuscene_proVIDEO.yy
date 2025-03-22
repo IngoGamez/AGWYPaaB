@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_introcuscene_proVIDEO",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_introcuscene_proVIDEO/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

@@ -1,0 +1,1 @@
+np_setpresence("D-Money's Day Out: Spraypainting", "Watching Cutscene", "cover", "");

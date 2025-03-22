@@ -1,0 +1,1 @@
+np_setpresence("Fighting Angry Faic", "In Fight", "cover", "");

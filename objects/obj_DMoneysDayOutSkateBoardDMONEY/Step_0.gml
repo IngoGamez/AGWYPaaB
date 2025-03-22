@@ -16,9 +16,19 @@ if room != rm_DMoneysDayOutSkateboardTUT
 	}
 	if timer < 0
 	{
-		audio_stop_sound(mus_sprayPaintCansAndDollarBills);
-		PlayableDMoney.x = 64;
-		PlayableDMoney.y = 192;
-		room_goto(rm_DMoneysDayOutRoom7);
+		if room = rm_DMoneysDayOutSkateboard1
+		{
+			audio_stop_sound(mus_sprayPaintCansAndDollarBills);
+			PlayableDMoney.x = 64;
+			PlayableDMoney.y = 192;
+			room_goto(rm_DMoneysDayOutRoom7);
+		}
+		if room = rm_DMoneysDayOutSkateboard2
+		{
+			audio_stop_sound(snd_DMoneysDayOutRain);
+			PlayableDMoney.x = 64;
+			PlayableDMoney.y = 192;
+			room_goto(cutsceneDMoneysDayOutOutro);
+		}
 	}
 }

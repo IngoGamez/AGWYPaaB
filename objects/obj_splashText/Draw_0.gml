@@ -147,10 +147,16 @@ if round(rng) = 49 {
 	draw_text_color(x, y, "Buy his Hideo games", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 50 {
-	draw_text_color(x, y, "Now with achievements!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "I was broke now im rich", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 51 {
 	draw_text_color(x, y, "Nazis are fucking stupid!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 52{
+	draw_text_color(x, y, "Ruined my marriage", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 53{
+	draw_text_color(x, y, "Derryl-Money was a rising star in the world of basketball", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 }
 
@@ -176,7 +182,7 @@ if current_day = 18 && current_month = 5
 if current_day = 27 && current_month = 2
 {
 	isHoliday = true;
-	draw_text_color(x, y, "Happy Birthday dogdillon!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "GIVE BIRTH!", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if current_day = 11 && current_month = 5
 {

@@ -1,1 +1,1 @@
-room_goto(rm_credits);
+room_goto(rm_mainmenu);

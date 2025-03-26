@@ -1,4 +1,4 @@
-version = "PLAY TEST Beta - v0.8";
+version = "Beta - v0.8";
 
 if (debug_mode)
 {

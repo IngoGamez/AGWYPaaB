@@ -19,7 +19,7 @@ if spawnTimer < 0
 	x = x - scrollSpeed;
 }
 
-if x < -100
+if x < -736
 {
 	timerReset = true;
 }

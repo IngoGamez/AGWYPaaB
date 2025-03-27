@@ -10,7 +10,7 @@ if timerReset = true
 
 spawnTimer--;
 
-if spawnTimer < 0
+if spawnTimer < -736
 {
 	y = 128;
 	x = x - scrollSpeed;

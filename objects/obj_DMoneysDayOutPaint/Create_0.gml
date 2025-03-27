@@ -7,3 +7,5 @@ paint_width = 5;
 paint_width_min = 1;
 paint_width_max = 30;
 color = c_green;
+isPlayingSFX = false;
+audio_play_sound(snd_DMoneysDayOutSpray, 1, true);

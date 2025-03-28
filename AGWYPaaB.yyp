@@ -230,6 +230,7 @@
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Unused Folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
   "IncludedFiles":[
+    {"$GMIncludedFile":"","%Name":"CHANGELOG.md","CopyToMask":-1,"filePath":"datafiles","name":"CHANGELOG.md","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"README.txt","CopyToMask":-1,"filePath":"datafiles","name":"README.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"credits.mp4","CopyToMask":-1,"filePath":"datafiles/videos/menu","name":"credits.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"intro.mp4","CopyToMask":-1,"filePath":"datafiles/videos/prologue","name":"intro.mp4","resourceType":"GMIncludedFile","resourceVersion":"2.0",},

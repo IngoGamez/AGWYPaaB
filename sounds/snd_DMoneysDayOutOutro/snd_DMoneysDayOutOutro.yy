@@ -9,7 +9,7 @@
   "bitRate":128,
   "compression":0,
   "conversionMode":0,
-  "duration":24.613152,
+  "duration":24.636372,
   "name":"snd_DMoneysDayOutOutro",
   "parent":{
     "name":"OutroCutscene",

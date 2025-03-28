@@ -2,6 +2,7 @@ if keyboard_check_pressed(vk_control)
 {
 	room_goto(rm_DMoneysDayOutRoom1);
 	audio_stop_sound(snd_DMoneysDayOutIntroAudio);
+	global.canMove = true;
 	PlayableDMoney.x = 480;
 	PlayableDMoney.y = 192;
 }

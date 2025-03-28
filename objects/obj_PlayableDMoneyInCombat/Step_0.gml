@@ -5,7 +5,7 @@ if anim = "idle"{
 }
 if anim = "dodgeLeft"{
 	sprite_index = spr_PlayableDMoneyLeftCombat;
-	x = 320;
+	x = 290;
 }
 if anim = "dodgeRight"{
 	sprite_index = spr_PlayableDMoneyCombatRight;

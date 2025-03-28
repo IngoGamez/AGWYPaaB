@@ -26,7 +26,7 @@ if room = rm_tutorialFight
 }
 if room = rm_DMoneysDayOutFight
 {
-	if global.enemyHP = 0
+	if global.enemyHP < 1
 	{
 		room_goto(cutsceneDMoneysDayOutPostFight);
 		audio_stop_sound(mus_copFight);

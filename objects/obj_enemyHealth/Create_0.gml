@@ -9,7 +9,7 @@ if room = rm_tutorialFight
 }
 if room = rm_DMoneysDayOutFight
 {
-	global.enemyHP = 1500;
+	global.enemyHP = 1000;
 	global.curEnemy = "angryCop";
 }
 

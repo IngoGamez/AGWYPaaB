@@ -1,3 +1,3 @@
 event_inherited();
 
-url_open("https://www.youtube.com/@IngoGamez");
+url_open_ext("https://www.youtube.com/@IngoGamez", "_blank");

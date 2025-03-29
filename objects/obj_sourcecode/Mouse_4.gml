@@ -1,3 +1,3 @@
 event_inherited();
 
-url_open("https://github.com/IngoGamez/AGWYPaaB");
+url_open_ext("https://github.com/IngoGamez/AGWYPaaB", "_blank");

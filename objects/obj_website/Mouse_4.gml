@@ -1,3 +1,3 @@
 event_inherited();
 
-url_open("https://ingogamez.github.io")
+url_open_ext("https://ingogamez.github.io", "_blank");

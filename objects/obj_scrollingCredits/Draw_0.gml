@@ -18,8 +18,9 @@ draw_text_ext(textx, texty + lineHeight * 14,"DB - Composer", lineHeight, room_w
 draw_text_ext(textx, texty + lineHeight * 15,"VOICE ACTORS:", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight * 16,"dogdillon - Dummy", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight * 17,"Whoeverhitme - Pyro", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight * 18,"PLAY TESTERS:", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight * 19,"DB", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight * 20,"NoahJam", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight * 21,"MADE IN GAMEMAKER", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight * 22,"INSPIRED BY NEWGROUNDS.COM", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 18,"E-DubzNG - D-Money", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 19,"PLAY TESTERS:", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 20,"DB", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 21,"NoahJam", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 22,"MADE IN GAMEMAKER", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 23,"INSPIRED BY NEWGROUNDS.COM", lineHeight, room_width);

@@ -6,7 +6,6 @@
   "inheritCreationOrder":false,
   "inheritLayers":false,
   "instanceCreationOrder":[
-    {"name":"inst_62B8FA26","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
     {"name":"inst_67C55F16","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
     {"name":"inst_6C301400","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
     {"name":"inst_5D1CC617","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
@@ -14,6 +13,7 @@
     {"name":"inst_691F6AA8","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
     {"name":"inst_7D69580D","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
     {"name":"inst_40615DE5","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
+    {"name":"inst_1B44EE4A","path":"rooms/rm_DMoneysDayOutFight/rm_DMoneysDayOutFight.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -38,7 +38,7 @@
         {"$GMRSpriteGraphic":"","%Name":"graphic_28B4E857","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_28B4E857","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"spriteId":{"name":"spr_angry_faic","path":"sprites/spr_angry_faic/spr_angry_faic.yy",},"x":1056.0,"y":32.0,},
       ],"depth":300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Assets_1","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"cop","depth":400,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
-        {"$GMRInstance":"v1","%Name":"inst_62B8FA26","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_62B8FA26","objectId":{"name":"obj_angryCopBoss","path":"objects/obj_angryCopBoss/obj_angryCopBoss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.7117117,"scaleY":0.7037037,"x":544.0,"y":0.0,},
+        {"$GMRInstance":"v1","%Name":"inst_1B44EE4A","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1B44EE4A","objectId":{"name":"obj_angryCopBoss","path":"objects/obj_angryCopBoss/obj_angryCopBoss.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.7117117,"scaleY":0.7037037,"x":544.0,"y":0.0,},
       ],"layers":[],"name":"cop","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRBackgroundLayer":"","%Name":"Background","animationFPS":15.0,"animationSpeedType":0,"colour":4278232322,"depth":500,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"hspeed":0.0,"htiled":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"Background","properties":[],"resourceType":"GMRBackgroundLayer","resourceVersion":"2.0","spriteId":null,"stretch":false,"userdefinedAnimFPS":false,"userdefinedDepth":false,"visible":true,"vspeed":0.0,"vtiled":false,"x":0,"y":0,},
   ],

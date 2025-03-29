@@ -1,34 +1,29 @@
-if room = rm_prologueFIGHT{
-	if global.enemyHP = 0{
-		audio_stop_sound(mus_donutz);
-		if combatStats.rank = "terrible"
-		{
-			room_goto(rm_bucketTerribleRankScreen);
-		}
-		if combatStats.rank = "good"
-		{
-			room_goto(rm_bucketGoodRankScreen);
-		}		
-		if combatStats.rank = "perfect"
-		{
-			room_goto(rm_bucketPerfectRankScreen);
-		}
-	}
-}
-if room = rm_tutorialFight
+if global.enemyHP = 0
 {
-	if global.enemyHP = 0
+	switch(room)
 	{
-		room_goto(rm_dummyExplodesCutscene);
-		instance_deactivate_object(obj_bucket);
-		audio_stop_sound(mus_tutorial);
-	}
-}
-if room = rm_DMoneysDayOutFight
-{
-	if global.enemyHP < 1
-	{
-		room_goto(cutsceneDMoneysDayOutPostFight);
-		audio_stop_sound(mus_copFight);
+		case rm_tutorialFight:
+			audio_stop_sound(mus_tutorial);
+			room_goto(rm_dummyExplodesCutscene);
+		break;
+		case rm_prologueFIGHT:
+			audio_stop_sound(mus_donutz);
+			if combatStats.rank = "terrible"
+			{
+				room_goto(rm_bucketTerribleRankScreen);
+			}
+			if combatStats.rank = "good"
+			{
+				room_goto(rm_bucketGoodRankScreen);
+			}		
+			if combatStats.rank = "perfect"
+			{
+				room_goto(rm_bucketPerfectRankScreen);
+			}
+		break;
+		case rm_DMoneysDayOutFight:
+			room_goto(cutsceneDMoneysDayOutPostFight);
+			audio_stop_sound(mus_copFight);
+		break;
 	}
 }

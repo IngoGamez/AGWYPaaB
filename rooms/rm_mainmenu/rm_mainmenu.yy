@@ -29,9 +29,21 @@
     {"name":"inst_21A04E41","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_2B3012DE","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
     {"name":"inst_763605E1","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
+    {"name":"inst_3AB62D87","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
+    {"name":"inst_13FA8001","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
+    {"name":"inst_6D7406FE","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
+    {"name":"inst_417D3C4F","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
+    {"name":"inst_A919760","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},
   ],
   "isDnd":false,
   "layers":[
+    {"$GMRInstanceLayer":"","%Name":"buttons","depth":-1300,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
+        {"$GMRInstance":"v1","%Name":"inst_3AB62D87","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3AB62D87","objectId":{"name":"obj_youtube","path":"objects/obj_youtube/obj_youtube.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.03,"scaleY":0.03,"x":416.0,"y":640.0,},
+        {"$GMRInstance":"v1","%Name":"inst_13FA8001","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_13FA8001","objectId":{"name":"obj_discord","path":"objects/obj_discord/obj_discord.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.03,"scaleY":0.03,"x":509.0,"y":637.0,},
+        {"$GMRInstance":"v1","%Name":"inst_6D7406FE","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6D7406FE","objectId":{"name":"obj_bluesky","path":"objects/obj_bluesky/obj_bluesky.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.05,"scaleY":0.05,"x":586.0,"y":643.0,},
+        {"$GMRInstance":"v1","%Name":"inst_417D3C4F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_417D3C4F","objectId":{"name":"obj_twitter","path":"objects/obj_twitter/obj_twitter.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.15,"scaleY":0.15,"x":654.0,"y":630.0,},
+        {"$GMRInstance":"v1","%Name":"inst_A919760","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_A919760","objectId":{"name":"obj_github","path":"objects/obj_github/obj_github.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.2,"scaleY":0.2,"x":733.0,"y":633.0,},
+      ],"layers":[],"name":"buttons","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"TEST","depth":-1200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[],"layers":[],"name":"TEST","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRLayer":"","%Name":"bucket","depth":-1100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[
         {"$GMRInstanceLayer":"","%Name":"hat","depth":-1000,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[

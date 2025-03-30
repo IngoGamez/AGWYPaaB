@@ -2,7 +2,8 @@
 event_inherited();
 
 audio_play_sound(snd_mainmenu_button_click, 1, false);
-
+audio_stop_sound(mus_PORTAL1THEME);
+audio_stop_sound(mus_DMONEYLEVELTHEME);
 if chapterSelect.chapter = 0
 {
 	switch(episodeSelect.episode)

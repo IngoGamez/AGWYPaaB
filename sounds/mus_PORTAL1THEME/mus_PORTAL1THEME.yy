@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_PORTAL1THEME",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":90.12245,
+  "name":"mus_PORTAL1THEME",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Menus/LevelSelectMenu/New Level Select/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_PORTAL1THEME.mp3",
+  "type":0,
+  "volume":1.0,
+}

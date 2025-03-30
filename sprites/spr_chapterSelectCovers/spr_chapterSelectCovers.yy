@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_episodeSelectTVScreens",
+  "%Name":"spr_chapterSelectCovers",
   "bboxMode":0,
-  "bbox_bottom":293,
+  "bbox_bottom":699,
   "bbox_left":0,
-  "bbox_right":295,
+  "bbox_right":399,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,17 +12,17 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3f8a0f5a-38dd-4bd1-8eb6-96581ff0e589","name":"3f8a0f5a-38dd-4bd1-8eb6-96581ff0e589","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"2d0b2c14-b878-48b0-a801-6e3652c408d4","name":"2d0b2c14-b878-48b0-a801-6e3652c408d4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"14dc31fe-9166-4952-a78a-4e7d0903eb69","name":"14dc31fe-9166-4952-a78a-4e7d0903eb69","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"ffd06ba3-a7d1-4a11-8192-cf25d23bf18c","name":"ffd06ba3-a7d1-4a11-8192-cf25d23bf18c","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":294,
+  "height":700,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c8c6f32d-0eb8-40a7-8d8f-95a67be06045","blendMode":0,"displayName":"default","isLocked":false,"name":"c8c6f32d-0eb8-40a7-8d8f-95a67be06045","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"54c3ed9c-83f1-4a37-a9b6-e248d2b9b04c","blendMode":0,"displayName":"default","isLocked":false,"name":"54c3ed9c-83f1-4a37-a9b6-e248d2b9b04c","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_episodeSelectTVScreens",
+  "name":"spr_chapterSelectCovers",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +34,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_episodeSelectTVScreens",
+    "%Name":"spr_chapterSelectCovers",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -58,7 +58,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_episodeSelectTVScreens",
+    "name":"spr_chapterSelectCovers",
     "playback":1,
     "playbackSpeed":24.0,
     "playbackSpeedType":0,
@@ -70,11 +70,11 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f8a0f5a-38dd-4bd1-8eb6-96581ff0e589","path":"sprites/spr_episodeSelectTVScreens/spr_episodeSelectTVScreens.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cd2adc32-2a63-4b51-b8b8-c26bcc71e2f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"14dc31fe-9166-4952-a78a-4e7d0903eb69","path":"sprites/spr_chapterSelectCovers/spr_chapterSelectCovers.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"e1a7e9cf-8c8d-43d7-a0ec-a96fb7854baa","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2d0b2c14-b878-48b0-a801-6e3652c408d4","path":"sprites/spr_episodeSelectTVScreens/spr_episodeSelectTVScreens.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c6cbbf7f-0f8d-4f19-bad9-38fb40c064d7","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ffd06ba3-a7d1-4a11-8192-cf25d23bf18c","path":"sprites/spr_chapterSelectCovers/spr_chapterSelectCovers.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"922119cd-12ee-48fc-a275-7807807ce950","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -90,5 +90,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":296,
+  "width":400,
 }

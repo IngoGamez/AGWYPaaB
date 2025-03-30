@@ -1,10 +1,10 @@
 {
   "$GMSprite":"",
-  "%Name":"spr_episodeSelectTVScreens",
+  "%Name":"spr_episodeSelectCoversDMONEY",
   "bboxMode":0,
-  "bbox_bottom":293,
+  "bbox_bottom":399,
   "bbox_left":0,
-  "bbox_right":295,
+  "bbox_right":399,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -12,17 +12,16 @@
   "edgeFiltering":false,
   "For3D":false,
   "frames":[
-    {"$GMSpriteFrame":"","%Name":"3f8a0f5a-38dd-4bd1-8eb6-96581ff0e589","name":"3f8a0f5a-38dd-4bd1-8eb6-96581ff0e589","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
-    {"$GMSpriteFrame":"","%Name":"2d0b2c14-b878-48b0-a801-6e3652c408d4","name":"2d0b2c14-b878-48b0-a801-6e3652c408d4","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
+    {"$GMSpriteFrame":"","%Name":"0c118fdf-70e2-4232-8cd5-9a6745d9665d","name":"0c118fdf-70e2-4232-8cd5-9a6745d9665d","resourceType":"GMSpriteFrame","resourceVersion":"2.0",},
   ],
   "gridX":0,
   "gridY":0,
-  "height":294,
+  "height":400,
   "HTile":false,
   "layers":[
-    {"$GMImageLayer":"","%Name":"c8c6f32d-0eb8-40a7-8d8f-95a67be06045","blendMode":0,"displayName":"default","isLocked":false,"name":"c8c6f32d-0eb8-40a7-8d8f-95a67be06045","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
+    {"$GMImageLayer":"","%Name":"193dccae-510c-48e5-8586-62377feff218","blendMode":0,"displayName":"default","isLocked":false,"name":"193dccae-510c-48e5-8586-62377feff218","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
-  "name":"spr_episodeSelectTVScreens",
+  "name":"spr_episodeSelectCoversDMONEY",
   "nineSlice":null,
   "origin":0,
   "parent":{
@@ -34,7 +33,7 @@
   "resourceVersion":"2.0",
   "sequence":{
     "$GMSequence":"",
-    "%Name":"spr_episodeSelectTVScreens",
+    "%Name":"spr_episodeSelectCoversDMONEY",
     "autoRecord":true,
     "backdropHeight":768,
     "backdropImageOpacity":0.5,
@@ -50,7 +49,7 @@
     },
     "eventStubScript":null,
     "eventToFunction":{},
-    "length":2.0,
+    "length":1.0,
     "lockOrigin":false,
     "moments":{
       "$KeyframeStore<MomentsEventKeyframe>":"",
@@ -58,7 +57,7 @@
       "resourceType":"KeyframeStore<MomentsEventKeyframe>",
       "resourceVersion":"2.0",
     },
-    "name":"spr_episodeSelectTVScreens",
+    "name":"spr_episodeSelectCoversDMONEY",
     "playback":1,
     "playbackSpeed":24.0,
     "playbackSpeedType":0,
@@ -70,11 +69,8 @@
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
             {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"3f8a0f5a-38dd-4bd1-8eb6-96581ff0e589","path":"sprites/spr_episodeSelectTVScreens/spr_episodeSelectTVScreens.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"cd2adc32-2a63-4b51-b8b8-c26bcc71e2f5","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2d0b2c14-b878-48b0-a801-6e3652c408d4","path":"sprites/spr_episodeSelectTVScreens/spr_episodeSelectTVScreens.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c6cbbf7f-0f8d-4f19-bad9-38fb40c064d7","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"0c118fdf-70e2-4232-8cd5-9a6745d9665d","path":"sprites/spr_episodeSelectCoversDMONEY/spr_episodeSelectCoversDMONEY.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
+              },"Disabled":false,"id":"cb814d79-15a8-4807-b51d-9d2297b40d66","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,
@@ -90,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":296,
+  "width":400,
 }

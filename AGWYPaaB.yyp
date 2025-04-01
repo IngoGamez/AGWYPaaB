@@ -908,6 +908,7 @@
     {"id":{"name":"spr_mouse","path":"sprites/spr_mouse/spr_mouse.yy",},},
     {"id":{"name":"spr_musicTEXT","path":"sprites/spr_musicTEXT/spr_musicTEXT.yy",},},
     {"id":{"name":"spr_noHat","path":"sprites/spr_noHat/spr_noHat.yy",},},
+    {"id":{"name":"spr_obama","path":"sprites/spr_obama/spr_obama.yy",},},
     {"id":{"name":"spr_opacity","path":"sprites/spr_opacity/spr_opacity.yy",},},
     {"id":{"name":"spr_options","path":"sprites/spr_options/spr_options.yy",},},
     {"id":{"name":"spr_optionscheckBox","path":"sprites/spr_optionscheckBox/spr_optionscheckBox.yy",},},

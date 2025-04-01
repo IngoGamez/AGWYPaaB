@@ -878,6 +878,7 @@
     {"id":{"name":"spr_episodeSelectTV","path":"sprites/spr_episodeSelectTV/spr_episodeSelectTV.yy",},},
     {"id":{"name":"spr_episodeSelectTVScreens","path":"sprites/spr_episodeSelectTVScreens/spr_episodeSelectTVScreens.yy",},},
     {"id":{"name":"spr_episodeSelectTVScreensDMONEY","path":"sprites/spr_episodeSelectTVScreensDMONEY/spr_episodeSelectTVScreensDMONEY.yy",},},
+    {"id":{"name":"spr_episodeSelectTVStatic","path":"sprites/spr_episodeSelectTVStatic/spr_episodeSelectTVStatic.yy",},},
     {"id":{"name":"spr_episodeSeletcNextButton","path":"sprites/spr_episodeSeletcNextButton/spr_episodeSeletcNextButton.yy",},},
     {"id":{"name":"spr_exit_button","path":"sprites/spr_exit_button/spr_exit_button.yy",},},
     {"id":{"name":"spr_extras","path":"sprites/spr_extras/spr_extras.yy",},},

@@ -7,6 +7,9 @@
   "inheritLayers":false,
   "instanceCreationOrder":[
     {"name":"inst_3E249404","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
+    {"name":"inst_75110350","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
+    {"name":"inst_2C775841","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
+    {"name":"inst_D311CDD","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
     {"name":"inst_7D207351","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
     {"name":"inst_5026356E","path":"rooms/rm_DMoneysDayOutRoom1/rm_DMoneysDayOutRoom1.yy",},
   ],
@@ -21,6 +24,9 @@
       ],"depth":100,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"layers":[],"name":"fgShit","properties":[],"resourceType":"GMRAssetLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRInstanceLayer":"","%Name":"cars","depth":200,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
         {"$GMRInstance":"v1","%Name":"inst_3E249404","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_3E249404","objectId":{"name":"obj_DMoneysDayOutRoom1Cars","path":"objects/obj_DMoneysDayOutRoom1Cars/obj_DMoneysDayOutRoom1Cars.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-608.0,"y":384.0,},
+        {"$GMRInstance":"v1","%Name":"inst_75110350","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_75110350","objectId":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":20.0,"scaleY":1.0,"x":640.0,"y":192.0,},
+        {"$GMRInstance":"v1","%Name":"inst_2C775841","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_2C775841","objectId":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":20.0,"scaleY":0.5,"x":640.0,"y":768.0,},
+        {"$GMRInstance":"v1","%Name":"inst_D311CDD","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_D311CDD","objectId":{"name":"obj_collision","path":"objects/obj_collision/obj_collision.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":10.0,"x":32.0,"y":480.0,},
         {"$GMRInstance":"v1","%Name":"inst_7D207351","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_7D207351","objectId":{"name":"obj_warp","path":"objects/obj_warp/obj_warp.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":7.0,"x":1248.0,"y":480.0,},
       ],"layers":[],"name":"cars","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"bgShit","assets":[

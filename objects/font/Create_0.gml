@@ -1,0 +1,1 @@
+global.AGWYPaaB_font = font_add_sprite_ext(spr_font, "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz.:;,", true, 0);

@@ -13,7 +13,7 @@ if chapterSelect.chapter = 0
 			global.curChar = "bucket";
 		break;
 		case 1:
-			room_goto(rm_introcutscene_proFRAMES);
+			room_goto(cutscenePrologueIntro);
 			global.curChar = "bucket";
 		break;
 	}

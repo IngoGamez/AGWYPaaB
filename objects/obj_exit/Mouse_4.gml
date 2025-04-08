@@ -1,6 +1,6 @@
 event_inherited();
 
-room_goto(rm_mainmenu);
+room_goto(target_room);
 audio_play_sound(snd_mainmenu_button_click, 1, false);
 audio_stop_sound(mus_inTheCloset);
 if (debug_mode)

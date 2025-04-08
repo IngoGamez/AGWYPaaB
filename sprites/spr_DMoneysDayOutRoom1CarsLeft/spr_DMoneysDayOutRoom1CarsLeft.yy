@@ -41,7 +41,7 @@
   "resourceType":"GMSprite",
   "resourceVersion":"2.0",
   "sequence":{
-    "$GMSequence":"",
+    "$GMSequence":"v1",
     "%Name":"spr_DMoneysDayOutRoom1CarsLeft",
     "autoRecord":true,
     "backdropHeight":768,
@@ -77,36 +77,16 @@
     "timeUnits":1,
     "tracks":[
       {"$GMSpriteFramesTrack":"","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"$KeyframeStore<SpriteFrameKeyframe>":"","Keyframes":[
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"017b8a02-1352-4708-a96b-478ce3f9ed94","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"18b182e0-4c1e-4c50-95c9-ab2bbed17a4c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"a715a750-286b-4f97-a4b3-dfe3de8aad5b","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"27ee7ead-0624-47c5-a50d-0692d1221a11","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"f653d9a4-a941-4f50-87e7-389cd387af7c","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d48a00a0-0908-4598-8f40-d185132bb578","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"c41b2d2b-60fd-44e6-9dbe-ed9e20bfef6c","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"3c2329eb-e732-4b28-9de3-254039d1cda5","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"b953954c-b399-497b-866b-ca475944f3e7","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"c20c0a7e-dd45-49a7-9f84-0f4a13bc4073","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"bae950a8-32bb-4742-bfc2-87a0cf453fbf","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"1124edc6-f16e-4a61-885b-d29037d8227c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"32969b13-dce8-4840-9224-d1417e26ed1f","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"88a189e2-cb03-449d-9eab-a75e4ab8397f","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"5c516eef-407f-4525-bff0-c3489a407637","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"d65e3f02-b9eb-4e9f-a2c7-fed8f826260c","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee7fba2d-9dab-475b-80fc-666e136f7488","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"511fc4aa-1f4d-402b-8b93-ea9e5da94557","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
-            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{
-                "0":{"$SpriteFrameKeyframe":"","Id":{"name":"2ff247be-8825-4a54-94be-7fa5123f98c3","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},
-              },"Disabled":false,"id":"94f53a29-6b94-4bec-af4c-0ca943b3b4f9","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"017b8a02-1352-4708-a96b-478ce3f9ed94","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"18b182e0-4c1e-4c50-95c9-ab2bbed17a4c","IsCreationKey":false,"Key":0.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"a715a750-286b-4f97-a4b3-dfe3de8aad5b","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"27ee7ead-0624-47c5-a50d-0692d1221a11","IsCreationKey":false,"Key":1.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"f653d9a4-a941-4f50-87e7-389cd387af7c","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d48a00a0-0908-4598-8f40-d185132bb578","IsCreationKey":false,"Key":2.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"c41b2d2b-60fd-44e6-9dbe-ed9e20bfef6c","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"3c2329eb-e732-4b28-9de3-254039d1cda5","IsCreationKey":false,"Key":3.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"b953954c-b399-497b-866b-ca475944f3e7","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"c20c0a7e-dd45-49a7-9f84-0f4a13bc4073","IsCreationKey":false,"Key":4.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"bae950a8-32bb-4742-bfc2-87a0cf453fbf","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"1124edc6-f16e-4a61-885b-d29037d8227c","IsCreationKey":false,"Key":5.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"32969b13-dce8-4840-9224-d1417e26ed1f","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"88a189e2-cb03-449d-9eab-a75e4ab8397f","IsCreationKey":false,"Key":6.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"5c516eef-407f-4525-bff0-c3489a407637","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"d65e3f02-b9eb-4e9f-a2c7-fed8f826260c","IsCreationKey":false,"Key":7.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"ee7fba2d-9dab-475b-80fc-666e136f7488","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"511fc4aa-1f4d-402b-8b93-ea9e5da94557","IsCreationKey":false,"Key":8.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
+            {"$Keyframe<SpriteFrameKeyframe>":"","Channels":{"0":{"$SpriteFrameKeyframe":"","Id":{"name":"2ff247be-8825-4a54-94be-7fa5123f98c3","path":"sprites/spr_DMoneysDayOutRoom1CarsLeft/spr_DMoneysDayOutRoom1CarsLeft.yy",},"resourceType":"SpriteFrameKeyframe","resourceVersion":"2.0",},},"Disabled":false,"id":"94f53a29-6b94-4bec-af4c-0ca943b3b4f9","IsCreationKey":false,"Key":9.0,"Length":1.0,"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"2.0","Stretch":false,},
           ],"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"2.0",},"modifiers":[],"name":"frames","resourceType":"GMSpriteFramesTrack","resourceVersion":"2.0","spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange":null,

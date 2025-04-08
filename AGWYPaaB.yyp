@@ -1,5 +1,5 @@
 {
-  "$GMProject":"",
+  "$GMProject":"v1",
   "%Name":"AGWYPaaB",
   "AudioGroups":[
     {"$GMAudioGroup":"","%Name":"audiogroup_default","name":"audiogroup_default","resourceType":"GMAudioGroup","resourceVersion":"2.0","targets":-1,},
@@ -12,6 +12,7 @@
   },
   "defaultScriptType":1,
   "Folders":[
+    {"$GMFolder":"","%Name":"HUB","folderPath":"folders/HUB.yy","name":"HUB","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Levels","folderPath":"folders/Levels.yy","name":"Levels","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Bucket","folderPath":"folders/Levels/Bucket.yy","name":"Bucket","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Debug","folderPath":"folders/Levels/Bucket/Debug.yy","name":"Debug","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -236,6 +237,7 @@
     {"$GMFolder":"","%Name":"Tile Sets","folderPath":"folders/Unused Folders/Tile Sets.yy","name":"Tile Sets","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Timelines","folderPath":"folders/Unused Folders/Timelines.yy","name":"Timelines","resourceType":"GMFolder","resourceVersion":"2.0",},
   ],
+  "ForcedPrefabProjectReferences":[],
   "IncludedFiles":[
     {"$GMIncludedFile":"","%Name":"CHANGELOG.md","CopyToMask":-1,"filePath":"datafiles","name":"CHANGELOG.md","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
     {"$GMIncludedFile":"","%Name":"README.txt","CopyToMask":-1,"filePath":"datafiles","name":"README.txt","resourceType":"GMIncludedFile","resourceVersion":"2.0",},
@@ -245,7 +247,7 @@
   "isEcma":false,
   "LibraryEmitters":[],
   "MetaData":{
-    "IDEVersion":"2024.11.0.179",
+    "IDEVersion":"2024.13.0.190",
   },
   "name":"AGWYPaaB",
   "resources":[
@@ -479,6 +481,7 @@
     {"id":{"name":"rm_dummyExplodesCutscene","path":"rooms/rm_dummyExplodesCutscene/rm_dummyExplodesCutscene.yy",},},
     {"id":{"name":"rm_episodeSelect","path":"rooms/rm_episodeSelect/rm_episodeSelect.yy",},},
     {"id":{"name":"rm_extras","path":"rooms/rm_extras/rm_extras.yy",},},
+    {"id":{"name":"rm_hub","path":"rooms/rm_hub/rm_hub.yy",},},
     {"id":{"name":"rm_levelselect","path":"rooms/rm_levelselect/rm_levelselect.yy",},},
     {"id":{"name":"rm_levelselectDMONEY","path":"rooms/rm_levelselectDMONEY/rm_levelselectDMONEY.yy",},},
     {"id":{"name":"rm_mainmenu","path":"rooms/rm_mainmenu/rm_mainmenu.yy",},},
@@ -893,6 +896,7 @@
     {"id":{"name":"spr_gamepadY","path":"sprites/spr_gamepadY/spr_gamepadY.yy",},},
     {"id":{"name":"spr_heartsBATTLE","path":"sprites/spr_heartsBATTLE/spr_heartsBATTLE.yy",},},
     {"id":{"name":"spr_hitDaSpace","path":"sprites/spr_hitDaSpace/spr_hitDaSpace.yy",},},
+    {"id":{"name":"spr_hub","path":"sprites/spr_hub/spr_hub.yy",},},
     {"id":{"name":"spr_introWarning","path":"sprites/spr_introWarning/spr_introWarning.yy",},},
     {"id":{"name":"spr_joeNPC","path":"sprites/spr_joeNPC/spr_joeNPC.yy",},},
     {"id":{"name":"spr_knifeCombat","path":"sprites/spr_knifeCombat/spr_knifeCombat.yy",},},
@@ -1049,6 +1053,7 @@
     {"roomId":{"name":"cutsceneDMoneysDayOutOutro","path":"rooms/cutsceneDMoneysDayOutOutro/cutsceneDMoneysDayOutOutro.yy",},},
     {"roomId":{"name":"rm_chapterSelect","path":"rooms/rm_chapterSelect/rm_chapterSelect.yy",},},
     {"roomId":{"name":"cutscenePrologueIntro","path":"rooms/cutscenePrologueIntro/cutscenePrologueIntro.yy",},},
+    {"roomId":{"name":"rm_hub","path":"rooms/rm_hub/rm_hub.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

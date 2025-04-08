@@ -8,6 +8,6 @@ if mouse_check_button_pressed(mb_left)
 	}
 	else
 	{
-		room_goto(rm_mainmenu)
+		room_goto(rm_hub);
 	}
 }

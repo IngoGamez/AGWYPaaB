@@ -1,0 +1,1 @@
+audio_play_sound(snd_cutsceneBootUp, 1, false);

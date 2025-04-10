@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_cutsceneBootUp",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":8.010884,
+  "name":"snd_cutsceneBootUp",
+  "parent":{
+    "name":"cutscene",
+    "path":"folders/HUB/cutscene.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_cutsceneBootUp.WAV",
+  "type":0,
+  "volume":1.0,
+}

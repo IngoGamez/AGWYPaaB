@@ -406,6 +406,7 @@
     {"id":{"name":"obj_PlayableDMoneyDead","path":"objects/obj_PlayableDMoneyDead/obj_PlayableDMoneyDead.yy",},},
     {"id":{"name":"obj_PlayableDMoneyInCombat","path":"objects/obj_PlayableDMoneyInCombat/obj_PlayableDMoneyInCombat.yy",},},
     {"id":{"name":"obj_playerCombatIcon","path":"objects/obj_playerCombatIcon/obj_playerCombatIcon.yy",},},
+    {"id":{"name":"obj_playerHitbox","path":"objects/obj_playerHitbox/obj_playerHitbox.yy",},},
     {"id":{"name":"obj_prologue","path":"objects/obj_prologue/obj_prologue.yy",},},
     {"id":{"name":"obj_prologueIntroCutscene","path":"objects/obj_prologueIntroCutscene/obj_prologueIntroCutscene.yy",},},
     {"id":{"name":"obj_pyroNPCPROLOGUE","path":"objects/obj_pyroNPCPROLOGUE/obj_pyroNPCPROLOGUE.yy",},},

@@ -6,6 +6,6 @@ audio_stop_sound(mus_inTheCloset);
 if (debug_mode)
 {
 	room_goto(rm_debugRoom);
-	obj_bucketBody.x = 96;
-	obj_bucketBody.y = 448;
+	obj_playerHitbox.x = 96;
+	obj_playerHitbox.y = 448;
 }

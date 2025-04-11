@@ -13,8 +13,8 @@ if (global.curDialogue == 24){
 	global.canMove = true;
 	global.inDialogue = false;
 	//this is kinda a band-aid fix. bucket's visibility just doesn't update for some reason and I'm too tired to figure it out.
-	obj_bucketBody.x = 288 * 0.66666666666;
-	obj_bucketBody.y = 607 * 0.66666666666;
+	obj_playerHitbox.x = 288 * 0.66666666666;
+	obj_playerHitbox.y = 607 * 0.66666666666;
 }
 if (global.curDialogue == 31){
 	if os_browser
@@ -23,7 +23,7 @@ if (global.curDialogue == 31){
 	}
 	else
 	{
-		room_goto(rm_pyroPeanut);
+		room_goto(cutscenePyroPeanut);
 	}
 }
 if global.curDialogue = 52

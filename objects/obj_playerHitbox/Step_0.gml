@@ -9,19 +9,41 @@ if (global.canMove == true){
 
 	move_and_collide(_xinput * bucket.bucket_speed, _yinput * bucket.bucket_speed, obj_collision);
 
-	if (_xinput = -1){
-		bucket.anim = "left";
+	if global.curChar == "bucket"
+	{
+		if (_xinput = -1){
+			bucket.anim = "left";
+		}
+		else if (_xinput = 1){
+			bucket.anim = "right";
+		}
+		else if (_yinput = -1){
+			bucket.anim = "up";
+		}
+		else if (_yinput = 1){
+			bucket.anim = "down";
+		}
+		else{
+			bucket.anim = "idle";
+		}
 	}
-	else if (_xinput = 1){
-		bucket.anim = "right";
-	}
-	else if (_yinput = -1){
-		bucket.anim = "up";
-	}
-	else if (_yinput = 1){
-		bucket.anim = "down";
-	}
-	else{
-		bucket.anim = "idle";
+	if global.curChar == "d-money"
+	{
+		if (_xinput = -1){
+			PlayableDMoney.sprite_index = spr_PlayableDMoneyLeft;
+		}
+		else if (_xinput = 1){
+			PlayableDMoney.sprite_index = spr_PlayableDMoneyRight;
+		}
+		else if (_yinput = -1){
+			PlayableDMoney.sprite_index = spr_PlayableDMoneyUp;
+		}
+		else if (_yinput = 1){
+			PlayableDMoney.sprite_index = spr_PlayableDMoneyDown;
+		}
+		else
+		{
+			PlayableDMoney.sprite_index = spr_PlayableDMoneyIdle;
+		}
 	}
 }

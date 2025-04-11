@@ -16,8 +16,8 @@ if room = rm_bucketTerribleRankScreen
 		if global.curEnemy = "donut"
 		{
 			room_goto(rm_room8NODONUT);
-			obj_bucketBody.x = 570;
-			obj_bucketBody.y = 350;
+			obj_playerHitbox.x = 570;
+			obj_playerHitbox.y = 350;
 			global.canMove = true;
 		}
 	}
@@ -41,8 +41,8 @@ if room = rm_bucketGoodRankScreen
 		if global.curEnemy = "donut"
 		{
 			room_goto(rm_room8NODONUT);
-			obj_bucketBody.x = 570;
-			obj_bucketBody.y = 350;
+			obj_playerHitbox.x = 570;
+			obj_playerHitbox.y = 350;
 			global.canMove = true;
 		}
 	}
@@ -65,8 +65,8 @@ if room = rm_bucketPerfectRankScreen
 		if global.curEnemy = "donut"
 		{
 			room_goto(rm_room8NODONUT);
-			obj_bucketBody.x = 570;
-			obj_bucketBody.y = 350;
+			obj_playerHitbox.x = 570;
+			obj_playerHitbox.y = 350;
 			global.canMove = true;
 		}
 	}

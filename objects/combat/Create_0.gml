@@ -13,5 +13,5 @@ heals = 0;
 bpm = 0;
 player = "Bucket";
 enemy = "Donut";
-obj_bucketBody.x = 1500;
-obj_bucketBody.y = 1500;
+obj_playerHitbox.x = 1500;
+obj_playerHitbox.y = 1500;

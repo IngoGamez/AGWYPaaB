@@ -17,5 +17,5 @@ dialogue.add(spr_bucketDialogueIcon, "Sir...");
 dialogue.add(spr_donutDialogueIcon, "You asked for this.");
 dialogue.add(spr_bucketDialogueIcon, "   ");
 
-obj_bucketBody.x = 1500;
-obj_bucketBody.y = 1500;
+obj_playerHitbox.x = 1500;
+obj_playerHitbox.y = 1500;

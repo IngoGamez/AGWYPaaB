@@ -1,7 +1,7 @@
 event_inherited();
 
-obj_bucketBody.x = 1500;
-obj_bucketBody.y = 1500;
+obj_playerHitbox.x = 1500;
+obj_playerHitbox.y = 1500;
 
 dialogue.add(spr_bucketDialogueIcon, "  ");
 dialogue.add(spr_bucketDialogueIcon, "D-Money, it's good to see you!");

@@ -4,8 +4,8 @@ if room = rm_DMoneyExplodesRoom
 	{
 		audio_stop_sound(snd_DMoneyVendingMachineFire);
 		audio_stop_sound(mus_dmoneyGameOver);
-		PlayableDMoney.x = 64;
-		PlayableDMoney.y = 192;
+		obj_playerHitbox.x = 128;
+		obj_playerHitbox.y = 328;
 		room_goto(rm_DMoneysDayOutRoom7);
 	}
 }

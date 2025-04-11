@@ -1,0 +1,13 @@
+{
+  "$GMScript":"v1",
+  "%Name":"bucketSmoke",
+  "isCompatibility":false,
+  "isDnD":false,
+  "name":"bucketSmoke",
+  "parent":{
+    "name":"smoke",
+    "path":"folders/Player/smoke.yy",
+  },
+  "resourceType":"GMScript",
+  "resourceVersion":"2.0",
+}

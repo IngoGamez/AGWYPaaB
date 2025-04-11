@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_hub",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_hub/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,
@@ -33,6 +33,7 @@
     {"name":"inst_27032A64","path":"rooms/rm_hub/rm_hub.yy",},
     {"name":"inst_13B75F49","path":"rooms/rm_hub/rm_hub.yy",},
     {"name":"inst_3FCE45F","path":"rooms/rm_hub/rm_hub.yy",},
+    {"name":"inst_1BA1A17F","path":"rooms/rm_hub/rm_hub.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -40,6 +41,7 @@
         {"$GMRInstanceLayer":"","%Name":"Hat","depth":-1099,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
             {"$GMRInstance":"v2","%Name":"inst_69622F37","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_69622F37","objectId":{"name":"obj_bucketHat","path":"objects/obj_bucketHat/obj_bucketHat.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.6,"scaleY":0.7155556,"x":672.0,"y":736.0,},
             {"$GMRInstance":"v2","%Name":"inst_13B75F49","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_13B75F49","objectId":{"name":"PlayableDMoney","path":"objects/PlayableDMoney/PlayableDMoney.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":-1536.0,"y":192.0,},
+            {"$GMRInstance":"v2","%Name":"inst_1BA1A17F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1BA1A17F","objectId":{"name":"obj_bucketSmoke","path":"objects/obj_bucketSmoke/obj_bucketSmoke.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":672.0,"y":640.0,},
           ],"layers":[],"name":"Hat","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
         {"$GMRInstanceLayer":"","%Name":"Foot","depth":-999,"effectEnabled":true,"effectType":null,"gridX":32,"gridY":32,"hierarchyFrozen":false,"inheritLayerDepth":false,"inheritLayerSettings":false,"inheritSubLayers":true,"inheritVisibility":true,"instances":[
             {"$GMRInstance":"v2","%Name":"inst_604CD0D8","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_604CD0D8","objectId":{"name":"obj_bucketFoot","path":"objects/obj_bucketFoot/obj_bucketFoot.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":0.8298969,"scaleY":0.7147651,"x":704.0,"y":736.0,},

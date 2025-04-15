@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_combatENEMY",
+  "%Name":"obj_exitButton",
   "eventList":[],
   "managed":true,
-  "name":"obj_combatENEMY",
+  "name":"obj_exitButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/NEW combat/objects.yy",
+    "name":"Objects",
+    "path":"folders/Menus/OptionsMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_exitButton",
+    "path":"sprites/spr_exitButton/spr_exitButton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

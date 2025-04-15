@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_combatENEMY",
-  "eventList":[],
+  "%Name":"obj_combatMetadata",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_combatENEMY",
+  "name":"obj_combatMetadata",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/NEW combat/objects.yy",
+    "name":"AGWYPaaB",
+    "path":"AGWYPaaB.yyp",
   },
   "parentObjectId":null,
   "persistent":false,

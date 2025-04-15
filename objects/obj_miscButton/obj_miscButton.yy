@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_combatENEMY",
+  "%Name":"obj_miscButton",
   "eventList":[],
   "managed":true,
-  "name":"obj_combatENEMY",
+  "name":"obj_miscButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/NEW combat/objects.yy",
+    "name":"Objects",
+    "path":"folders/Menus/OptionsMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_miscButton",
+    "path":"sprites/spr_miscButton/spr_miscButton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

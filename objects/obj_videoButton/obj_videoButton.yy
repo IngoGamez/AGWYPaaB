@@ -1,13 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_combatENEMY",
-  "eventList":[],
+  "%Name":"obj_videoButton",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_combatENEMY",
+  "name":"obj_videoButton",
   "overriddenProperties":[],
   "parent":{
-    "name":"objects",
-    "path":"folders/NEW combat/objects.yy",
+    "name":"Objects",
+    "path":"folders/Menus/OptionsMenu/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +29,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_videoButton",
+    "path":"sprites/spr_videoButton/spr_videoButton.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }

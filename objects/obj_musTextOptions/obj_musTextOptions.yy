@@ -1,22 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_optionsMINUS",
+  "%Name":"obj_musTextOptions",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_optionsMINUS",
+  "name":"obj_musTextOptions",
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
     "path":"folders/Menus/OptionsMenu/Objects.yy",
   },
-  "parentObjectId":{
-    "name":"obj_button_parent",
-    "path":"objects/obj_button_parent/obj_button_parent.yy",
-  },
+  "parentObjectId":null,
   "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
@@ -35,8 +30,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_optionsNumbers",
-    "path":"sprites/spr_optionsNumbers/spr_optionsNumbers.yy",
+    "name":"spr_musicTEXT",
+    "path":"sprites/spr_musicTEXT/spr_musicTEXT.yy",
   },
   "spriteMaskId":null,
   "visible":true,

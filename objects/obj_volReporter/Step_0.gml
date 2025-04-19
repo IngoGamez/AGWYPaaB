@@ -1,4 +1,14 @@
 //there is 100% an easier way to do this but I don't give a fuck
+
+if options.curPage = 1
+{
+	image_alpha = 1;
+}
+else
+{
+	image_alpha = 0;
+}
+
 if (_id = 1)
 {
 	if settings.snd_volume = 0 image_index = 12;

@@ -3,4 +3,4 @@ scrollSpeed = 0.80;
 lineHeight = 75;
 textx = 50;
 texty = room_height;
-timer = 3047;
+timer = 3647;

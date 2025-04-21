@@ -26,6 +26,14 @@ if options.curPage = 0
 		break;
 		case 3:
 			image_alpha = 1;
+			if settings.fullscreen
+			{
+				image_index = 1
+			}
+			else
+			{
+				image_index = 0;
+			}
 		break;
 	}
 }

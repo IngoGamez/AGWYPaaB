@@ -28,4 +28,15 @@ switch(_id)
 			image_index = 0;
 		}
 	break;
+	case 3:
+		if settings.fullscreen = false
+		{
+			settings.fullscreen = true;
+			image_index = 1;
+		}
+		else
+		{
+			settings.fullscreen = false
+			image_index = 0
+		}
 }

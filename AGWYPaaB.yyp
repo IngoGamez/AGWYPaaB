@@ -381,6 +381,7 @@
     {"id":{"name":"obj_extrasMusHandler","path":"objects/obj_extrasMusHandler/obj_extrasMusHandler.yy",},},
     {"id":{"name":"obj_fade","path":"objects/obj_fade/obj_fade.yy",},},
     {"id":{"name":"obj_fpsCounterTest","path":"objects/obj_fpsCounterTest/obj_fpsCounterTest.yy",},},
+    {"id":{"name":"obj_fullscreen","path":"objects/obj_fullscreen/obj_fullscreen.yy",},},
     {"id":{"name":"obj_fullscreenToggle","path":"objects/obj_fullscreenToggle/obj_fullscreenToggle.yy",},},
     {"id":{"name":"obj_gameoverPopUpDMoney","path":"objects/obj_gameoverPopUpDMoney/obj_gameoverPopUpDMoney.yy",},},
     {"id":{"name":"obj_github","path":"objects/obj_github/obj_github.yy",},},

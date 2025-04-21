@@ -1,6 +1,7 @@
 ini_open("data/settings.ini");
 ini_write_real("settings", "snd_vol", snd_volume);
 ini_write_real("settings", "mus_vol", mus_volume);
+ini_write_real("settings", "showFPS", showFPS);
 ini_close();
 
 audio_group_set_gain(Music, mus_volume, 1);

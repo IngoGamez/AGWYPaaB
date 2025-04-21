@@ -4,6 +4,14 @@ if options.curPage = 0
 	{
 		case 1:
 			image_alpha = 1;
+			if settings.showFPS
+			{
+				image_index = 1;
+			}
+			else
+			{
+				image_index = 0;
+			}
 		break;
 		case 2:
 			image_alpha = 1;

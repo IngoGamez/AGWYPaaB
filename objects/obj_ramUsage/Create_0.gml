@@ -1,0 +1,1 @@
+ram = debug_event("DumpMemory");

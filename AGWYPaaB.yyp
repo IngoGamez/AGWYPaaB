@@ -419,6 +419,7 @@
     {"id":{"name":"obj_prologueIntroCutscene","path":"objects/obj_prologueIntroCutscene/obj_prologueIntroCutscene.yy",},},
     {"id":{"name":"obj_pyroNPCPROLOGUE","path":"objects/obj_pyroNPCPROLOGUE/obj_pyroNPCPROLOGUE.yy",},},
     {"id":{"name":"obj_pyroPeanutFRAMES","path":"objects/obj_pyroPeanutFRAMES/obj_pyroPeanutFRAMES.yy",},},
+    {"id":{"name":"obj_ramUsage","path":"objects/obj_ramUsage/obj_ramUsage.yy",},},
     {"id":{"name":"obj_RESET","path":"objects/obj_RESET/obj_RESET.yy",},},
     {"id":{"name":"obj_savedata","path":"objects/obj_savedata/obj_savedata.yy",},},
     {"id":{"name":"obj_screenshot","path":"objects/obj_screenshot/obj_screenshot.yy",},},

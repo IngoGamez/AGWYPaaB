@@ -15,4 +15,17 @@ switch(_id)
 			settings.showFPS = false;
 			image_index = 0;
 		}
+	break;
+	case 2:
+		if settings.showRam = false
+		{
+			settings.showRam = true;
+			image_index = 1;
+		}
+		else
+		{
+			settings.showRam = false;
+			image_index = 0;
+		}
+	break;
 }

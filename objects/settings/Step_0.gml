@@ -4,6 +4,7 @@ ini_write_real("settings", "mus_vol", mus_volume);
 ini_write_real("settings", "showFPS", showFPS);
 ini_write_real("settings", "showRam", showRam);
 ini_write_real("settings", "fullscreen", fullscreen);
+ini_write_real("settings", "skipIntro", skipIntro);
 ini_close();
 
 audio_group_set_gain(Music, mus_volume, 1);

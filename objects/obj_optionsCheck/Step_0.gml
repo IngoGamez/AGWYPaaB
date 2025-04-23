@@ -35,6 +35,9 @@ if options.curPage = 0
 				image_index = 0;
 			}
 		break;
+		case 4:
+			image_index = 0;
+		break;
 	}
 }
 if options.curPage = 1
@@ -50,6 +53,9 @@ if options.curPage = 1
 		case 3:
 			image_alpha = 0;
 		break;
+		case 4:
+			image_alpha = 0;
+		break;		
 	}
 }
 if options.curPage = 2
@@ -65,6 +71,9 @@ if options.curPage = 2
 		case 3:
 			image_alpha = 0;
 		break;
+		case 4:
+			image_index = 0;
+		break;
 	}
 }
 if options.curPage = 3
@@ -79,6 +88,16 @@ if options.curPage = 3
 		break;
 		case 3:
 			image_alpha = 0;
+		break;
+		case 4:
+		if settings.skipIntro
+		{
+			image_index = 1;
+		}
+		else
+		{
+			image_index = 0;
+		}
 		break;
 	}
 }

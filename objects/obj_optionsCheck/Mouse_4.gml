@@ -39,4 +39,17 @@ switch(_id)
 			settings.fullscreen = false
 			image_index = 0
 		}
+	break;
+		case 4:
+		if settings.skipIntro = false
+		{
+			settings.skipIntro = true;
+			image_index = 1;
+		}
+		else
+		{
+			settings.skipIntro = false
+			image_index = 0
+		}
+	break;
 }

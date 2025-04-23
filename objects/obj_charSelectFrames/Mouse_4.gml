@@ -1,8 +1,8 @@
 if _id = 1
 {
-	room_goto(rm_levelselect);
+	charSelect.character = "bucket";
 }
 if _id = 2
 {
-	room_goto(rm_levelselectDMONEY);
+	charSelect.character = "d-money";
 }

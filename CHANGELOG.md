@@ -9,6 +9,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Added
 - New Hub!
     - New intro cutscene when launching the game!
+- New Tab to the Options Menu: Video Settings!
+    - You can now see your FPS and Ram Usage
+    - You can now fullscreen the game.
+- New Level Select Menu!
+- New Character Select Revamp
 ## Changed
 - Version number is now on the click to play screen.
 ## Fixed

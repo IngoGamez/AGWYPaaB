@@ -1,12 +1,21 @@
 episode = 0;
 maxEpisode = 0;
 
-switch (chapterSelect.chapter)
+if global.curChar = "bucket"
 {
-	case 0:
-		maxEpisode = 1;
-	break;
-	case 1:
-		maxEpisode = 0;
-	break;
+	switch (chapterSelect.chapter)
+	{
+		case 0:
+			maxEpisode = 1;
+		break;
+	}
+}
+if global.curChar = "d-money"
+{
+	switch (chapterSelect.chapter)
+	{
+		case 0:
+			maxEpisode = 1;
+		break;
+	}
 }

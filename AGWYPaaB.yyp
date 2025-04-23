@@ -821,6 +821,7 @@
     {"id":{"name":"spr_buttonOpacity","path":"sprites/spr_buttonOpacity/spr_buttonOpacity.yy",},},
     {"id":{"name":"spr_chapterSelectBg","path":"sprites/spr_chapterSelectBg/spr_chapterSelectBg.yy",},},
     {"id":{"name":"spr_chapterSelectCovers","path":"sprites/spr_chapterSelectCovers/spr_chapterSelectCovers.yy",},},
+    {"id":{"name":"spr_chapterSelectCoversDMONEY","path":"sprites/spr_chapterSelectCoversDMONEY/spr_chapterSelectCoversDMONEY.yy",},},
     {"id":{"name":"spr_characterSelectTextButton","path":"sprites/spr_characterSelectTextButton/spr_characterSelectTextButton.yy",},},
     {"id":{"name":"spr_CharCreateBG","path":"sprites/spr_CharCreateBG/spr_CharCreateBG.yy",},},
     {"id":{"name":"spr_charCreateRain","path":"sprites/spr_charCreateRain/spr_charCreateRain.yy",},},

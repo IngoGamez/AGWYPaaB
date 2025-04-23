@@ -122,6 +122,6 @@ if (debug_mode)
 
 if !(global.curChar == "bucket")
 {
-	obj_bucketBody.x = 1500;
-	obj_bucketBody.y = 1500;
+	obj_bucketBody.x = 99999;
+	obj_bucketBody.y = 99999;
 }

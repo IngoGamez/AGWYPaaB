@@ -2,7 +2,6 @@
 
 Literally what the title says!
 
-- [Play the game on Newgrounds!](https://www.newgrounds.com/portal/view/930725)
 - [Download for desktop!](https://ingogamez.itch.io/agwypaab)
 - [Get the Soundtrack on Bandcamp!](https://ingogamezsoundteam.bandcamp.com/)
 
@@ -58,6 +57,6 @@ This is just a nerdy section for those who are curious on what software we use!
 - [Bandlab](https://www.bandlab.com/)
 - [FL Studio](https://www.image-line.com/fl-studio-download/)
 
-## Other Stuff
+## OTHER STUFF
 - [Microsoft Clipchamp](https://clipchamp.com/en/windows-video-editor/)
 - [Capcut](https://www.capcut.com/tools/desktop-video-editor?utm_medium=sem&utm_source=googleadwords_int&pid=359289&af_c_id=21157337217&adset_id=162157605753&ad_id=697948663363&placement=&keyword_name=capcut&targetid=kwd-1406970026529&matchtype=e&gad_source=1&gclid=CjwKCAjwl6-3BhBWEiwApN6_koB18TujQfsYRspsTOZDbd4a8tcfK2R_8sr7AIfhtcZqW5V3Q2PS3hoC4zYQAvD_BwE)

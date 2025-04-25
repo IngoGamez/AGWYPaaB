@@ -7,7 +7,9 @@ if (_videoStatus == 0)
 
 if (video_get_status() == video_status_closed)
 {
-	room_goto(rm_credits);	
+	room_goto(rm_hub);
+	obj_playerHitbox.x = 625;
+	obj_playerHitbox.y = 752;	
 }
 
 draw_text(1595, 1048, "Press control to skip!")

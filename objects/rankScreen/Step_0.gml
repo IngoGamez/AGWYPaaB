@@ -11,7 +11,9 @@ if room = rm_bucketTerribleRankScreen
 		audio_stop_sound(mus_bucketTerribleRankLoop);
 		if global.curEnemy = "dummy"
 		{
-			room_goto(rm_mainmenu);
+			room_goto(rm_hub);
+			obj_playerHitbox.x = 625;
+			obj_playerHitbox.y = 752;
 		}
 		if global.curEnemy = "donut"
 		{
@@ -36,7 +38,9 @@ if room = rm_bucketGoodRankScreen
 		audio_stop_sound(mus_bucketGoodRankLoop);
 		if global.curEnemy = "dummy"
 		{
-			room_goto(rm_mainmenu);
+			room_goto(rm_hub);
+			obj_playerHitbox.x = 625;
+			obj_playerHitbox.y = 752;
 		}
 		if global.curEnemy = "donut"
 		{
@@ -60,7 +64,9 @@ if room = rm_bucketPerfectRankScreen
 		audio_stop_sound(mus_bucketPerfectRankLoop);
 		if global.curEnemy = "dummy"
 		{
-			room_goto(rm_mainmenu);
+			room_goto(rm_hub);
+			obj_playerHitbox.x = 625;
+			obj_playerHitbox.y = 752;
 		}
 		if global.curEnemy = "donut"
 		{

@@ -1,1 +1,3 @@
-room_goto(rm_mainmenu);
+room_goto(rm_hub);
+obj_playerHitbox.x = 625;
+obj_playerHitbox.y = 752;

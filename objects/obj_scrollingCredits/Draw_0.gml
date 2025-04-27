@@ -1,5 +1,5 @@
 texty -= scrollSpeed;
-draw_set_font(credFont);
+draw_set_font(lol);
 draw_text_ext(textx, texty,"A GAME WHERE YOU PLAY AS A BUCKET (BETA v0.9)", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight,"A Game By IngoGamez", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight *2, "IngoGamez:", lineHeight, room_width);

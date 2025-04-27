@@ -1,16 +1,9 @@
-if room = rm_bucketTerribleRankScreen or room = rm_dmoneyTerribleRank
+if room = rm_bucketTerribleRankScreen
 {
 	terribleTimer = terribleTimer - 1
 	if terribleTimer = 0
 	{
-		if room = rm_bucketTerribleRankScreen
-		{
-			audio_play_sound(mus_bucketTerribleRankLoop, 1, true);
-		}
-		else
-		{
-			audio_play_sound(mus_dmoneyTerribleRankLoop, 1, true);
-		}
+		audio_play_sound(mus_bucketTerribleRankLoop, 1, true);
 	}
 	if keyboard_check_pressed(vk_anykey)
 	{
@@ -94,6 +87,15 @@ if room = rm_bucketPerfectRankScreen or room = rm_dmoneyPerfect
 			obj_playerHitbox.y = 350;
 			global.canMove = true;
 		}
+	}
+}
+
+if room = rm_dmoneyTerribleRank
+{
+	goodTimer = goodTimer - 1;
+	if goodTimer = 0
+	{
+		audio_play_sound(mus_dmoneyTerribleRankLoop, 1, false);
 	}
 }
 

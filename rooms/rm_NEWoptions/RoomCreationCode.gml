@@ -1,0 +1,1 @@
+np_setpresence("Changin' settings and shit", "On Options Menu", "cover", "");

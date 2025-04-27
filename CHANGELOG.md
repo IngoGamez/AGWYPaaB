@@ -14,6 +14,8 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - You can now fullscreen the game.
 - New Level Select Menu!
 - New Character Select Revamp
+- Remastered Prologue Cutscenes
+- New D-Money Rank Screens!
 ## Changed
 - Version number is now on the click to play screen.
 ## Fixed

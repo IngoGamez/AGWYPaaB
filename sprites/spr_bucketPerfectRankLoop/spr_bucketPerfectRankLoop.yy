@@ -97,7 +97,7 @@
   "origin":4,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Shared/winscreen/perfect/Sprites.yy",
+    "path":"folders/Shared/winscreen/perfect/Bucket/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

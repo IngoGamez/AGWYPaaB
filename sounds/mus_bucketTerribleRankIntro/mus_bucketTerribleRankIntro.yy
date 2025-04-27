@@ -13,7 +13,7 @@
   "name":"mus_bucketTerribleRankIntro",
   "parent":{
     "name":"Music",
-    "path":"folders/Shared/winscreen/terrible/Music.yy",
+    "path":"folders/Shared/winscreen/terrible/Bucket/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

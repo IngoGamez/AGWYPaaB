@@ -31,8 +31,8 @@
   ],
   "name":"rm_bucketPerfectRankScreen",
   "parent":{
-    "name":"perfect",
-    "path":"folders/Shared/winscreen/perfect.yy",
+    "name":"Bucket",
+    "path":"folders/Shared/winscreen/perfect/Bucket.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

@@ -31,8 +31,8 @@
   ],
   "name":"rm_bucketGoodRankScreen",
   "parent":{
-    "name":"good",
-    "path":"folders/Shared/winscreen/good.yy",
+    "name":"Bucket",
+    "path":"folders/Shared/winscreen/good/Bucket.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

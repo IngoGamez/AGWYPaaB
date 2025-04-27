@@ -13,7 +13,7 @@
   "name":"mus_bucketPerfectRankLoop",
   "parent":{
     "name":"Music",
-    "path":"folders/Shared/winscreen/perfect/Music.yy",
+    "path":"folders/Shared/winscreen/perfect/Bucket/Music.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

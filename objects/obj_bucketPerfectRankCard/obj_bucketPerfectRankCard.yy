@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Objects",
-    "path":"folders/Shared/winscreen/perfect/Objects.yy",
+    "path":"folders/Shared/winscreen/perfect/Bucket/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,

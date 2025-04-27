@@ -655,7 +655,7 @@
   "origin":4,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Shared/winscreen/terrible/Sprites.yy",
+    "path":"folders/Shared/winscreen/terrible/Bucket/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

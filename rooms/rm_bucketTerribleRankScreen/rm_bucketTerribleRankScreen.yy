@@ -31,8 +31,8 @@
   ],
   "name":"rm_bucketTerribleRankScreen",
   "parent":{
-    "name":"terrible",
-    "path":"folders/Shared/winscreen/terrible.yy",
+    "name":"Bucket",
+    "path":"folders/Shared/winscreen/terrible/Bucket.yy",
   },
   "parentRoom":null,
   "physicsSettings":{

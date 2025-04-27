@@ -22,8 +22,19 @@ if global.enemyHP = 0
 			}
 		break;
 		case rm_DMoneysDayOutFight:
-			room_goto(cutsceneDMoneysDayOutPostFight);
-			audio_stop_sound(mus_copFight);
+			audio_stop_sound(mus_copFight)
+			if combatStats.rank = "terrible"
+			{
+				room_goto(rm_dmoneyTerribleRank);
+			}
+			if combatStats.rank = "good"
+			{
+				room_goto(rm_dmoneyGoodRank);
+			}		
+			if combatStats.rank = "perfect"
+			{
+				room_goto(rm_dmoneyPerfect);
+			};
 		break;
 	}
 }

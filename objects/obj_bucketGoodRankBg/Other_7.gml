@@ -1,4 +1,14 @@
-if sprite_index = spr_bucketGoodRankBgIntro
+if room != rm_dmoneyGoodRank	
 {
-	sprite_index = spr_bucketGoodRankBg;
+	if sprite_index = spr_bucketGoodRankBgIntro
+	{
+		sprite_index = spr_bucketGoodRankBg;
+	}
+}
+else
+{
+	if sprite_index = spr_bucketGoodRankBgIntro
+	{
+		sprite_index = spr_dmoneyGoodRankBG;
+	}
 }

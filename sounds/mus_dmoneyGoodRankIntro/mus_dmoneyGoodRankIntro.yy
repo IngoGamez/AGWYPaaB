@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_dmoneyGoodRankIntro",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":38.60347,
+  "name":"mus_dmoneyGoodRankIntro",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Shared/winscreen/good/D-Money/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_dmoneyGoodRankIntro.wav",
+  "type":0,
+  "volume":1.0,
+}

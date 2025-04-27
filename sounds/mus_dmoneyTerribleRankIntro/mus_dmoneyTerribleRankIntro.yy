@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"mus_dmoneyTerribleRankIntro",
+  "audioGroupId":{
+    "name":"Music",
+    "path":"audiogroups/Music",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":82.18304,
+  "name":"mus_dmoneyTerribleRankIntro",
+  "parent":{
+    "name":"Music",
+    "path":"folders/Shared/winscreen/terrible/D-Money/Music.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"mus_dmoneyTerribleRankIntro.wav",
+  "type":0,
+  "volume":1.0,
+}

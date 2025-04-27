@@ -36,6 +36,8 @@ if room = rm_bucketGoodRankScreen or rm_dmoneyGoodRank
 	{
 		audio_play_sound(mus_dmoneyGoodRankLoop, 1, true);
 		goodTimer = 99999999;
+		audio_stop_sound(mus_dmoneyPerfectRankLoop);
+		audio_stop_sound(mus_dmoneyTerribleRankLoop);
 	}
 	if keyboard_check_pressed(vk_anykey)
 	{
@@ -68,6 +70,8 @@ if room = rm_bucketPerfectRankScreen or room = rm_dmoneyPerfect
 		if room = rm_dmoneyPerfect
 		{
 			audio_play_sound(mus_dmoneyPerfectRankLoop, 1, true);
+			audio_stop_sound(mus_dmoneyGoodRankLoop);
+			audio_stop_sound(mus_dmoneyTerribleRankLoop);
 		}
 	}
 	if keyboard_check_pressed(vk_anykey)
@@ -96,6 +100,8 @@ if room = rm_dmoneyTerribleRank
 	if goodTimer = 0
 	{
 		audio_play_sound(mus_dmoneyTerribleRankLoop, 1, false);
+		audio_stop_sound(mus_dmoneyPerfectRankLoop);
+		audio_stop_sound(mus_dmoneyGoodRankLoop);
 	}
 }
 

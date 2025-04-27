@@ -1,2 +1,2 @@
 audio_stop_sound(snd_cutscenePrologueOutro);
-room_goto(rm_scrollingCredits);
+room_goto(rm_prologueTBC);

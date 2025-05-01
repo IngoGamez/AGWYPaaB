@@ -279,6 +279,7 @@
     {"id":{"name":"README","path":"notes/README/README.yy",},},
     {"id":{"name":"API","path":"objects/API/API.yy",},},
     {"id":{"name":"bucket","path":"objects/bucket/bucket.yy",},},
+    {"id":{"name":"cameraHUB","path":"objects/cameraHUB/cameraHUB.yy",},},
     {"id":{"name":"chapterSelect","path":"objects/chapterSelect/chapterSelect.yy",},},
     {"id":{"name":"charSelect","path":"objects/charSelect/charSelect.yy",},},
     {"id":{"name":"combat","path":"objects/combat/combat.yy",},},

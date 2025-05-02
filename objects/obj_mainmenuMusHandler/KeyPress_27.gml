@@ -1,1 +1,4 @@
-game_end();
+if !(os_browser)
+{
+	game_end();
+}

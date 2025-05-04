@@ -20,6 +20,9 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Version number is now on the click to play screen.
 ## Fixed
 - Various issues with the player's hitbox.
+- Attack Animations in Combat.
+## Removed
+- Level Difficulties (They'll be reimplemented at some point lol)
 
 ## [0.8.1.-HotFix] 2025-3-29
 ### Fixed

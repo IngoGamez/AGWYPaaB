@@ -1,2 +1,1 @@
-bucketSmoke();
 np_setpresence("Walkin' Around or Something", "In The Hub", "cover", "");

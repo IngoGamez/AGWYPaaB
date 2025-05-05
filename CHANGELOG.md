@@ -14,6 +14,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - You can now fullscreen the game.
 - New Level Select Menu!
 - New Character Select Revamp
+- New Achievements!
 - Remastered Prologue Cutscenes
 - New D-Money Rank Screens!
 ## Changed
@@ -29,6 +30,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - Various links on web
 - Some credits stuff
 - Credits music not in the music audio group
+
 ## [0.8.1] 2025-3-29
 ### Added
 - Social media icons on the main menu.
@@ -42,10 +44,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.8.0] 2025-3-28
 ### Added
 - New Character Select Menu!
-    - Press Shift on the Level Select Menu!
-- New Playable Character: D-Money! This includes the following content:
-    - D-Money Level Select
-    - D-Money Pause Theme
+- New Playable Character: D-Money!
 - New Side Level: D-Money's Day Out!
 - New Dialogue System!
 - New Discord RPC Support!

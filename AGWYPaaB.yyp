@@ -639,6 +639,7 @@
     {"id":{"name":"logo_github","path":"sprites/logo_github/logo_github.yy",},},
     {"id":{"name":"logo_twitter","path":"sprites/logo_twitter/logo_twitter.yy",},},
     {"id":{"name":"logo_YouTube","path":"sprites/logo_YouTube/logo_YouTube.yy",},},
+    {"id":{"name":"spr_achievementIcons","path":"sprites/spr_achievementIcons/spr_achievementIcons.yy",},},
     {"id":{"name":"spr_AHIT","path":"sprites/spr_AHIT/spr_AHIT.yy",},},
     {"id":{"name":"spr_alert","path":"sprites/spr_alert/spr_alert.yy",},},
     {"id":{"name":"spr_angry_faic","path":"sprites/spr_angry_faic/spr_angry_faic.yy",},},

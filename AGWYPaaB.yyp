@@ -277,6 +277,7 @@
     {"id":{"name":"lol","path":"fonts/lol/lol.yy",},},
     {"id":{"name":"bucketFrames","path":"notes/bucketFrames/bucketFrames.yy",},},
     {"id":{"name":"README","path":"notes/README/README.yy",},},
+    {"id":{"name":"achievements","path":"objects/achievements/achievements.yy",},},
     {"id":{"name":"API","path":"objects/API/API.yy",},},
     {"id":{"name":"bucket","path":"objects/bucket/bucket.yy",},},
     {"id":{"name":"cameraHUB","path":"objects/cameraHUB/cameraHUB.yy",},},

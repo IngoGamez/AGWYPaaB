@@ -1,0 +1,14 @@
+ini_open("data/achievements.ini");
+has0 = ini_read_real("achievements", "has0", false);
+has1 = ini_read_real("achievements", "has1", false);
+has2 = ini_read_real("achievements", "has2", false);
+has3 = ini_read_real("achievements", "has3", false);
+has4 = ini_read_real("achievements", "has4", false);
+has5 = ini_read_real("achievements", "has5", false);
+has6 = ini_read_real("achievements", "has6", false);
+has7 = ini_read_real("achievements", "has7", false);
+has8 = ini_read_real("achievements", "has8", false);
+has9 = ini_read_real("achievements", "has9", false);
+has10 = ini_read_real("achievements", "has10", false);
+has11 = ini_read_real("achievements", "has11", false);
+ini_close();

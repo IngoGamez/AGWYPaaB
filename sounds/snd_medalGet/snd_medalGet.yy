@@ -1,0 +1,25 @@
+{
+  "$GMSound":"",
+  "%Name":"snd_medalGet",
+  "audioGroupId":{
+    "name":"Sounds",
+    "path":"audiogroups/Sounds",
+  },
+  "bitDepth":1,
+  "bitRate":128,
+  "compression":0,
+  "conversionMode":0,
+  "duration":1.3834014,
+  "name":"snd_medalGet",
+  "parent":{
+    "name":"Sounds",
+    "path":"folders/Menus/AchievementsMenu/Sounds.yy",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":44100,
+  "soundFile":"snd_medalGet.ogg",
+  "type":0,
+  "volume":1.0,
+}

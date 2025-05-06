@@ -30,7 +30,7 @@ switch (curMedal)
         }
     break;
     case 1:
-        if achievements.has0 == false
+        if achievements.has1 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -40,7 +40,7 @@ switch (curMedal)
         }
     break;
     case 2:
-        if achievements.has0 == false
+        if achievements.has2 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -50,7 +50,7 @@ switch (curMedal)
         }
     break;
     case 3:
-        if achievements.has0 == false
+        if achievements.has3 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -60,7 +60,7 @@ switch (curMedal)
         }
     break;
     case 4:
-        if achievements.has0 == false
+        if achievements.has4 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -70,7 +70,7 @@ switch (curMedal)
         }
     break;
     case 5:
-        if achievements.has0 == false
+        if achievements.has5 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -80,7 +80,7 @@ switch (curMedal)
         }
     break;
     case 6:
-        if achievements.has0 == false
+        if achievements.has6 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -90,7 +90,7 @@ switch (curMedal)
         }
     break;
     case 7:
-        if achievements.has0 == false
+        if achievements.has7 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -100,7 +100,7 @@ switch (curMedal)
         }
     break;
     case 8:
-        if achievements.has0 == false
+        if achievements.has8 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -110,7 +110,7 @@ switch (curMedal)
         }
     break;
     case 9:
-        if achievements.has0 == false
+        if achievements.has9 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -120,7 +120,7 @@ switch (curMedal)
         }
     break;
     case 10:
-        if achievements.has0 == false
+        if achievements.has10 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }
@@ -130,7 +130,7 @@ switch (curMedal)
         }
     break;
     case 11:
-        if achievements.has0 == false
+        if achievements.has11 == false
         {
             sprite_index = spr_achievementIconsLOCKED;
         }

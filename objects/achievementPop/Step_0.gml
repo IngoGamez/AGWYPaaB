@@ -49,3 +49,25 @@ if canPop
         break;
     }
 }
+if canPop
+{
+    image_index = target_achievement;
+    depth = -99999;
+    image_speed = 0;
+    if timer > 0
+    {
+        x = 404;
+        y = 408
+        image_alpha = 1;
+    }
+    if timer < 0
+    {
+        x = 999999;
+        y = 999999;
+    }
+    if image_alpha = 0
+    {
+        audio_play_sound(snd_medalDisappear, 1, false);
+        canPop = false;    
+    }
+}

@@ -4,7 +4,7 @@ if canPop
 }
 if !canPop
 {
-    timer = 50;
+    timer = 100;
 }
 
 if canPop

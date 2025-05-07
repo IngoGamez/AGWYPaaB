@@ -12,3 +12,8 @@ ini_write_real("achievements", "has9", has9);
 ini_write_real("achievements", "has10", has10);
 ini_write_real("achievements", "has11", has11);
 ini_close();
+
+if keyboard_check_pressed(vk_f6)
+{
+    has0 = false;
+}

@@ -15,5 +15,5 @@ ini_close();
 
 if keyboard_check_pressed(vk_f6)
 {
-    has0 = false;
+    has1 = false;
 }

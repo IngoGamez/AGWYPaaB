@@ -2,6 +2,7 @@ if canPop
 {
 
     draw_sprite(spr_medalGet, 0, 404, 480);
+    depth = -99999;
     image_speed = 0;
     image_index = target_achievement;
     if timer > 0
@@ -10,7 +11,7 @@ if canPop
     }
     if timer < 0
     {
-        image_alpha = image_alpha - 0.1;
+        image_alpha = image_alpha - 0.01;
     }
     if image_alpha = 0
     {

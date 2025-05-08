@@ -11,6 +11,7 @@
     {"name":"inst_6470197B","path":"rooms/rm_prologueDialogueDmoney/rm_prologueDialogueDmoney.yy",},
     {"name":"inst_89DDD27","path":"rooms/rm_prologueDialogueDmoney/rm_prologueDialogueDmoney.yy",},
     {"name":"inst_1336681F","path":"rooms/rm_prologueDialogueDmoney/rm_prologueDialogueDmoney.yy",},
+    {"name":"inst_A4FFE49","path":"rooms/rm_prologueDialogueDmoney/rm_prologueDialogueDmoney.yy",},
   ],
   "isDnd":false,
   "layers":[
@@ -20,6 +21,7 @@
         {"$GMRInstance":"v2","%Name":"inst_6470197B","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_6470197B","objectId":{"name":"obj_buildabucketbody","path":"objects/obj_buildabucketbody/obj_buildabucketbody.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":576.0,},
         {"$GMRInstance":"v2","%Name":"inst_89DDD27","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_89DDD27","objectId":{"name":"obj_buildabucketFace","path":"objects/obj_buildabucketFace/obj_buildabucketFace.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":576.0,},
         {"$GMRInstance":"v2","%Name":"inst_1336681F","colour":4294967295,"frozen":false,"hasCreationCode":false,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_1336681F","objectId":{"name":"obj_buildabucketHat","path":"objects/obj_buildabucketHat/obj_buildabucketHat.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":192.0,"y":576.0,},
+        {"$GMRInstance":"v2","%Name":"inst_A4FFE49","colour":4294967295,"frozen":false,"hasCreationCode":true,"ignore":false,"imageIndex":0,"imageSpeed":1.0,"inheritCode":false,"inheritedItemId":null,"inheritItemSettings":false,"isDnd":false,"name":"inst_A4FFE49","objectId":{"name":"achievementPop","path":"objects/achievementPop/achievementPop.yy",},"properties":[],"resourceType":"GMRInstance","resourceVersion":"2.0","rotation":0.0,"scaleX":1.0,"scaleY":1.0,"x":0.0,"y":0.0,},
       ],"layers":[],"name":"Instances","properties":[],"resourceType":"GMRInstanceLayer","resourceVersion":"2.0","userdefinedDepth":false,"visible":true,},
     {"$GMRAssetLayer":"","%Name":"Assets_1","assets":[
         {"$GMRSpriteGraphic":"v1","%Name":"graphic_24638962","animationSpeed":1.0,"colour":4294967295,"frozen":false,"headPosition":0.0,"ignore":false,"inheritedItemId":null,"inheritItemSettings":false,"name":"graphic_24638962","resourceType":"GMRSpriteGraphic","resourceVersion":"2.0","rotation":0.0,"scaleX":1.08,"scaleY":1.2844445,"spriteId":{"name":"spr_PlayableDMoneyIdle","path":"sprites/spr_PlayableDMoneyIdle/spr_PlayableDMoneyIdle.yy",},"x":1184.0,"y":530.0,},

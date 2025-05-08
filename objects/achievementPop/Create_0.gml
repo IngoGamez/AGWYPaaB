@@ -13,3 +13,15 @@ if room = rm_room8NODONUT
 {
     target_achievement = 2;
 }
+if room = rm_prologueDialogueDmoney
+{
+    target_achievement = 3;
+}
+if room = cutscenePyroPeanut
+{
+    target_achievement = 4;
+}
+if room = rm_prologueTBC
+{
+    target_achievement = 5;
+}

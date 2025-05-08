@@ -9,3 +9,7 @@ if room = rm_bucket_dead
 {
     target_achievement = 1;
 }
+if room = rm_room8NODONUT
+{
+    target_achievement = 2;
+}

@@ -1,7 +1,7 @@
 {
   "$GMRoom":"v1",
   "%Name":"rm_bucketPerfectRankScreen",
-  "creationCodeFile":"",
+  "creationCodeFile":"rooms/rm_bucketPerfectRankScreen/RoomCreationCode.gml",
   "inheritCode":false,
   "inheritCreationOrder":false,
   "inheritLayers":false,

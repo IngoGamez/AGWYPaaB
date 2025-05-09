@@ -290,6 +290,7 @@
     {"id":{"name":"cursor","path":"objects/cursor/cursor.yy",},},
     {"id":{"name":"episodeSelect","path":"objects/episodeSelect/episodeSelect.yy",},},
     {"id":{"name":"font","path":"objects/font/font.yy",},},
+    {"id":{"name":"hubHUD","path":"objects/hubHUD/hubHUD.yy",},},
     {"id":{"name":"metadata","path":"objects/metadata/metadata.yy",},},
     {"id":{"name":"ob_bucketSkinData","path":"objects/ob_bucketSkinData/ob_bucketSkinData.yy",},},
     {"id":{"name":"obj_achievementIcons","path":"objects/obj_achievementIcons/obj_achievementIcons.yy",},},

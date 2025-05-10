@@ -5,6 +5,7 @@ if canPop
 if !canPop
 {
     timer = 100;
+    x = 99999999;
 }
 
 if canPop
@@ -65,7 +66,7 @@ if canPop
         x = 999999;
         y = 999999;
     }
-    if image_alpha = 0
+    if timer = 0
     {
         audio_play_sound(snd_medalDisappear, 1, false);
         canPop = false;    

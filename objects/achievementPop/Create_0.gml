@@ -25,3 +25,11 @@ if room = rm_prologueTBC
 {
     target_achievement = 5;
 }
+if room = cutscenePrologueOutro
+{
+    target_achievement = 6;
+}
+if room = rm_hub && global.curChar = "bucket"
+{
+    target_achievement = 7
+}

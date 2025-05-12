@@ -31,5 +31,21 @@ if room = cutscenePrologueOutro
 }
 if room = rm_hub && global.curChar = "bucket"
 {
-    target_achievement = 7
+    target_achievement = 7;
+}
+if room = rm_DMoneyExplodesRoom
+{
+    target_achievement = 8;
+}
+if room = cutsceneDMoneysDayOutPostFight
+{
+    target_achievement = 9;
+}
+if room = cutsceneDMoneysDayOutOutro
+{
+    target_achievement = 10;
+}
+if room = rm_hub && global.curChar = "d-money"
+{
+    target_achievement = 11;
 }

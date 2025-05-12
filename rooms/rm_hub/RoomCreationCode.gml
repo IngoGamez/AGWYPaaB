@@ -4,3 +4,9 @@ if !achievements.has7 && achievements.has0 && achievements.has1 && achievements.
     audio_play_sound(snd_medalGet, 1, false);
     achievementPop.canPop = true;
 }
+
+if !achievements.has11 && achievements.has8 && achievements.has9 && achievements.has10 && global.curChar == "d-money"
+{
+    audio_play_sound(snd_medalGet, 1, false);
+    achievementPop.canPop = true;    
+}

@@ -4,7 +4,7 @@ if room = rm_prologueFIGHT{
 }
 if room = rm_tutorialFight
 {
-	global.enemyHP = 500;
+	global.enemyHP = 500
 	global.curEnemy = "dummy";
 }
 if room = rm_DMoneysDayOutFight

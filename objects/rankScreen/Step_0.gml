@@ -1,5 +1,7 @@
 if room = rm_bucketTerribleRankScreen
 {
+    audio_stop_sound(mus_dmoneyTerribleRankIntro);
+    audio_stop_sound(mus_dmoneyTerribleRankLoop);
 	terribleTimer = terribleTimer - 1
 	if terribleTimer = 0
 	{
@@ -24,20 +26,13 @@ if room = rm_bucketTerribleRankScreen
 		}
 	}
 }
-if room = rm_bucketGoodRankScreen or rm_dmoneyGoodRank
+if room = rm_bucketGoodRankScreen
 {
 	goodTimer = goodTimer - 1
-	if goodTimer < 0 & room = rm_bucketGoodRankScreen
+	if goodTimer < 0
 	{
 		audio_play_sound(mus_bucketGoodRankLoop, 1, true);
 		goodTimer = 99999999;
-	}
-	if goodTimer < 0 & room = rm_dmoneyGoodRank
-	{
-		audio_play_sound(mus_dmoneyGoodRankLoop, 1, true);
-		goodTimer = 99999999;
-		audio_stop_sound(mus_dmoneyPerfectRankLoop);
-		audio_stop_sound(mus_dmoneyTerribleRankLoop);
 	}
 	if keyboard_check_pressed(vk_anykey)
 	{
@@ -58,7 +53,23 @@ if room = rm_bucketGoodRankScreen or rm_dmoneyGoodRank
 		}
 	}
 }
-if room = rm_bucketPerfectRankScreen or room = rm_dmoneyPerfect
+if room = rm_dmoneyGoodRank
+{
+	goodTimer = goodTimer - 1
+	if goodTimer < 0 & room = rm_dmoneyGoodRank
+	{
+		audio_play_sound(mus_dmoneyGoodRankLoop, 1, true);
+		goodTimer = 99999999;
+		audio_stop_sound(mus_dmoneyPerfectRankLoop);
+		audio_stop_sound(mus_dmoneyTerribleRankLoop);
+	}
+	if keyboard_check_pressed(vk_anykey)
+	{
+		audio_stop_sound(mus_dmoneyGoodRankIntro); 
+		audio_stop_sound(mus_dmoneyGoodRankLoop);
+    }
+}
+if room = rm_bucketPerfectRankScreen
 {
 	perfectTimer = perfectTimer - 1
 	if perfectTimer = 0
@@ -66,12 +77,6 @@ if room = rm_bucketPerfectRankScreen or room = rm_dmoneyPerfect
 		if room = rm_bucketPerfectRankScreen
 		{
 			audio_play_sound(mus_bucketPerfectRankLoop, 1, true);
-		}
-		if room = rm_dmoneyPerfect
-		{
-			audio_play_sound(mus_dmoneyPerfectRankLoop, 1, true);
-			audio_stop_sound(mus_dmoneyGoodRankLoop);
-			audio_stop_sound(mus_dmoneyTerribleRankLoop);
 		}
 	}
 	if keyboard_check_pressed(vk_anykey)
@@ -91,6 +96,23 @@ if room = rm_bucketPerfectRankScreen or room = rm_dmoneyPerfect
 			obj_playerHitbox.y = 350;
 			global.canMove = true;
 		}
+	}
+}
+
+if room = rm_dmoneyPerfect
+{
+	perfectTimer = perfectTimer - 1
+	if perfectTimer = 0
+	{
+		if room = rm_dmoneyPerfect
+		{
+			audio_play_sound(mus_dmoneyPerfectRankLoop, 1, true);
+		}
+	}
+	if keyboard_check_pressed(vk_anykey)
+	{
+		audio_stop_sound(mus_dmoneyPerfectRankIntro) 
+		audio_stop_sound(mus_dmoneyPerfectRankLoop)
 	}
 }
 

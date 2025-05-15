@@ -26,3 +26,7 @@ if global.curFace = "ice"
 {
 	sprite_index = spr_bucketidleface_ice;
 }
+if global.curFace = "donut"
+{
+    sprite_index = spr_bucketidleface_donut;
+}

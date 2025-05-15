@@ -4,7 +4,7 @@ if obj_charCreateCurtain.isChanging = false
 {
 if _id = "face"
 {
-	if obj_BABFACESELECT.image_index = 6
+	if obj_BABFACESELECT.image_index = 7
 	{
 		audio_play_sound(snd_curtain, 1, false);
 		obj_charCreateCurtain.isChanging = true;
@@ -19,7 +19,7 @@ if _id = "face"
 }
 if _id = "body"
 {
-	if obj_BABBODYSELECT.image_index = 7
+	if obj_BABBODYSELECT.image_index = 8
 	{
 		audio_play_sound(snd_curtain, 1, false);
 		obj_charCreateCurtain.isChanging = true;
@@ -34,7 +34,7 @@ if _id = "body"
 }
 if _id = "legs"
 {
-	if obj_BABLEGSSELECT.image_index = 6
+	if obj_BABLEGSSELECT.image_index = 7
 	{
 		audio_play_sound(snd_curtain, 1, false);
 		obj_charCreateCurtain.isChanging = true;

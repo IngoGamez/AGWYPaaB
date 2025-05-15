@@ -183,3 +183,26 @@ if global.curBody = "cane"
 		sprite_index = spr_bucketupbody_cane;
 	}
 }
+if global.curBody = "donut"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidlebody_donut;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownbody_donut;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftbody_donut;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightbody_donut;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupbody_donut;
+	}
+}

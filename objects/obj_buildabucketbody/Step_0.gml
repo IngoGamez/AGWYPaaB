@@ -30,3 +30,7 @@ if global.curBody = "cane"
 {
 	sprite_index = spr_bucketidlebody_cane;
 }
+if global.curBody = "donut"
+{
+    sprite_index = spr_bucketidlebody_donut;
+}

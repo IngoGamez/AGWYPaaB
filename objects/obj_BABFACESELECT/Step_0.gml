@@ -26,6 +26,10 @@ if image_index = 6
 {
 	global.curFace = "ice";
 }
+if image_index = 7
+{
+    global.curFace = "donut";
+}
 if global.curFace = "default"
 {
 	image_index = 0;
@@ -53,4 +57,8 @@ if global.curFace = "whoever"
 if global.curFace = "ice"
 {
 	image_index = 6;
+}
+if global.curFace = "donut"
+{
+    image_index = 7;
 }

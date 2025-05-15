@@ -8,7 +8,7 @@ if obj_charCreateCurtain.isChanging = false
 		{
 			obj_charCreateCurtain.isChanging = true;
 			audio_play_sound(snd_curtain, 1, false);
-			obj_BABFACESELECT.image_index = 6;
+			obj_BABFACESELECT.image_index = 7;
 		}
 		else
 		{
@@ -23,7 +23,7 @@ if obj_charCreateCurtain.isChanging = false
 		{
 			audio_play_sound(snd_curtain, 1, false);
 			obj_charCreateCurtain.isChanging = true;
-			obj_BABBODYSELECT.image_index = 7;
+			obj_BABBODYSELECT.image_index = 8;
 		}
 		else
 		{
@@ -38,7 +38,7 @@ if obj_charCreateCurtain.isChanging = false
 		{
 			audio_play_sound(snd_curtain, 1, false);
 			obj_charCreateCurtain.isChanging = true;
-			obj_BABLEGSSELECT.image_index = 6;
+			obj_BABLEGSSELECT.image_index = 7;
 		}
 		else
 		{

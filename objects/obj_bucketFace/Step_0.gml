@@ -160,3 +160,26 @@ if global.curFace = "ice"
 		sprite_index = spr_bucketupface_ice;
 	}
 }
+if global.curFace = "donut"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidleface_donut;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownface_donut;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftface_donut;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightface_donut;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketupface_donut;
+	}
+}

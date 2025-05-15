@@ -160,3 +160,26 @@ if global.curLegs = "cane"
 		sprite_index = spr_bucketuplegs_cane;
 	}
 }
+if global.curLegs = "donut"
+{
+	if bucket.anim = "idle"
+	{
+		sprite_index = spr_bucketidlelegs_donut;
+	}
+	if bucket.anim = "down"
+	{
+		sprite_index = spr_bucketdownlegs_donut;
+	}
+	if bucket.anim = "left"
+	{
+		sprite_index = spr_bucketleftlegs_donut;
+	}
+	if bucket.anim = "right"
+	{
+		sprite_index = spr_bucketrightlegs_donut;
+	}
+	if bucket.anim = "up"
+	{
+		sprite_index = spr_bucketuplegs_donut;
+	}
+}

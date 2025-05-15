@@ -26,3 +26,7 @@ if global.curLegs = "cane"
 {
 	sprite_index = spr_bucketidlelegs_cane;
 }
+if global.curLegs = "donut"
+{
+    sprite_index = spr_bucketidlelegs_donut;
+}

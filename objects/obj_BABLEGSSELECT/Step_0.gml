@@ -26,6 +26,10 @@ if image_index = 6
 {
 	global.curLegs = "cane";
 }
+if image_index = 7
+{
+    global.curLegs = "donut";
+}
 if global.curLegs = "default"
 {
 	image_index = 0;
@@ -53,4 +57,8 @@ if global.curLegs = "ice"
 if global.curLegs = "cane"
 {
 	image_index = 6;
+}
+if global.curLegs = "donut"
+{
+    image_index = 7;
 }

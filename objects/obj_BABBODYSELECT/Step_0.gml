@@ -30,6 +30,10 @@ if image_index = 7
 {
 	global.curBody = "cane";
 }
+if image_index = 8
+{
+    global.curBody = "donut";
+}
 if global.curBody = "default"
 {
 	image_index = 0;
@@ -61,4 +65,8 @@ if global.curBody = "ice"
 if global.curBody = "cane"
 {
 	image_index = 7;
+}
+if global.curBody = "donut"
+{
+    image_index = 8;
 }

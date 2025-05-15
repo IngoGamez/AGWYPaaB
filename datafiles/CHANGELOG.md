@@ -5,11 +5,33 @@ All notable changes to this project will be documented in this file.
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/),
 and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0.html).
 
+## [0.9.0] 2025-5-18
+### Added
+- New Hub!
+    - New intro cutscene when launching the game!
+- New Tab to the Options Menu: Video Settings!
+    - You can now see your FPS and Ram Usage
+    - You can now fullscreen the game.
+- New Level Select Menu!
+- New Character Select Revamp!
+- New Achievements!
+- Remastered Prologue Cutscenes!
+- New D-Money Rank Screens!
+- New Donut Build a Bucket Set!
+## Changed
+- Version number is now on the click to play screen.
+## Fixed
+- Various issues with the player's hitbox.
+- Attack Animations in Combat.
+## Removed
+- Level Difficulties (They'll be reimplemented at some point lol)
+
 ## [0.8.1.-HotFix] 2025-3-29
 ### Fixed
 - Various links on web
 - Some credits stuff
 - Credits music not in the music audio group
+
 ## [0.8.1] 2025-3-29
 ### Added
 - Social media icons on the main menu.
@@ -23,10 +45,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ## [0.8.0] 2025-3-28
 ### Added
 - New Character Select Menu!
-    - Press Shift on the Level Select Menu!
-- New Playable Character: D-Money! This includes the following content:
-    - D-Money Level Select
-    - D-Money Pause Theme
+- New Playable Character: D-Money!
 - New Side Level: D-Money's Day Out!
 - New Dialogue System!
 - New Discord RPC Support!

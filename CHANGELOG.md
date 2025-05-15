@@ -13,10 +13,11 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
     - You can now see your FPS and Ram Usage
     - You can now fullscreen the game.
 - New Level Select Menu!
-- New Character Select Revamp
+- New Character Select Revamp!
 - New Achievements!
-- Remastered Prologue Cutscenes
+- Remastered Prologue Cutscenes!
 - New D-Money Rank Screens!
+- New Donut Build a Bucket Set!
 ## Changed
 - Version number is now on the click to play screen.
 ## Fixed

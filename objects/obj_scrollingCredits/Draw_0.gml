@@ -6,7 +6,7 @@ draw_text_ext(textx, texty + lineHeight *2, "IngoGamez:", lineHeight, room_width
 draw_text_ext(textx, texty + lineHeight *3, "E-DubzNG - Founder, Project Director, Programmer, Artist, Musician", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight *4, "KAD - Founder, Project Director, Programmer, Artist, Musician", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight *5, "dogdillon - Gameplay Co-Director", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight *6, "Eddie - Assistant Programmer, Level Designer", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight *6, "Papyrus78677 - Assistant Programmer", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight *7, "AGWYPaaB:", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight * 8,"DIRECTORS:", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight * 9,"E-DubzNG - Main Director", lineHeight, room_width);
@@ -31,5 +31,6 @@ draw_text_ext(textx, texty + lineHeight *27, "SPECIAL THANKS:", lineHeight, room
 draw_text_ext(textx, texty + lineHeight *28, "Tom Fulp - Creator of Newgrounds.com and E-Dubz's Main Inspiration", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight *29, "YoYo Games - Creators of GameMaker", lineHeight, room_width);
 draw_text_ext(textx, texty + lineHeight *30, "Seal - Found a bug i forgor to fix lol", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight * 31,"MADE IN GAMEMAKER", lineHeight, room_width);
-draw_text_ext(textx, texty + lineHeight * 32,"INSPIRED BY NEWGROUNDS.COM", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 31,"REND LOGO (Seen in D-Money's Day Out) belongs to RustyChroma", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 32,"MADE IN GAMEMAKER", lineHeight, room_width);
+draw_text_ext(textx, texty + lineHeight * 33,"INSPIRED BY NEWGROUNDS.COM", lineHeight, room_width);

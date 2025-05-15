@@ -37,6 +37,7 @@ Literally what the title says!
 ## Other Stuff
 - [dogdillon - Creator of D-Money and VA for Tutorial Dummy](https://twitter.com/dogdillonYT)
 - [whoeverhitme - VA for Pyro](https://youtube.com/@whoeverhitme)
+- [REND - Skull Logo in D-Money's Day Out](https://x.com/RENDFPSGAME)
 
 # SOFTWARE WE USED TO MAKE THIS GAME A REALITY
 

@@ -21,7 +21,7 @@ if round(rng) = 7{
 	draw_text_color(x, y, "Follow Our Socials! (@IngoGamez)", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 8{
-	draw_text_color(x, y, "Portal 1 Part 1 Coming  2025 Probably idk", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+	draw_text_color(x, y, "Full release 2026 probably idk", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 if round(rng) = 9{
 	draw_text_color(x, y, "i like trains", c_yellow, c_yellow, c_yellow, c_yellow, 1);
@@ -157,6 +157,15 @@ if round(rng) = 52{
 }
 if round(rng) = 53{
 	draw_text_color(x, y, "Derryl-Money was a rising star in the world of basketball", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 54{
+	draw_text_color(x, y, "lagnosisphobia people dni", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+} 
+if round(rng) = 55{
+	draw_text_color(x, y, "beans", c_yellow, c_yellow, c_yellow, c_yellow, 1);
+}
+if round(rng) = 56{
+	draw_text_color(x, y, "Full Game in Development", c_yellow, c_yellow, c_yellow, c_yellow, 1);
 }
 }
 

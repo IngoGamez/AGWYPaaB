@@ -17,6 +17,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 - New Achievements!
 - Remastered Prologue Cutscenes!
 - New D-Money Rank Screens!
+- Remastered Bucket Perfect Screen!
 - New Donut Build a Bucket Set!
 ## Changed
 - Version number is now on the click to play screen.
